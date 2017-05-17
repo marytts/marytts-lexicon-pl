@@ -2785,7 +2785,6 @@ jesteś	j ee s . t e
 warta	v aa r . t a
 jednego	j e . d n ee . g o
 srebrnika	s r e . b r ni ii . k a
-Brr!	b r r
 Ale	aa . l e
 zimno	zi ii m . n o
 Bokser	b oo . k s e r
@@ -3408,11 +3407,10 @@ od	o t
 wpływem	v b # j v ee m
 kolegów	k oo . l e g # v
 kolegów	k oo . l e k # f
-Frr!	f r r
 Leć	l ee
 w	v
 w	f
-górę!	g # r
+górę	g # r
 Prezydent	p r e . z yy . d e n d
 Prezydent	p r e . z yy . d e n t
 Aleksander	a . l e . k s aa n . d e r
@@ -3682,7 +3680,6 @@ budynek	b u . d yy . n e k
 bóg	g
 bóg	k
 zwyczajny	z v y . tSz aa j . n y
-Brrr!	b r r r
 Ale	aa . l e
 zimno	zi ii m . n o
 Legendy	l e . g ee n . d y
@@ -4606,7 +4603,7 @@ Chętnie	x # t ni ee
 pooglądałbym	p oo . o g l # d aa # o m . b y m
 telewizję	t e . l ee . v i z j
 Prrr	p r r r
-koniku!	k o . ni ii . k u
+koniku	k o . ni ii . k u
 GOPR	g oo b r
 GOPR	g oo p r
 skierował	s c j e . r oo . v a # oo w_
@@ -5066,7 +5063,6 @@ Bezsprzecznie	b e s . s p Sz ee . tSz ni e
 wygrała	v yy . g r a # aa
 drużyna	d r uu # n aa
 niebieskich	ni e . b j ee s . c i x
-Ssst!	s s s t
 Bo	b o
 nasz	n a rZ
 nasz	n a Sz
