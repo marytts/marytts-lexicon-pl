@@ -27,7 +27,7 @@ task processLexicon {
                 tsi : 'ts\\',
                 uu  : 'u',
                 y   : 'I',
-                yy  : 'y',
+                yy  : 'I',
                 zi  : 'z\\'
         ]
         destFile.withWriter('UTF-8') { writer ->
