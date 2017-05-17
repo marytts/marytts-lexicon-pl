@@ -4,3 +4,46 @@ plugins {
 
 group 'de.dfki.mary'
 version '0.1.0-SNAPSHOT'
+
+task processLexicon {
+    def srcFile = file('modules/pl/lexicon/pl.txt')
+    ext.destFile = file("$buildDir/pl.txt")
+    inputs.files srcFile
+    outputs.files destFile
+    doLast {
+        def mapping = [
+                aa  : 'a',
+                c   : 'k',
+                dzi : 'dz\\',
+                ee  : 'e',
+                gi  : 'g',
+                ii  : 'i',
+                'N_': 'N',
+                ni  : 'n\\',
+                oo  : 'o',
+                rZ  : 'Z',
+                Sz  : 'S',
+                si  : 's\\',
+                tsi : 'ts\\',
+                uu  : 'u',
+                y   : 'I',
+                yy  : 'y',
+                zi  : 'z\\'
+        ]
+        destFile.withWriter('UTF-8') { writer ->
+            srcFile.eachLine('UTF-8') { line ->
+                def (word, phonemeStr) = line.split('\t', 2)
+                def phonemes = phonemeStr.split()
+                def mappedPhonemes = phonemes.collect {
+                    mapping[it] ?: it
+                }.join('').replaceAll(~/\./, '-')
+                writer.println "$word $mappedPhonemes"
+            }
+        }
+    }
+}
+
+compileLexicon {
+    dependsOn processLexicon
+    lexiconFile = processLexicon.destFile
+}
