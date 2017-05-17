@@ -1044,8 +1044,6 @@ Erlangen	e r . l aa N_ . g e n
 stworzono	s t f o . rZ oo . n o
 algorytm	a l . g oo . r y d m
 algorytm	a l . g oo . r y t m
-MP3	m b
-MP3	m p
 Agroturystyka	a . g r o . t u . r y s . t yy . k a
 jest	j ee z d
 jest	j ee s t
