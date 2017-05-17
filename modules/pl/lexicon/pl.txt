@@ -847,7 +847,7 @@ z	s
 kamieni	k a m . j ee . ni i
 półszlachetnych	p u w . Sz l a . x ee . t n y x
 takich	t aa . c i x
-jak:	j aa k
+jak	j aa k
 agat	aa . g a d
 agat	aa . g a t
 Tomasz	t oo . m a rZ
@@ -1431,7 +1431,7 @@ Zarząd	z aa . rZ o n t
 Do	d o
 Spraw	s p r aa v
 Spraw	s p r aa f
-Cudzoziemców:	ts u . dz o . zi ee m . ts u f
+Cudzoziemców	ts u . dz o . zi ee m . ts u f
 ZdsC	s z dz
 ZdsC	s s ts
 lub	l uu b
@@ -1836,7 +1836,7 @@ oszukując	o . Sz u . k uu . j o n ts
 ludzi	l uu . dzi i
 Zapraszam	z a . p r aa . Sz a m
 wszystkich	f Sz yy s . t c i x
-zgromadzonych:	z g r o . m a . dz oo . n y x
+zgromadzonych	z g r o . m a . dz oo . n y x
 koniecznie	k o . ni ee . tSz ni e
 przyjedźcie	p Sz y . j ee . tsi tsi e
 na	n a
@@ -2301,7 +2301,7 @@ graficzne	g r a . f ii . tSz n e
 w	v
 w	f
 komputerach	k o m . p u . t ee . r a x
-to:	t oo
+to	t oo
 gif	gi ii v
 gif	gi ii f
 Maleńkie	m a . l ee ni . c j e
@@ -3885,7 +3885,6 @@ kontrwywiadzie	k o n . d r v y v . j aa . dzi e
 ten	t ee n
 dzban	dz b aa n
 ma	m aa
-:	
 W	v
 W	f
 roku	r oo . k u
@@ -3912,7 +3911,6 @@ longplayer	l o N_ k . p l ee . j e r
 bank	b aa N_ g
 bank	b aa N_ k
 splajtowal	s p l a j . t oo . v a l
-:	
 Policja	p o . l ii . ts j a
 przedwczoraj	p Sz e t f . tSz oo . r a j
 wszystkie	f Sz yy s . t c j e
@@ -4330,7 +4328,7 @@ gumpendorfersztrasse	g u m . p e n . d o r . f e r . Sz t r aa . s s e
 W	v
 W	f
 karczmie	k aa r . tSz m j e
-rybka"	r yy . p k a
+rybka	r yy . p k a
 nieznajomy	ni e z . n a . j oo . m y
 rybaka	r y . b aa . k a
 Rodzice	r o . dzi ii . ts e
@@ -4842,7 +4840,6 @@ jest	j ee s t
 podstawą	p oo t . s t a v
 podstawą	p oo t . s t a f
 wiary	v j aa . r y
-xmmm:	k s m m m
 hmmm	x m m m
 Naukowcy	n a . u . k oo f . ts y
 starają	s t aa . r a j
