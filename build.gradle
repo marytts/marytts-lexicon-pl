@@ -14,21 +14,21 @@ task processLexicon {
         def mapping = [
                 aa  : 'a',
                 c   : 'k',
-                dzi : 'dz\\',
+                dzi : 'dz`',
                 ee  : 'e',
                 gi  : 'g',
                 ii  : 'i',
                 'N_': 'N',
-                ni  : 'n\\',
+                ni  : 'n`',
                 oo  : 'o',
                 rZ  : 'Z',
                 Sz  : 'S',
-                si  : 's\\',
-                tsi : 'ts\\',
+                si  : 's`',
+                tsi : 'ts`',
                 uu  : 'u',
                 y   : 'I',
                 yy  : 'I',
-                zi  : 'z\\'
+                zi  : 'z`'
         ]
         destFile.withWriter('UTF-8') { writer ->
             srcFile.eachLine('UTF-8') { line ->

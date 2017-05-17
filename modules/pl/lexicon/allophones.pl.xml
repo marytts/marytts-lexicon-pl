@@ -20,15 +20,15 @@
     <consonant ph="dz" ctype="a" cplace="a" cvox="+"/>
     <consonant ph="tS" ctype="a" cplace="a" cvox="-"/>
     <consonant ph="dZ" ctype="a" cplace="a" cvox="+"/>
-    <consonant ph="ts\\" ctype="a" cplace="p" cvox="-"/>
-    <consonant ph="dz\\" ctype="a" cplace="p" cvox="+"/>
+    <consonant ph="ts`" ctype="a" cplace="p" cvox="-"/>
+    <consonant ph="dz`" ctype="a" cplace="p" cvox="+"/>
 
     <consonant ph="s" ctype="f" cplace="a" cvox="-"/>
     <consonant ph="z" ctype="f" cplace="a" cvox="+"/>
     <consonant ph="S" ctype="f" cplace="p" cvox="-"/>
     <consonant ph="Z" ctype="f" cplace="p" cvox="+"/>
-    <consonant ph="s\\" ctype="f" cplace="p" cvox="-"/>
-    <consonant ph="z\\" ctype="f" cplace="p" cvox="+"/>
+    <consonant ph="s`" ctype="f" cplace="p" cvox="-"/>
+    <consonant ph="z`" ctype="f" cplace="p" cvox="+"/>
     <consonant ph="f" ctype="f" cplace="b" cvox="-"/>
     <consonant ph="v" ctype="f" cplace="b" cvox="+"/>
     <consonant ph="x" ctype="f" cplace="g" cvox="-"/>
@@ -37,7 +37,7 @@
     <consonant ph="w_" ctype="l" cplace="l" cvox="+"/>
     <consonant ph="m" ctype="n" cplace="l" cvox="+"/>
     <consonant ph="n" ctype="n" cplace="a" cvox="+"/>
-    <consonant ph="n\\" ctype="n" cplace="a" cvox="+"/>
+    <consonant ph="n`" ctype="n" cplace="a" cvox="+"/>
     <consonant ph="N" ctype="n" cplace="v" cvox="+"/>
     <consonant ph="l" ctype="l" cplace="p" cvox="+"/>
     <consonant ph="r" ctype="r" cplace="a" cvox="+"/>
