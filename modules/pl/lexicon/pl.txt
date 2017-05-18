@@ -2,6 +2,8 @@ gęsi	g ee w_ . si i
 łąka	w oo N_ . k a
 W	v
 W	f
+W	v
+W	f
 opartej	o . p aa r . t e j
 na	n a
 drugiej	d r uu . gi j e j
@@ -12,8 +14,14 @@ grze	g rZ ee
 komputerowej	k o m . p u . t e . r oo . v e j
 Blitzkrieg	b l ii d s . k r j e g
 Blitzkrieg	b l ii d s . k r j e k
+Blitzkrieg	b l ii d s . k r j e g
+Blitzkrieg	b l ii d s . k r j e k
 musisz	m uu . si i rZ
 musisz	m uu . si i Sz
+musisz	m uu . si i rZ
+musisz	m uu . si i Sz
+wykazać	v y . k aa . z a dzi
+wykazać	v y . k aa . z a tsi
 wykazać	v y . k aa . z a dzi
 wykazać	v y . k aa . z a tsi
 się	si e
@@ -23,8 +31,12 @@ i	i
 błyskawicznie	b w y s . k a . v ii . tSz ni e
 reagować	r e . a . g oo . v a dzi
 reagować	r e . a . g oo . v a tsi
+reagować	r e . a . g oo . v a dzi
+reagować	r e . a . g oo . v a tsi
 na	n a
 wydarzenia	v y . d a . rZ ee . ni a
+Układ	uu . k w a d
+Układ	uu . k w a t
 Układ	uu . k w a d
 Układ	uu . k w a t
 dokrewny	d o . k r ee v . n y
@@ -33,8 +45,14 @@ wewnątrzwydzielniczy	v e v . n o n drZ . v y . dzi e l . ni ii . tSz y
 zbudowany	z b u . d o . v aa . n y
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 z	z
 z	s
+z	z
+z	s
+narządów	n a . rZ oo n . d u v
+narządów	n a . rZ oo n . d u f
 narządów	n a . rZ oo n . d u v
 narządów	n a . rZ oo n . d u f
 wewnątrzwydzielniczych	v e v . n o n drZ . v y . dzi e l . ni ii . tSz y x
@@ -52,7 +70,11 @@ Rambo	r aa m . b o
 występował	v y s . t e m . p oo . v a w
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
 zawsze	z aa . f Sz e
+w	v
+w	f
 w	v
 w	f
 wytartych	v y . t aa r . t y x
@@ -63,10 +85,14 @@ podkoszulku	p o . t k o . Sz uu l . k u
 i	i
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
 zawsze	z aa . f Sz e
 wygrał	v yy . g r a w
 wszystkie	f Sz yy s . t c j e
 pojedynki	p o . j e . d yy N_ . c i
+w	v
+w	f
 w	v
 w	f
 przeróżnych	p Sz e . r uu rZ . n y x
@@ -74,8 +100,12 @@ stylach	s t yy . l a x
 walki	v aa l . c i
 od	o d
 od	o t
+od	o d
+od	o t
 boksu	b oo . k s u
 po	p o
+dżudoW	drZ uu . d o v
+dżudoW	drZ uu . d o f
 dżudoW	drZ uu . d o v
 dżudoW	drZ uu . d o f
 raporcie	r a . p oo r . tsi e
@@ -93,12 +123,20 @@ miliona	m i l . j oo . n a
 złotych	z w oo . t y x
 w	v
 w	f
+w	v
+w	f
+sposób	s p oo . s u b
+sposób	s p oo . s u p
 sposób	s p oo . s u b
 sposób	s p oo . s u p
 nieoszczędny	ni e . o Sz . tSz ee n . d n y
 lub	l uu b
 lub	l uu p
+lub	l uu b
+lub	l uu p
 niegospodarny	ni e . g o s . p o . d aa r . n y
+W	v
+W	f
 W	v
 W	f
 tym	t y m
@@ -110,6 +148,8 @@ awanturze	a . v a n . t uu . rZ e
 na	n a
 wiejskiej	v j ee j . s c j e j
 zabawie	z a . b aa v . j e
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 przezabawna	p Sz e . z a . b aa v . n a
@@ -126,6 +166,8 @@ prosiaki	p r o . si aa . c i
 Muszę	m uu . Sz e
 nałożyć	n a . w oo . rZ y dzi
 nałożyć	n a . w oo . rZ y tsi
+nałożyć	n a . w oo . rZ y dzi
+nałożyć	n a . w oo . rZ y tsi
 na	n a
 pana	p aa . n a
 grzywnę	g rZ yy v . n e
@@ -134,6 +176,8 @@ posługiwanie	p o . s w u . gi i . v aa . ni e
 się	si e
 podrobionymi	p o . d r o . b j o . n yy . m i
 dokumentami	d o . k u . m e n . t aa . m i
+oraz	oo . r a z
+oraz	oo . r a s
 oraz	oo . r a z
 oraz	oo . r a s
 próbę	p r uu . b e
@@ -155,22 +199,32 @@ sprzedawanych	s p Sz e . d a . v aa . n y x
 ze	z e
 względów	v z g l ee n . d u v
 względów	v z g l ee n . d u f
+względów	v z g l ee n . d u v
+względów	v z g l ee n . d u f
 pozaekonomicznych	p o . z a . e . k o . n o . m ii . tSz n y x
 po	p o
 niższych	ni ii . Sz Sz y x
 cenach	ts ee . n a x
 w	v
 w	f
+w	v
+w	f
 kraju	k r aa . j u
+niż	ni ii rZ
+niż	ni ii Sz
 niż	ni ii rZ
 niż	ni ii Sz
 za	z a
 granicą	g r a . ni ii . ts o w_
 W	v
 W	f
+W	v
+W	f
 wielu	v j ee . l u
 rankingach	r a N_ . c ii N_ . g a x
 spółka	s p uu w . k a
+Warwick	v aa r . v i dz g
+Warwick	v aa r . v i ts k
 Warwick	v aa r . v i dz g
 Warwick	v aa r . v i ts k
 uchodzi	u . x oo . dzi i
@@ -179,8 +233,12 @@ za	z a
 lidera	l i . d ee . r a
 w	v
 w	f
+w	v
+w	f
 dziedzinie	dzi e . dzi ii . ni e
 produkcji	p r o . d uu . k ts i
+pieców	p j ee . ts u v
+pieców	p j ee . ts u f
 pieców	p j ee . ts u v
 pieców	p j ee . ts u f
 do	d o
@@ -188,6 +246,8 @@ obróbki	o . b r uu . p c i
 cieplnej	tsi ee . p l n e j
 metali	m e . t aa . l i
 i	i
+stopów	s t oo . p u v
+stopów	s t oo . p u f
 stopów	s t oo . p u v
 stopów	s t oo . p u f
 Ogólnopolski	o . g u l . n o . p oo l . s c i
@@ -205,6 +265,8 @@ początku	p o . tSz oo n . t k u
 maja	m aa . j a
 w	v
 w	f
+w	v
+w	f
 Łaziskach	w a . zi ii s . k a x
 Górnych	g uu r . n y x
 Ministerstwo	m i . ni i s . t ee r . s t f o
@@ -220,6 +282,8 @@ darmowe	d a r . m oo . v e
 badania	b a . d aa . ni a
 mammograficzne	m a . m m o . g r a . f ii . tSz n e
 kobietom	k o . b j ee . t o m
+w	v
+w	f
 w	v
 w	f
 fazie	f aa . zi e
@@ -240,10 +304,14 @@ wojskowych	v o j . s k oo . v y x
 założonych	z a . w o . rZ oo . n y x
 w	v
 w	f
+w	v
+w	f
 czasie	tSz aa . si e
 drugiej	d r uu . gi j e j
 wojny	v oo j . n y
 swiatowej	s f j a . t oo . v e j
+Podczas	p oo . t tSz a z
+Podczas	p oo . t tSz a s
 Podczas	p oo . t tSz a z
 Podczas	p oo . t tSz a s
 wojny	v oo j . n y
@@ -253,6 +321,10 @@ przede	p Sz ee . d e
 wszystkim	f Sz yy s . t c i m
 z	z
 z	s
+z	z
+z	s
+samochodów	s a . m o . x oo . d u v
+samochodów	s a . m o . x oo . d u f
 samochodów	s a . m o . x oo . d u v
 samochodów	s a . m o . x oo . d u f
 marki	m aa r . c i
@@ -260,9 +332,13 @@ produkowała	p r o . d u . k o . v aa . w a
 serie	s ee r . j e
 silników	si i l . ni ii . k u v
 silników	si i l . ni ii . k u f
+silników	si i l . ni ii . k u v
+silników	si i l . ni ii . k u f
 do	d o
 maszyn	m aa . Sz y n
 wojennych	v o . j ee . n n y x
+W	v
+W	f
 W	v
 W	f
 najmroczniejszych	n a j . m r o . tSz ni ee j . Sz y x
@@ -272,6 +348,8 @@ i	i
 tundry	t uu n . d r y
 nawet	n aa . v e d
 nawet	n aa . v e t
+nawet	n aa . v e d
+nawet	n aa . v e t
 najpłytsze	n a j . p w yy . t Sz e
 jeziora	j e . zi oo . r a
 i	i
@@ -279,11 +357,17 @@ rzeki	rZ ee . c i
 pozostają	p o . z o s . t aa . j o w_
 przez	p Sz e z
 przez	p Sz e s
+przez	p Sz e z
+przez	p Sz e s
 większą	v j ee N_ . k Sz o w_
+część	tSz ee w_ zi dzi
+część	tSz ee w_ si tsi
 część	tSz ee w_ zi dzi
 część	tSz ee w_ si tsi
 roku	r oo . k u
 zamarznięte	z a . m a r . z ni ee n . t e
+W	v
+W	f
 W	v
 W	f
 przypadku	p Sz y . p aa . t k u
@@ -291,8 +375,12 @@ ciąży	tsi oo w_ . rZ y
 pozamacicznej	p o . z a . m a . tsi ii . tSz n e j
 z	z
 z	s
+z	z
+z	s
 uwagi	u . v aa . gi i
 na	n a
+niemożność	ni e . m oo rZ . n o zi dzi
+niemożność	ni e . m oo rZ . n o si tsi
 niemożność	ni e . m oo rZ . n o zi dzi
 niemożność	ni e . m oo rZ . n o si tsi
 prawidłowego	p r a . v i . d w o . v ee . g o
@@ -307,9 +395,13 @@ poronienie	p o . r o . ni ee . ni e
 Jedna	j ee . d n a
 z	z
 z	s
+z	z
+z	s
 największych	n a j . v j ee N_ . k Sz y x
 firm	f ii r m
 handlowych	x a n . d l oo . v y x
+w	v
+w	f
 w	v
 w	f
 centralnej	ts e n . t r aa l . n e j
@@ -319,6 +411,8 @@ oferuje	o . f e . r uu . j e
 wyroby	v y . r oo . b y
 hutnicze	x u . t ni ii . tSz e
 dla	d l a
+potrzeb	p oo . t Sz e b
+potrzeb	p oo . t Sz e p
 potrzeb	p oo . t Sz e b
 potrzeb	p oo . t Sz e p
 budownictwa	b u . d a w . ni ii . ts t f a
@@ -338,8 +432,14 @@ kotem	k oo . t e m
 nubijskim	n u . b ii j . s c i m
 sugerując	s u . g e . r uu . j o n dz
 sugerując	s u . g e . r uu . j o n ts
+sugerując	s u . g e . r uu . j o n dz
+sugerując	s u . g e . r uu . j o n ts
 Ksiądz	k si oo n dz
 Ksiądz	k si oo n ts
+Ksiądz	k si oo n dz
+Ksiądz	k si oo n ts
+Rydzyk	r yy . dz y g
+Rydzyk	r yy . dz y k
 Rydzyk	r yy . dz y g
 Rydzyk	r yy . dz y k
 zaprosił	z a . p r oo . si i w
@@ -354,6 +454,8 @@ Lepper	l ee . p p e r
 rozmawiał	r o z . m aa v . j a w
 z	z
 z	s
+z	z
+z	s
 Rydzykiem	r y . dz yy . c j e m
 o	o
 koalicji	k o . a . l ii . ts i
@@ -362,6 +464,10 @@ pomocy	p o . m oo . ts y
 dla	d l a
 sadowników	s a . d a w . ni ii . k u v
 sadowników	s a . d a w . ni ii . k u f
+sadowników	s a . d a w . ni ii . k u v
+sadowników	s a . d a w . ni ii . k u f
+Papież	p aa . p j e rZ
+Papież	p aa . p j e Sz
 Papież	p aa . p j e rZ
 Papież	p aa . p j e Sz
 zawsze	z aa . f Sz e
@@ -373,8 +479,12 @@ starał	s t aa . r a w
 się	si e
 współkształtować	f s p u w . k Sz t a w . t oo . v a dzi
 współkształtować	f s p u w . k Sz t a w . t oo . v a tsi
+współkształtować	f s p u w . k Sz t a w . t oo . v a dzi
+współkształtować	f s p u w . k Sz t a w . t oo . v a tsi
 płaszczyznę	p w a Sz . tSz yy z . n e
 porozumienia	p o . r o . z u m . j ee . ni a
+z	z
+z	s
 z	z
 z	s
 religią	r e . l ii . gi j o w_
@@ -385,6 +495,8 @@ Przecławska	p Sz e . ts w aa . f s k a
 zajmuje	z a j . m uu . j e
 się	si e
 pedagogiką	p e . d a . g o . gi ii . k o w_
+oraz	oo . r a z
+oraz	oo . r a s
 oraz	oo . r a z
 oraz	oo . r a s
 teorią	t e . oo r . j o w_
@@ -398,8 +510,12 @@ i	i
 młodzieży	m w o . dzi ee . rZ y
 Nawet	n aa . v e d
 Nawet	n aa . v e t
+Nawet	n aa . v e d
+Nawet	n aa . v e t
 najlepsi	n a j . l ee . p si i
 stratedzy	s t r a . t ee . dz y
+nic	ni ii dz
+nic	ni ii ts
 nic	ni ii dz
 nic	ni ii ts
 by	b y
@@ -412,6 +528,8 @@ rozpierzchają	r o . s p j e . Sz x aa . j o w_
 się	si e
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
 ptaki	p t aa . c i
 ile	ii . l e
 razy	r aa . z y
@@ -420,6 +538,10 @@ do	d o
 nich	ni ii x
 podejść	p oo . d e j zi dzi
 podejść	p oo . d e j si tsi
+podejść	p oo . d e j zi dzi
+podejść	p oo . d e j si tsi
+Wypowiedź	v y . p oo v . j e dzi
+Wypowiedź	v y . p oo v . j e tsi
 Wypowiedź	v y . p oo v . j e dzi
 Wypowiedź	v y . p oo v . j e tsi
 przedstawiciela	p Sz e t . s t a . v i . tsi ee . l a
@@ -429,6 +551,8 @@ historycznym	x i s . t o . r yy . tSz n y m
 ekstremiźmie	e k s . t r e . m ii zi . m j e
 Polski	p oo l . s c i
 zabrzmiała	z a . b rZ m j aa . w a
+jak	j aa g
+jak	j aa k
 jak	j aa g
 jak	j aa k
 reprymenda	r e . p r y . m ee n . d a
@@ -444,13 +568,21 @@ granice	g r a . ni ii . ts e
 a	a
 ilość	ii . l o zi dzi
 ilość	ii . l o si tsi
+ilość	ii . l o zi dzi
+ilość	ii . l o si tsi
 zjedzonej	z j e . dz oo . n e j
+przez	p Sz e z
+przez	p Sz e s
 przez	p Sz e z
 przez	p Sz e s
 nią	ni oo w_
 wędliny	v e n . d l ii . n y
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+wprost	f p r oo z d
+wprost	f p r oo s t
 wprost	f p r oo z d
 wprost	f p r oo s t
 niewyobrażalna	ni e . v y . o . b r a . rZ aa l . n a
@@ -458,6 +590,10 @@ Dzięki	dzi ee N_ . c i
 subskrypcji	s u p s . k r yy . p ts i
 możesz	m oo . rZ e rZ
 możesz	m oo . rZ e Sz
+możesz	m oo . rZ e rZ
+możesz	m oo . rZ e Sz
+otrzymywać	o . t Sz y . m yy . v a dzi
+otrzymywać	o . t Sz y . m yy . v a tsi
 otrzymywać	o . t Sz y . m yy . v a dzi
 otrzymywać	o . t Sz y . m yy . v a tsi
 na	n a
@@ -469,12 +605,16 @@ nowości	n o . v oo si . tsi i
 oferowanych	o . f e . r o . v aa . n y x
 w	v
 w	f
+w	v
+w	f
 naszym	n aa . Sz y m
 serwisie	s e r . v ii . si e
 Ta	t aa
 eksperymentalna	e . k s p e . r y . m e n . t aa l . n a
 architektura	a r . x i . t e . k t uu . r a
 powstała	p o . f s t aa . w a
+w	v
+w	f
 w	v
 w	f
 okresie	o . k r ee . si e
@@ -485,6 +625,8 @@ seldżuckiej	s e l . drZ uu . ts c j e j
 a	a
 początkiem	p o . tSz oo n t . c j e m
 dominacji	d o . m i . n aa . ts i
+Osmanów	o s . m aa . n u v
+Osmanów	o s . m aa . n u f
 Osmanów	o s . m aa . n u v
 Osmanów	o s . m aa . n u f
 Rzeczpospolita	rZ e . tSz p o s . p o . l ii . t a
@@ -498,15 +640,25 @@ skandalu	s k a n . d aa . l u
 łóżkowego	w u Sz . k o . v ee . g o
 polityków	p o . l i . t yy . k u v
 polityków	p o . l i . t yy . k u f
+polityków	p o . l i . t yy . k u v
+polityków	p o . l i . t yy . k u f
 Samoobrony	s a . m o . o . b r oo . n y
+W	v
+W	f
 W	v
 W	f
 godzinach	g o . dzi ii . n a x
 południowych	p o . w u . d ni oo . v y x
 ksiądz	k si oo n dz
 ksiądz	k si oo n ts
+ksiądz	k si oo n dz
+ksiądz	k si oo n ts
 arcybiskup	a r . ts y . b ii s . k u b
 arcybiskup	a r . ts y . b ii s . k u p
+arcybiskup	a r . ts y . b ii s . k u b
+arcybiskup	a r . ts y . b ii s . k u p
+Stanisław	s t a . ni ii . s w a v
+Stanisław	s t a . ni ii . s w a f
 Stanisław	s t a . ni ii . s w a v
 Stanisław	s t a . ni ii . s w a f
 Gądecki	g o n . d ee . ts c i
@@ -514,12 +666,18 @@ spotkał	s p oo . t k a w
 się	si e
 z	z
 z	s
+z	z
+z	s
 księżmi	k si ee w_ . rZ m i
 seniorami	s e . ni o . r aa . m i
 zamieszkałymi	z a m . j e Sz . k a . w yy . m i
 w	v
 w	f
+w	v
+w	f
 Archidiecezji	a r . x i d . j e . ts ee . z i
+Spośród	s p oo . si r u d
+Spośród	s p oo . si r u t
 Spośród	s p oo . si r u d
 Spośród	s p oo . si r u t
 uprawiających	u . p r a v . j a . j oo n . ts y x
@@ -527,18 +685,28 @@ sztukę	Sz t uu . k e
 poetycką	p o . e . t yy . ts k o w_
 trubadurów	t r u . b a . d uu . r u v
 trubadurów	t r u . b a . d uu . r u f
+trubadurów	t r u . b a . d uu . r u v
+trubadurów	t r u . b a . d uu . r u f
 albo	aa l . b o
+spośród	s p oo . si r u d
+spośród	s p oo . si r u t
 spośród	s p oo . si r u d
 spośród	s p oo . si r u t
 dworskich	d v oo r . s c i x
 grajków	g r aa j . k u v
 grajków	g r aa j . k u f
+grajków	g r aa j . k u v
+grajków	g r aa j . k u f
 i	i
+śpiewaków	si p j e . v aa . k u v
+śpiewaków	si p j e . v aa . k u f
 śpiewaków	si p j e . v aa . k u v
 śpiewaków	si p j e . v aa . k u f
 wywodzili	v y . v o . dzi ii . l i
 się	si e
 minstrele	m i w_ . s t r ee . l e
+W	v
+W	f
 W	v
 W	f
 tamtych	t aa m . t y x
@@ -553,7 +721,11 @@ nie	ni ee
 istniało	i s . t ni aa . w o
 nic	ni ii dz
 nic	ni ii ts
+nic	ni ii dz
+nic	ni ii ts
 takiego	t a . c j ee . g o
+jak	j aa g
+jak	j aa k
 jak	j aa g
 jak	j aa k
 nadzór	n aa . d z u r
@@ -576,8 +748,12 @@ hipnotyzerzy	x i . p n o . t y . z ee . rZ y
 muszą	m uu . Sz o w_
 lubić	l uu . b i dzi
 lubić	l uu . b i tsi
+lubić	l uu . b i dzi
+lubić	l uu . b i tsi
 wieczną	v j ee . tSz n o w_
 łazęgę	w a . z ee N_ . g e
+w	v
+w	f
 w	v
 w	f
 poszukiwaniu	p o . Sz u . c i . v aa . ni u
@@ -587,8 +763,12 @@ rozwrzeszczanej	r o z . v rZ e Sz . tSz aa . n e j
 hałastryObecnie	x a . w a s . t r y . o . b ee . ts ni e
 coraz	ts oo . r a z
 coraz	ts oo . r a s
+coraz	ts oo . r a z
+coraz	ts oo . r a s
 szersze	Sz ee r . Sz e
 zastosowanie	z a s . t o . s o . v aa . ni e
+w	v
+w	f
 w	v
 w	f
 lecznictwie	l e . tSz ni ii . ts t f j e
@@ -606,15 +786,23 @@ miastem	m j aa s . t e m
 Iranu	i . r aa . n u
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 Isfahan	i . s f aa . x a n
 położony	p o . w o . rZ oo . n y
 około	o . k oo . w o
 pięćset	p j ee ni . tsi s e d
 pięćset	p j ee ni . tsi s e t
+pięćset	p j ee ni . tsi s e d
+pięćset	p j ee ni . tsi s e t
+kilometrów	c i . l o . m ee . t r u v
+kilometrów	c i . l o . m ee . t r u f
 kilometrów	c i . l o . m ee . t r u v
 kilometrów	c i . l o . m ee . t r u f
 na	n a
 południe	p o . w uu . d ni e
+od	o d
+od	o t
 od	o d
 od	o t
 Teheranu	t e . x e . r aa . n u
@@ -625,10 +813,14 @@ tego	t ee . g o
 aparatu	a . p a . r aa . t u
 uchwyt	uu . x f y d
 uchwyt	uu . x f y t
+uchwyt	uu . x f y d
+uchwyt	uu . x f y t
 montażu	m o n . t aa . rZ u
 sufitowego	s u . f i . t o . v ee . g o
 i	i
 superkrótkoogniskowy	s u . p e r . k r u . t k o . o . g ni i s . k oo . v y
+obiektyw	o . b j ee . k t y v
+obiektyw	o . b j ee . k t y f
 obiektyw	o . b j ee . k t y v
 obiektyw	o . b j ee . k t y f
 stały	s t aa . w y
@@ -641,9 +833,15 @@ poezji	p o . ee . z i
 powinni	p o . v ii . ni ni i
 wpierw	f p j ee r v
 wpierw	f p j ee r f
+wpierw	f p j ee r v
+wpierw	f p j ee r f
+zaznajomić	z a z . n a . j oo . m i dzi
+zaznajomić	z a z . n a . j oo . m i tsi
 zaznajomić	z a z . n a . j oo . m i dzi
 zaznajomić	z a z . n a . j oo . m i tsi
 się	si e
+z	z
+z	s
 z	z
 z	s
 twórczością	t f u r . tSz oo si . tsi o w_
@@ -654,13 +852,19 @@ Jedynie	j e . d yy . ni e
 przewoźnicy	p Sz e . v o zi . ni ii . ts y
 z	z
 z	s
+z	z
+z	s
 UE	uu . e
+z	z
+z	s
 z	z
 z	s
 uprawnieniem	u . p r a v . ni ee . ni e m
 do	d o
 świadczenia	si f j a . t tSz ee . ni a
 międzynarodowych	m j e n . dz y . n a . r o . d oo . v y x
+usług	uu . s w u g
+usług	uu . s w u k
 usług	uu . s w u g
 usług	uu . s w u k
 przewozowych	p Sz e . v o . z oo . v y x
@@ -671,19 +875,31 @@ prawo	p r aa . v o
 wewnątrzkrajowych	v e v . n o n tSz . k r a . j oo . v y x
 usług	uu . s w u g
 usług	uu . s w u k
+usług	uu . s w u g
+usług	uu . s w u k
 Językiem	j e w_ . z yy . c j e m
 gudżarati	g u . drZ a . r aa . t i
 posługuje	p o . s w u . g uu . j e
 się	si e
 ponad	p oo . n a d
 ponad	p oo . n a t
+ponad	p oo . n a d
+ponad	p oo . n a t
 czterdzieści	tSz t e r . dzi ee si . tsi i
+sześć	Sz ee zi dzi
+sześć	Sz ee si tsi
 sześć	Sz ee zi dzi
 sześć	Sz ee si tsi
 milionów	m i l . j oo . n u v
 milionów	m i l . j oo . n u f
+milionów	m i l . j oo . n u v
+milionów	m i l . j oo . n u f
 użytkowników	u . rZ y . t k o v . ni ii . k u v
 użytkowników	u . rZ y . t k o v . ni ii . k u f
+użytkowników	u . rZ y . t k o v . ni ii . k u v
+użytkowników	u . rZ y . t k o v . ni ii . k u f
+w	v
+w	f
 w	v
 w	f
 samych	s aa . m y x
@@ -697,9 +913,13 @@ księdzu	k si ee n . dz u
 i	i
 teraz	t ee . r a z
 teraz	t ee . r a s
+teraz	t ee . r a z
+teraz	t ee . r a s
 żadne	rZ aa . d n e
 pochlebstwa	p o . x l ee p s . t f a
 na	n a
+temat	t ee . m a d
+temat	t ee . m a t
 temat	t ee . m a d
 temat	t ee . m a t
 arcybiskupstwa	a r . ts y . b i s . k uu p s . t f a
@@ -708,6 +928,10 @@ załagodzą	z a . w a . g oo . dz o w_
 sprawy	s p r aa . v y
 Z	z
 Z	s
+Z	z
+Z	s
+iłołupków	i . w o . w uu . p k u v
+iłołupków	i . w o . w uu . p k u f
 iłołupków	i . w o . w uu . p k u v
 iłołupków	i . w o . w uu . p k u f
 karbońskich	k a r . b oo j_ . s c i x
@@ -718,13 +942,21 @@ cegłę	ts ee . g w e
 pełną	p ee w . n o w_
 oraz	oo . r a z
 oraz	oo . r a s
+oraz	oo . r a z
+oraz	oo . r a s
 około	o . k oo . w o
+dziesięć	dzi ee . si e ni dzi
+dziesięć	dzi ee . si e ni tsi
 dziesięć	dzi ee . si e ni dzi
 dziesięć	dzi ee . si e ni tsi
 procent	p r oo . ts e n d
 procent	p r oo . ts e n t
+procent	p r oo . ts e n d
+procent	p r oo . ts e n t
 cegły	ts ee . g w y
 dziurawki	dzi u . r aa f . c i
+oraz	oo . r a z
+oraz	oo . r a s
 oraz	oo . r a z
 oraz	oo . r a s
 cegły	ts ee . g w y
@@ -741,6 +973,8 @@ i	i
 nieuctwo	ni e . uu . ts t f o
 wśród	f si r uu d
 wśród	f si r uu t
+wśród	f si r uu d
+wśród	f si r uu t
 młodych	m w oo . d y x
 ludzi	l uu . dzi i
 Na	n a
@@ -749,13 +983,19 @@ Pieśni	p j ee si . ni i
 Patriotycznej	p a . t r i . j o . t yy . tSz n e j
 w	v
 w	f
+w	v
+w	f
 Biłgoraju	b i w . g o . r aa . j u
 przypomniano	p Sz y . p o m . ni aa . n o
+postać	p oo s . t a dzi
+postać	p oo s . t a tsi
 postać	p oo s . t a dzi
 postać	p oo s . t a tsi
 marszałka	m a r . Sz aa w . k a
 Józefa	j u . z ee . f a
 Piłsudskiego	p i w . s u . t s c j ee . g o
+Lekarz	l ee . k a rZ
+Lekarz	l ee . k a Sz
 Lekarz	l ee . k a rZ
 Lekarz	l ee . k a Sz
 podejrzewa	p o . d e j . rZ ee . v a
@@ -765,8 +1005,12 @@ najwrażliwszych	n a j . v r a . rZ l ii . f Sz y x
 mogło	m oo . g w o
 dojść	d oo j zi dzi
 dojść	d oo j si tsi
+dojść	d oo j zi dzi
+dojść	d oo j si tsi
 do	d o
 zapalenia	z a . p a . l ee . ni a
+w	v
+w	f
 w	v
 w	f
 obrębie	o . b r ee m . b j e
@@ -774,7 +1018,11 @@ stawu	s t aa . v u
 Trudno	t r uu . d n o
 powiedzieć	p o v . j ee . dzi e dzi
 powiedzieć	p o v . j ee . dzi e tsi
+powiedzieć	p o v . j ee . dzi e dzi
+powiedzieć	p o v . j ee . dzi e tsi
 jednoznacznie	j e . d n o z . n aa . tSz ni e
+w	v
+w	f
 w	v
 w	f
 czyjej	tSz yy . j e j
@@ -783,8 +1031,12 @@ zrodził	z r oo . dzi i w
 się	si e
 pomysł	p oo . m y z w
 pomysł	p oo . m y s w
+pomysł	p oo . m y z w
+pomysł	p oo . m y s w
 powołania	p o . v o . w aa . ni a
 pułku	p uu w . k u
+szwoleżerów	Sz f o . l e . rZ ee . r u v
+szwoleżerów	Sz f o . l e . rZ ee . r u f
 szwoleżerów	Sz f o . l e . rZ ee . r u v
 szwoleżerów	Sz f o . l e . rZ ee . r u f
 jastarniańskich	j a s . t a r . ni aa j_ . s c i x
@@ -792,8 +1044,12 @@ Czołowy	tSz o . w oo . v y
 francuski	f r a n . ts uu s . c i
 siatkarz	si aa . t k a rZ
 siatkarz	si aa . t k a Sz
+siatkarz	si aa . t k a rZ
+siatkarz	si aa . t k a Sz
 Stephane	s t e . p x aa . n e
 Antiga	a n . t ii . g a
+od	o d
+od	o t
 od	o d
 od	o t
 przyszłego	p Sz y . Sz w ee . g o
@@ -801,6 +1057,8 @@ sezonu	s e . z oo . n u
 będzie	b ee ni . dzi e
 zawodnikiem	z a . v o . d ni ii . c j e m
 Skry	s k r yy
+BełchatówW	b e w . x aa . t u v v
+BełchatówW	b e w . x aa . t u f f
 BełchatówW	b e w . x aa . t u v v
 BełchatówW	b e w . x aa . t u f f
 najmroźniejszym	n a j . m r o zi . ni ee j . Sz y m
@@ -819,7 +1077,11 @@ przy	p Sz y
 czym	tSz yy m
 już	j uu rZ
 już	j uu Sz
+już	j uu rZ
+już	j uu Sz
 podstawowy	p o t . s t a . v oo . v y
+kurs	k uu r z
+kurs	k uu r s
 kurs	k uu r z
 kurs	k uu r s
 Silvy	si ii l . v y
@@ -829,6 +1091,8 @@ się	si e
 samoczynnego	s a . m o . tSz y . n n ee . g o
 wprowadzania	f p r o . v a . dz aa . ni a
 mózgu	m uu z . g u
+w	v
+w	f
 w	v
 w	f
 stan	s t aa n
@@ -842,6 +1106,10 @@ ze	z e
 srebra	s r ee . b r a
 oraz	oo . r a z
 oraz	oo . r a s
+oraz	oo . r a z
+oraz	oo . r a s
+z	z
+z	s
 z	z
 z	s
 kamieni	k a m . j ee . ni i
@@ -850,10 +1118,16 @@ takich	t aa . c i x
 jak	j aa k
 agat	aa . g a d
 agat	aa . g a t
+agat	aa . g a d
+agat	aa . g a t
+Tomasz	t oo . m a rZ
+Tomasz	t oo . m a Sz
 Tomasz	t oo . m a rZ
 Tomasz	t oo . m a Sz
 Kręcielewski	k r e ni . tsi e . l ee . f s c i
 zdobył	z d oo . b y w
+w	v
+w	f
 w	v
 w	f
 Brunszwiku	b r u w_ . Sz f ii . k u
@@ -862,14 +1136,22 @@ medal	m ee . d a l
 otwartych	o . t f aa r . t y x
 mistrzostw	m ii s . t Sz o z d v
 mistrzostw	m ii s . t Sz o s t f
+mistrzostw	m ii s . t Sz o z d v
+mistrzostw	m ii s . t Sz o s t f
 Niemiec	ni ee m . j e dz
 Niemiec	ni ee m . j e ts
+Niemiec	ni ee m . j e dz
+Niemiec	ni ee m . j e ts
+w	v
+w	f
 w	v
 w	f
 judo	drZ uu . d o
 Kucharka	k u . x aa r . k a
 wstawała	f s t a . v aa . w a
 najrychlej	n a j . r yy . x l e j
+z	z
+z	s
 z	z
 z	s
 całej	ts aa . w e j
@@ -883,6 +1165,8 @@ mięsa	m j ee w_ . s a
 na	n a
 rosołek	r o . s oo . w e g
 rosołek	r o . s oo . w e k
+rosołek	r o . s oo . w e g
+rosołek	r o . s oo . w e k
 dla	d l a
 dziedziczki	dzi e . dzi ii . tSz c i
 Najciekawszą	n a j . tsi e . k aa . f Sz o w_
@@ -890,11 +1174,19 @@ propozycją	p r o . p o . z yy . ts j o w_
 festiwalu	f e s . t i . v aa . l u
 filmów	f ii l . m u v
 filmów	f ii l . m u f
+filmów	f ii l . m u v
+filmów	f ii l . m u f
 azerbejdżańskich	a . z e r . b e j . drZ aa j_ . s c i x
 był	b yy w
 magiczny	m a . gi ii . tSz n y
 Ujeżdżacz	u . j ee rZ . drZ a drZ
 Ujeżdżacz	u . j ee rZ . drZ a tSz
+Ujeżdżacz	u . j ee rZ . drZ a drZ
+Ujeżdżacz	u . j ee rZ . drZ a tSz
+smoków	s m oo . k u v
+smoków	s m oo . k u f
+smoków	s m oo . k u v
+smoków	s m oo . k u f
 Deklaracji	d e . k l a . r aa . ts i
 Stuttgardzkiej	s t u t d . g aa r ts . c j e j
 Rady	r aa . d y
@@ -903,7 +1195,11 @@ wyraźnie	v y . r aa zi . ni e
 zadeklarowano	z a . d e . k l a . r o . v aa . n o
 chęć	x ee ni dzi
 chęć	x ee ni tsi
+chęć	x ee ni dzi
+chęć	x ee ni tsi
 stymulacji	s t y . m u . l aa . ts i
+procesów	p r o . ts ee . s u v
+procesów	p r o . ts ee . s u f
 procesów	p r o . ts ee . s u v
 procesów	p r o . ts ee . s u f
 integracyjnych	i n . t e . g r a . ts yy j . n y x
@@ -919,7 +1215,11 @@ granicy	g r a . ni ii . ts y
 stworzył	s t f oo . rZ y w
 Siergiejewicz	si e r . gi j e . j ee . v i drZ
 Siergiejewicz	si e r . gi j e . j ee . v i tSz
+Siergiejewicz	si e r . gi j e . j ee . v i drZ
+Siergiejewicz	si e r . gi j e . j ee . v i tSz
 Spróbuj	s p r uu . b u j
+policzyć	p o . l ii . tSz y dzi
+policzyć	p o . l ii . tSz y tsi
 policzyć	p o . l ii . tSz y dzi
 policzyć	p o . l ii . tSz y tsi
 te	t ee
@@ -930,6 +1230,10 @@ końcowe	k o ni . ts oo . v e
 liczby	l ii . drZ b y
 zapisz	z aa . p i rZ
 zapisz	z aa . p i Sz
+zapisz	z aa . p i rZ
+zapisz	z aa . p i Sz
+w	v
+w	f
 w	v
 w	f
 tabelce	t a . b ee l . ts e
@@ -939,13 +1243,19 @@ stronie	s t r oo . ni e
 Kilka	c ii l . k a
 odcinków	o . t tsi ii N_ . k u v
 odcinków	o . t tsi ii N_ . k u f
+odcinków	o . t tsi ii N_ . k u v
+odcinków	o . t tsi ii N_ . k u f
 serialu	s e r . j aa . l u
 Bonanza	b o . n aa w_ . z a
+w	v
+w	f
 w	v
 w	f
 latach	l aa . t a x
 sześćdziesiątych	Sz e zi . dzi e . si oo n . t y x
 wyreżyserował	v y . r e . rZ y . s e . r oo . v a w
+Robert	r oo . b e r d
+Robert	r oo . b e r t
 Robert	r oo . b e r d
 Robert	r oo . b e r t
 AltmanDo	a l t m a n d o
@@ -965,6 +1275,10 @@ Krzyżanowskiego	k Sz y . rZ a . n o f s . c j ee . g o
 mieszkała	m j e Sz . k aa . w a
 kiedyś	c j ee . d y zi
 kiedyś	c j ee . d y si
+kiedyś	c j ee . d y zi
+kiedyś	c j ee . d y si
+w	v
+w	f
 w	v
 w	f
 żydowskiej	rZ y . d oo f s . c j e j
@@ -975,9 +1289,13 @@ ulicy	u . l ii . ts y
 Wrocławskiej	v r o . ts w aa f s . c j e j
 Podróżnik	p o . d r uu rZ . ni i g
 Podróżnik	p o . d r uu rZ . ni i k
+Podróżnik	p o . d r uu rZ . ni i g
+Podróżnik	p o . d r uu rZ . ni i k
 arabski	a . r aa . p s c i
 Ibrahim	i . b r aa . x i m
 ibn	ii b n
+Jakub	j aa . k u b
+Jakub	j aa . k u p
 Jakub	j aa . k u b
 Jakub	j aa . k u p
 był	b yy w
@@ -993,9 +1311,13 @@ Grunwaldzką	g r u n . v aa l . ts k o w_
 i	i
 kup	k uu b
 kup	k uu p
+kup	k uu b
+kup	k uu p
 miętowe	m j e n . t oo . v e
 Irisy	i . r ii . s y
 albo	aa l . b o
+ZefiryW	z e . f ii . r y v
+ZefiryW	z e . f ii . r y f
 ZefiryW	z e . f ii . r y v
 ZefiryW	z e . f ii . r y f
 ogrodzie	o . g r oo . dzi e
@@ -1003,6 +1325,10 @@ posadził	p o . s aa . dzi i w
 mnóstwo	m n uu s . t f o
 brzóz	b rZ uu z
 brzóz	b rZ uu s
+brzóz	b rZ uu z
+brzóz	b rZ uu s
+z	z
+z	s
 z	z
 z	s
 białawą	b j a . w aa . v o w_
@@ -1011,16 +1337,24 @@ i	i
 miniaturowych	m i . ni a . t u . r oo . v y x
 drzewek	d rZ ee . v e g
 drzewek	d rZ ee . v e k
+drzewek	d rZ ee . v e g
+drzewek	d rZ ee . v e k
 bonsa	b oo w_ . s a
 i	i
 Zauważcie	z a . u . v aa Sz . tsi e
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
+Gotfryd	g oo t . f r y d
+Gotfryd	g oo t . f r y t
 Gotfryd	g oo t . f r y d
 Gotfryd	g oo t . f r y t
 swobodnie	s f o . b oo . d ni e
 się	si e
 czuje	tSz uu . j e
+w	v
+w	f
 w	v
 w	f
 todze	t oo . dz e
@@ -1029,8 +1363,12 @@ jakby	j aa g . b y
 się	si e
 w	v
 w	f
+w	v
+w	f
 niej	ni ee j
 urodził	u . r oo . dzi i w
+W	v
+W	f
 W	v
 W	f
 instytucie	i w_ . s t y . t uu . tsi e
@@ -1038,11 +1376,17 @@ Towarzystwa	t o . v a . rZ yy s . t f a
 Fraunhofera	f r a w n . x o . f ee . r a
 w	v
 w	f
+w	v
+w	f
 Erlangen	e r . l aa N_ . g e n
 stworzono	s t f o . rZ oo . n o
 algorytm	a l . g oo . r y d m
 algorytm	a l . g oo . r y t m
+algorytm	a l . g oo . r y d m
+algorytm	a l . g oo . r y t m
 Agroturystyka	a . g r o . t u . r y s . t yy . k a
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 głównym	g w uu v . n y m
@@ -1050,7 +1394,11 @@ głównym	g w uu v . n y m
 utrzymania	u . t Sz y . m aa ni . j a
 w	v
 w	f
+w	v
+w	f
 Gierzwałdzie	gi j e . rZ v aa w . dzi e
+Bóg	b uu g
+Bóg	b uu k
 Bóg	b uu g
 Bóg	b uu k
 dopilnowuje	d o . p i l . n o . v uu . j e
@@ -1067,6 +1415,10 @@ każdy	k aa rZ . d y
 miał	m j aa w
 przyjść	p Sz yy j zi dzi
 przyjść	p Sz yy j si tsi
+przyjść	p Sz yy j zi dzi
+przyjść	p Sz yy j si tsi
+w	v
+w	f
 w	v
 w	f
 cudzych	ts uu . dz y x
@@ -1078,15 +1430,25 @@ anyżowym	a . n y . rZ oo . v y m
 smakuje	s m a . k uu . j e
 tak	t aa g
 tak	t aa k
+tak	t aa g
+tak	t aa k
 samo	s aa . m o
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
+kiedyś	c j ee . d y zi
+kiedyś	c j ee . d y si
 kiedyś	c j ee . d y zi
 kiedyś	c j ee . d y si
 Mam	m aa m
 szczerze	Sz tSz ee . rZ e
 dosyć	d oo . s y dzi
 dosyć	d oo . s y tsi
+dosyć	d oo . s y dzi
+dosyć	d oo . s y tsi
+kmiotków	k m j oo . t k u v
+kmiotków	k m j oo . t k u f
 kmiotków	k m j oo . t k u v
 kmiotków	k m j oo . t k u f
 pyszniących	p y Sz . ni oo n . ts y x
@@ -1101,10 +1463,18 @@ złakniony	z w a . k ni oo . n y
 mocnych	m oo . ts n y x
 wrażeńwięc	v r a rZ e ni v j e n dz
 wrażeńwięc	v r a rZ e ni v j e n ts
+wrażeńwięc	v r a rZ e ni v j e n dz
+wrażeńwięc	v r a rZ e ni v j e n ts
+skończ	s k oo ni drZ
+skończ	s k oo ni tSz
 skończ	s k oo ni drZ
 skończ	s k oo ni tSz
 już	j uu rZ
 już	j uu Sz
+już	j uu rZ
+już	j uu Sz
+grać	g r aa dzi
+grać	g r aa tsi
 grać	g r aa dzi
 grać	g r aa tsi
 na	n a
@@ -1114,10 +1484,16 @@ Olzą	oo l . z o w_
 płyńmy	p w yy ni . m y
 wskroś	f s k r oo zi
 wskroś	f s k r oo si
+wskroś	f s k r oo zi
+wskroś	f s k r oo si
 Zaolzia	z a . oo l . zi a
 Naddruk	n aa d . d r u g
 Naddruk	n aa d . d r u k
+Naddruk	n aa d . d r u g
+Naddruk	n aa d . d r u k
 książki	k si oo w_ . Sz c i
+też	t e rZ
+też	t e Sz
 też	t e rZ
 też	t e Sz
 się	si e
@@ -1126,6 +1502,8 @@ i	i
 wydawca	v y . d aa f . ts a
 zlecił	z l ee . tsi i w
 dodrukowanie	d o . d r u . k o . v aa . ni e
+kilkuset	c i l . k uu . s e d
+kilkuset	c i l . k uu . s e t
 kilkuset	c i l . k uu . s e d
 kilkuset	c i l . k uu . s e t
 egzemplarzy	e . g z e m . p l aa . rZ y
@@ -1137,6 +1515,8 @@ obdzwaniają	o b . dz v a . ni aa . j o w_
 agencje	a . g ee n ts . j e
 w	v
 w	f
+w	v
+w	f
 poszukiwaniu	p o . Sz u . c i . v aa . ni u
 nowej	n oo . v e j
 twarzy	t f aa . rZ y
@@ -1144,7 +1524,11 @@ do	d o
 reklamy	r e . k l aa . m y
 Konflikt	k oo n . f l i g d
 Konflikt	k oo n . f l i k t
+Konflikt	k oo n . f l i g d
+Konflikt	k oo n . f l i k t
 wokół	v oo . k u w
+tarcz	t aa r drZ
+tarcz	t aa r tSz
 tarcz	t aa r drZ
 tarcz	t aa r tSz
 antyrakietowych	a n . t y . r a . c j e . t oo . v y x
@@ -1153,14 +1537,20 @@ i	i
 nie	ni ee
 widać	v ii . d a dzi
 widać	v ii . d a tsi
+widać	v ii . d a dzi
+widać	v ii . d a tsi
 szansy	Sz aa w_ . s y
 na	n a
+kompromis	k o m . p r oo . m i z
+kompromis	k o m . p r oo . m i s
 kompromis	k o m . p r oo . m i z
 kompromis	k o m . p r oo . m i s
 Najwyżsi	n a j . v yy . si si i
 włodarze	v w o . d aa . rZ e
 postanowili	p o s . t a . n o . v ii . l i
 nie	ni ee
+walczyć	v aa l . tSz y dzi
+walczyć	v aa l . tSz y tsi
 walczyć	v aa l . tSz y dzi
 walczyć	v aa l . tSz y tsi
 o	o
@@ -1170,10 +1560,14 @@ najeźdźcy	n a . j ee si . ts y
 Bądźcie	b oo ni . tsi tsi e
 tak	t aa g
 tak	t aa k
+tak	t aa g
+tak	t aa k
 mili	m ii . l i
 i	i
 podzielcie	p o . dzi ee l . tsi e
 się	si e
+z	z
+z	s
 z	z
 z	s
 Ziemkiewiczem	zi e m . c j e . v ii . tSz e m
@@ -1182,11 +1576,17 @@ rewelacjami	r e . v e . l a . ts j aa . m i
 Gdy	g d yy
 bartnik	b aa r . t ni i g
 bartnik	b aa r . t ni i k
+bartnik	b aa r . t ni i g
+bartnik	b aa r . t ni i k
 toruński	t o . r uu j_ . s c i
+wszedł	f Sz ee d
+wszedł	f Sz ee t
 wszedł	f Sz ee d
 wszedł	f Sz ee t
 do	d o
 karczmy	k aa r . tSz m y
+słychać	s w yy . x a dzi
+słychać	s w yy . x a tsi
 słychać	s w yy . x a dzi
 słychać	s w yy . x a tsi
 było	b yy . w o
@@ -1194,9 +1594,13 @@ pomruki	p o m . r uu . c i
 Przestań	p Sz ee s . t a ni
 krzyczeć	k Sz yy . tSz e dzi
 krzyczeć	k Sz yy . tSz e tsi
+krzyczeć	k Sz yy . tSz e dzi
+krzyczeć	k Sz yy . tSz e tsi
 i	i
 nie	ni ee
 syczże	s yy . drZ rZ e
+już	j uu rZ
+już	j uu Sz
 już	j uu rZ
 już	j uu Sz
 na	n a
@@ -1204,6 +1608,10 @@ biednego	b j e . d n ee . g o
 nicponia	ni i . ts p oo . ni a
 Chłopak	x w oo . p a g
 Chłopak	x w oo . p a k
+Chłopak	x w oo . p a g
+Chłopak	x w oo . p a k
+z	z
+z	s
 z	z
 z	s
 ulicy	u . l ii . ts y
@@ -1216,13 +1624,21 @@ Koń	k oo ni
 warczy	v aa r . tSz y
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
 ćma	tsi m aa
+w	v
+w	f
 w	v
 w	f
 noc	n oo dz
 noc	n oo ts
+noc	n oo dz
+noc	n oo ts
 szarą	Sz aa . r o w_
 Oddziel	oo d . dzi e l
+dziś	dzi ii zi
+dziś	dzi ii si
 dziś	dzi ii zi
 dziś	dzi ii si
 go	g o
@@ -1235,8 +1651,12 @@ młoda	m w oo . d a
 Rumunka	r u . m uu N_ . k a
 z	z
 z	s
+z	z
+z	s
 czworgiem	tSz f oo r . gi j e m
 dzieci	dzi ee . tsi i
+w	v
+w	f
 w	v
 w	f
 okularach	o . k u . l aa . r a x
@@ -1253,23 +1673,37 @@ się	si e
 na	n a
 wieczorek	v j e . tSz oo . r e g
 wieczorek	v j e . tSz oo . r e k
+wieczorek	v j e . tSz oo . r e g
+wieczorek	v j e . tSz oo . r e k
 zapoznawczy	z a . p o z . n aa f . tSz y
+w	v
+w	f
 w	v
 w	f
 ciechocińskim	tsi e . x o . tsi ii j_ . s c i m
 sanatoriumW	s a . n a . t oo r . j u w_ v
 sanatoriumW	s a . n a . t oo r . j u w_ f
+sanatoriumW	s a . n a . t oo r . j u w_ v
+sanatoriumW	s a . n a . t oo r . j u w_ f
 wyniku	v y . ni ii . k u
+roszad	r oo . Sz a d
+roszad	r oo . Sz a t
 roszad	r oo . Sz a d
 roszad	r oo . Sz a t
 personalnych	p e r . s o . n aa l . n y x
 funkcjonariusz	f u N_ . k ts j o . n aa r . j u rZ
 funkcjonariusz	f u N_ . k ts j o . n aa r . j u Sz
+funkcjonariusz	f u N_ . k ts j o . n aa r . j u rZ
+funkcjonariusz	f u N_ . k ts j o . n aa r . j u Sz
 Interpolu	i n . t e r . p oo . l u
+znalazł	z n aa . l a z
+znalazł	z n aa . l a s
 znalazł	z n aa . l a z
 znalazł	z n aa . l a s
 się	si e
 nieoczekiwanie	ni e . o . tSz e . c i . v aa . ni e
+w	v
+w	f
 w	v
 w	f
 Lillehammerkukiełki	l i . l l e . x a . m m e r . k u . c j ee w . c i
@@ -1285,11 +1719,17 @@ przedsięwzięciem	p Sz e . t si e w_ . v zi ee ni . tsi e m
 festiwalu	f e s . t i . v aa . l u
 W	v
 W	f
+W	v
+W	f
 tej	t e j
 dziwnej	dzi ii v . n e j
 grze	g rZ ee
 w	v
 w	f
+w	v
+w	f
+tenis	t ee . ni i z
+tenis	t ee . ni i s
 tenis	t ee . ni i z
 tenis	t ee . ni i s
 backhand	b ee . k x e n d
@@ -1299,8 +1739,12 @@ się	si e
 lepszy	l ee . p Sz y
 od	o d
 od	o t
+od	o d
+od	o t
 backhandu	b e . k x ee n . d u
 paleoantropologa	p a . l e . o . a n . t r o . p o . l oo . g a
+W	v
+W	f
 W	v
 W	f
 informacji	i n . f o r . m aa . ts i
@@ -1319,14 +1763,22 @@ stało	s t aa . w o
 się	si e
 uczynić	u . tSz yy . ni i dzi
 uczynić	u . tSz yy . ni i tsi
+uczynić	u . tSz yy . ni i dzi
+uczynić	u . tSz yy . ni i tsi
+z	z
+z	s
 z	z
 z	s
 clubbingu	k l u . b b ii N_ . g u
 aktywność	a . k t yy v . n o zi dzi
 aktywność	a . k t yy v . n o si tsi
+aktywność	a . k t yy v . n o zi dzi
+aktywność	a . k t yy v . n o si tsi
 przyjazną	p Sz y . j aa z . n o w_
 dla	d l a
 środowiska	si r o . d o . v ii s . k a
+Przed	p Sz e d
+Przed	p Sz e t
 Przed	p Sz e d
 Przed	p Sz e t
 nałożeniem	n a . w o . rZ ee . ni e m
@@ -1339,13 +1791,23 @@ radzę	r aa . dz e
 ci	tsi i
 wsmarować	f s m a . r oo . v a dzi
 wsmarować	f s m a . r oo . v a tsi
+wsmarować	f s m a . r oo . v a dzi
+wsmarować	f s m a . r oo . v a tsi
+w	v
+w	f
 w	v
 w	f
 twarz	t f aa rZ
 twarz	t f aa Sz
+twarz	t f aa rZ
+twarz	t f aa Sz
+jakiś	j aa . c i zi
+jakiś	j aa . c i si
 jakiś	j aa . c i zi
 jakiś	j aa . c i si
 kremPrzy	k r ee m . p Sz y
+tak	t aa g
+tak	t aa k
 tak	t aa g
 tak	t aa k
 dżdżystej	drZ drZ yy s . t e j
@@ -1353,7 +1815,11 @@ pogodzie	p o . g oo . dzi e
 kładzenie	k w a . dz ee . ni e
 posadzek	p o . s aa . dz e g
 posadzek	p o . s aa . dz e k
+posadzek	p o . s aa . dz e g
+posadzek	p o . s aa . dz e k
 innych	ii . n n y x
+niż	ni ii rZ
+niż	ni ii Sz
 niż	ni ii rZ
 niż	ni ii Sz
 drewniane	d r e v . ni aa . n e
@@ -1361,9 +1827,15 @@ mija	m ii . j a
 się	si e
 z	z
 z	s
+z	z
+z	s
 celem	ts ee . l e m
 Bogusław	b o . g uu . s w a v
 Bogusław	b o . g uu . s w a f
+Bogusław	b o . g uu . s w a v
+Bogusław	b o . g uu . s w a f
+Mec	m ee dz
+Mec	m ee ts
 Mec	m ee dz
 Mec	m ee ts
 nagrał	n aa . g r a w
@@ -1376,12 +1848,18 @@ na	n a
 Doceniam	d o . ts ee . ni a m
 umiejętność	u m . j e . j ee n . t n o zi dzi
 umiejętność	u m . j e . j ee n . t n o si tsi
+umiejętność	u m . j e . j ee n . t n o zi dzi
+umiejętność	u m . j e . j ee n . t n o si tsi
 niewdawania	ni e v . d a . v aa . ni a
 się	si e
 w	v
 w	f
+w	v
+w	f
 konflikty	k o n . f l ii . k t y
 i	i
+efektywność	e . f e . k t yy v . n o zi dzi
+efektywność	e . f e . k t yy v . n o si tsi
 efektywność	e . f e . k t yy v . n o zi dzi
 efektywność	e . f e . k t yy v . n o si tsi
 działaniaa	dzi a . w a . ni aa . a
@@ -1390,12 +1868,18 @@ losy	l oo . s y
 Łobza	w oo . b z a
 też	t e rZ
 też	t e Sz
+też	t e rZ
+też	t e Sz
 łączą	w oo n . tSz o w_
 się	si e
 z	z
 z	s
+z	z
+z	s
 losami	l o . s aa . m i
 rodu	r oo . d u
+BorkówW	b oo r . k u v v
+BorkówW	b oo r . k u f f
 BorkówW	b oo r . k u v v
 BorkówW	b oo r . k u f f
 Dzień	dzi ee ni
@@ -1405,6 +1889,10 @@ się	si e
 wiele	v j ee . l e
 babć	b aa b dzi
 babć	b aa p tsi
+babć	b aa b dzi
+babć	b aa p tsi
+z	z
+z	s
 z	z
 z	s
 różnych	r uu rZ . n y x
@@ -1416,6 +1904,8 @@ dzieci	dzi ee . tsi i
 potrafiło	p o . t r a . f ii . w o
 odmieniać	o d . m j ee . ni a dzi
 odmieniać	o d . m j ee . ni a tsi
+odmieniać	o d . m j ee . ni a dzi
+odmieniać	o d . m j ee . ni a tsi
 rzeczowniki	rZ e . tSz o v . ni ii . c i
 ja	j aa
 zrzeknę	z rZ ee . k n e
@@ -1425,21 +1915,35 @@ części	tSz ee w_ . si tsi i
 na	n a
 rzecz	rZ ee drZ
 rzecz	rZ ee tSz
+rzecz	rZ ee drZ
+rzecz	rZ ee tSz
 Matyldy	m a . t yy l . d y
+Zarząd	z aa . rZ o n d
+Zarząd	z aa . rZ o n t
 Zarząd	z aa . rZ o n d
 Zarząd	z aa . rZ o n t
 Do	d o
 Spraw	s p r aa v
 Spraw	s p r aa f
+Spraw	s p r aa v
+Spraw	s p r aa f
 Cudzoziemców	ts u . dz o . zi ee m . ts u f
 ZdsC	s z dz
 ZdsC	s s ts
+ZdsC	s z dz
+ZdsC	s s ts
+lub	l uu b
+lub	l uu p
 lub	l uu b
 lub	l uu p
 ZCU	s ts uu
 mieliby	m j e . l ii . b y
 dziś	dzi ii zi
 dziś	dzi ii si
+dziś	dzi ii zi
+dziś	dzi ii si
+z	z
+z	s
 z	z
 z	s
 tego	t ee . g o
@@ -1449,6 +1953,10 @@ szmal	Sz m aa l
 To	t o
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+ochraniacz	o . x r aa . ni a drZ
+ochraniacz	o . x r aa . ni a tSz
 ochraniacz	o . x r aa . ni a drZ
 ochraniacz	o . x r aa . ni a tSz
 naszego	n a . Sz ee . g o
@@ -1456,7 +1964,11 @@ jednorożca	j e . d n o . r oo Sz . ts a
 Pan	p aa n
 dziedzic	dzi ee . dzi i dz
 dziedzic	dzi ee . dzi i ts
+dziedzic	dzi ee . dzi i dz
+dziedzic	dzi ee . dzi i ts
 zbeształ	z b ee Sz . t a w
+zaś	z aa zi
+zaś	z aa si
 zaś	z aa zi
 zaś	z aa si
 giermka	gi j ee r m . k a
@@ -1466,8 +1978,12 @@ on	oo n
 miał	m j aa w
 coś	ts oo zi
 coś	ts oo si
+coś	ts oo zi
+coś	ts oo si
 do	d o
 powiedzenia	p o v . j e . dz ee . ni a
+W	v
+W	f
 W	v
 W	f
 bryczce	b r yy . tSz ts e
@@ -1477,8 +1993,12 @@ i	i
 gwiżdżą	g v ii rZ . drZ o w_
 Księżyc	k si ee w_ . rZ y dz
 Księżyc	k si ee w_ . rZ y ts
+Księżyc	k si ee w_ . rZ y dz
+Księżyc	k si ee w_ . rZ y ts
 lśnił	l si ni ii w
 mocno	m oo . ts n o
+noc	n oo dz
+noc	n oo ts
 noc	n oo dz
 noc	n oo ts
 całą	ts aa . w o w_
@@ -1491,6 +2011,8 @@ są	s oo w_
 jednymi	j e . d n yy . m i
 z	z
 z	s
+z	z
+z	s
 najczęściej	n a j . tSz ee w_ . si tsi e j
 grywanych	g r y . v aa . n y x
 oper	oo . p e r
@@ -1500,18 +2022,28 @@ Mozarta	m o . z aa r . t a
 Kawalkada	k a . v a l . k aa . d a
 dwuśladów	d v u . si l aa . d u v
 dwuśladów	d v u . si l aa . d u f
+dwuśladów	d v u . si l aa . d u v
+dwuśladów	d v u . si l aa . d u f
 przejechała	p Sz e . j e . x aa . w a
+rynek	r yy . n e g
+rynek	r yy . n e k
 rynek	r yy . n e g
 rynek	r yy . n e k
 obwieszczając	o b . v j e Sz . tSz aa . j o n dz
 obwieszczając	o b . v j e Sz . tSz aa . j o n ts
+obwieszczając	o b . v j e Sz . tSz aa . j o n dz
+obwieszczając	o b . v j e Sz . tSz aa . j o n ts
 wszystkim	f Sz yy s . t c i m
+wieść	v j ee zi dzi
+wieść	v j ee si tsi
 wieść	v j ee zi dzi
 wieść	v j ee si tsi
 o	o
 triumfie	t r i . j uu w_ . f j e
 reprezentacji	r e . p r e . z e n . t aa . ts i
 Żeby	rZ ee . b y
+ogrzać	oo . g rZ a dzi
+ogrzać	oo . g rZ a tsi
 ogrzać	oo . g rZ a dzi
 ogrzać	oo . g rZ a tsi
 kilogram	c i . l oo . g r a m
@@ -1527,11 +2059,15 @@ dwieście	d v j ee si . tsi e
 dżuli	drZ uu . l i
 Management	m e . n ee . dz m e n d
 Management	m e . n ee . dz m e n t
+Management	m e . n ee . dz m e n d
+Management	m e . n ee . dz m e n t
 szkoły	Sz k oo . w y
 wypłacił	v y . p w aa . tsi i w
 sobie	s oo . b j e
 tysiączłotowe	t y . si o n ts . z w o . t oo . v e
 dodatki	d o . d aa . t c i
+z	z
+z	s
 z	z
 z	s
 okazji	o . k aa . z i
@@ -1542,6 +2078,10 @@ doskonały	d o s . k o . n aa . w y
 będzie	b ee ni . dzi e
 kapelusik	k a . p e . l uu . si i g
 kapelusik	k a . p e . l uu . si i k
+kapelusik	k a . p e . l uu . si i g
+kapelusik	k a . p e . l uu . si i k
+z	z
+z	s
 z	z
 z	s
 cieńszej	tsi ee j_ . Sz e j
@@ -1554,6 +2094,8 @@ Ten	t ee n
 sztumski	Sz t uu m . s c i
 zawodnik	z a . v oo . d ni i g
 zawodnik	z a . v oo . d ni i k
+zawodnik	z a . v oo . d ni i g
+zawodnik	z a . v oo . d ni i k
 o	o
 wielkiej	v j ee l . c j e j
 sile	s ii . l e
@@ -1561,14 +2103,20 @@ bierze	b j ee . rZ e
 udział	uu . dzi a w
 w	v
 w	f
+w	v
+w	f
 biatlonie	b j a . t l oo . ni e
 po	p o
+raz	r aa z
+raz	r aa s
 raz	r aa z
 raz	r aa s
 pierwszy	p j ee r . f Sz y
 Elektroakupunktura	e . l e . k t r o . a . k u . p u N_ . k t uu . r a
 to	t o
 najlepszy	n a j . l ee . p Sz y
+sposób	s p oo . s u b
+sposób	s p oo . s u p
 sposób	s p oo . s u b
 sposób	s p oo . s u p
 na	n a
@@ -1579,15 +2127,25 @@ psychogennym	p s y . x o . g ee . n n y m
 Jednym	j ee . d n y m
 z	z
 z	s
+z	z
+z	s
 bardziej	b aa r . dzi e j
 uczęszczanych	u . tSz e w_ . Sz tSz aa . n y x
+klubów	k l uu . b u v
+klubów	k l uu . b u f
 klubów	k l uu . b u v
 klubów	k l uu . b u f
 muzycznych	m u . z yy . tSz n y x
 Kielc	c j ee l dz
 Kielc	c j ee l ts
+Kielc	c j ee l dz
+Kielc	c j ee l ts
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+klub	k l uu b
+klub	k l uu p
 klub	k l uu b
 klub	k l uu p
 koncertowy	k o n . ts e r . t oo . v y
@@ -1596,6 +2154,8 @@ Najnowsze	n a j . n oo . f Sz e
 modele	m o . d ee . l e
 przenośnych	p Sz e . n oo si . n y x
 odtwarzaczy	o t . t f a . rZ aa . tSz y
+CD	dz d
+CD	dz t
 CD	dz d
 CD	dz t
 posiadają	p o . si a . d aa . j o w_
@@ -1610,14 +2170,20 @@ zwrotnym	z v r oo . t n y m
 dla	d l a
 wojsk	v oo j z g
 wojsk	v oo j s k
+wojsk	v oo j z g
+wojsk	v oo j s k
 Jagiełły	j a . gi j ee . w w y
 skończże	s k oo ni drZ . rZ e
 wreszcie	v r ee Sz . tsi e
 wygibasy	v y . gi i . b aa . s y
 z	z
 z	s
+z	z
+z	s
 rowerkiem	r o . v ee r . c j e m
 i	i
+chodź	x oo dzi
+chodź	x oo tsi
 chodź	x oo dzi
 chodź	x oo tsi
 lepiej	l ee . p j e j
@@ -1629,6 +2195,10 @@ wyidealizowała	v y . i . d e . a . l i . z o . v aa . w a
 swój	s f uu j
 związek	z v j oo w_ . z e g
 związek	z v j oo w_ . z e k
+związek	z v j oo w_ . z e g
+związek	z v j oo w_ . z e k
+z	z
+z	s
 z	z
 z	s
 Krzyśkiem	k Sz yy si . c j e m
@@ -1643,11 +2213,15 @@ i	i
 olchy	oo l . x y
 oraz	oo . r a z
 oraz	oo . r a s
+oraz	oo . r a z
+oraz	oo . r a s
 krzewy	k Sz ee . v y
 różnego	r u rZ . n ee . g o
 typuA	t y . p uu . a
 ten	t ee n
 leń	l ee ni
+znowuż	z n oo . v u rZ
+znowuż	z n oo . v u Sz
 znowuż	z n oo . v u rZ
 znowuż	z n oo . v u Sz
 wybiera	v y . b j ee . r a
@@ -1657,10 +2231,16 @@ nadmorskie	n a . d m oo r . s c j e
 wywczasy	v y f . tSz aa . s y
 z	z
 z	s
+z	z
+z	s
 małżonką	m a w . rZ oo N_ . k o w_
 Ten	t ee n
 gazociąg	g a . z oo . tsi o N_ g
 gazociąg	g a . z oo . tsi o N_ k
+gazociąg	g a . z oo . tsi o N_ g
+gazociąg	g a . z oo . tsi o N_ k
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 wynikiem	v y . ni ii . c j e m
@@ -1676,10 +2256,14 @@ zabezpieczone	z a . b e . s p j e . tSz oo . n e
 cieplnie	tsi ee . p l ni e
 Przed	p Sz e d
 Przed	p Sz e t
+Przed	p Sz e d
+Przed	p Sz e t
 deszczem	d ee Sz . tSz e m
 schroniliśmy	s x r o . ni i . l ii si . m y
 się	si e
 u	u
+jakichś	j aa . c i x zi
+jakichś	j aa . c i x si
 jakichś	j aa . c i x zi
 jakichś	j aa . c i x si
 ludzi	l uu . dzi i
@@ -1688,6 +2272,10 @@ kto	k t oo
 zdobędzie	z d o . b ee ni . dzi e
 większość	v j ee N_ . k Sz o zi dzi
 większość	v j ee N_ . k Sz o si tsi
+większość	v j ee N_ . k Sz o zi dzi
+większość	v j ee N_ . k Sz o si tsi
+głosów	g w oo . s u v
+głosów	g w oo . s u f
 głosów	g w oo . s u v
 głosów	g w oo . s u f
 partia	p aa r . t j a
@@ -1696,6 +2284,10 @@ uwięził	u v . j ee j_ . zi i w
 bośniackich	b o si . ni aa . ts c i x
 oportunistów	o . p o r . t u . ni ii s . t u v
 oportunistów	o . p o r . t u . ni ii s . t u f
+oportunistów	o . p o r . t u . ni ii s . t u v
+oportunistów	o . p o r . t u . ni ii s . t u f
+Połóż	p oo . w u rZ
+Połóż	p oo . w u Sz
 Połóż	p oo . w u rZ
 Połóż	p oo . w u Sz
 ręce	r ee n . ts e
@@ -1705,31 +2297,49 @@ i	i
 zostań	z oo s . t a ni
 w	v
 w	f
+w	v
+w	f
 tej	t e j
 pozycji	p o . z yy . ts i
 Zaoszczędź	z a . oo Sz . tSz e ni dzi
 Zaoszczędź	z a . oo Sz . tSz e ni tsi
+Zaoszczędź	z a . oo Sz . tSz e ni dzi
+Zaoszczędź	z a . oo Sz . tSz e ni tsi
 na	n a
+wstęp	f s t ee m b
+wstęp	f s t ee m p
 wstęp	f s t ee m b
 wstęp	f s t ee m p
 do	d o
 rezydencji	r e . z y . d ee n . ts i
 Habsburgów	x a p . z b uu r . g u v
 Habsburgów	x a p . z b uu r . g u f
+Habsburgów	x a p . z b uu r . g u v
+Habsburgów	x a p . z b uu r . g u f
 Oskarżyli	o s . k a r . rZ yy . l i
 dwóch	d v uu x
+karłów	k aa r . w u v
+karłów	k aa r . w u f
 karłów	k aa r . w u v
 karłów	k aa r . w u f
 o	o
 kradzież	k r aa . dzi e rZ
 kradzież	k r aa . dzi e Sz
+kradzież	k r aa . dzi e rZ
+kradzież	k r aa . dzi e Sz
 portmonetki	p o r . t m o . n ee . t c i
+Łotysz	w oo . t y rZ
+Łotysz	w oo . t y Sz
 Łotysz	w oo . t y rZ
 Łotysz	w oo . t y Sz
 stanął	s t aa . n o w
 w	v
 w	f
+w	v
+w	f
 szranki	Sz r aa N_ . c i
+z	z
+z	s
 z	z
 z	s
 postawnym	p o s . t aa v . n y m
@@ -1737,15 +2347,23 @@ Kaszubem	k a . Sz uu . b e m
 Ta	t aa
 z	z
 z	s
+z	z
+z	s
 którą	k t uu . r o w_
 mnie	m ni ee
 widziałaś	v i . dzi aa . w a zi
 widziałaś	v i . dzi aa . w a si
+widziałaś	v i . dzi aa . w a zi
+widziałaś	v i . dzi aa . w a si
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 zbzikowana	z b zi i . k o . v aa . n a
 rozmiękczę	r o z . m j ee N_ . k tSz e
 ten	t ee n
+owoc	oo . v o dz
+owoc	oo . v o ts
 owoc	oo . v o dz
 owoc	oo . v o ts
 i	i
@@ -1755,17 +2373,27 @@ po	p o
 ćwiartce	tsi f j aa r . t ts e
 przepisów	p Sz e . p ii . s u v
 przepisów	p Sz e . p ii . s u f
+przepisów	p Sz e . p ii . s u v
+przepisów	p Sz e . p ii . s u f
+BHP	b x b
+BHP	p x p
 BHP	b x b
 BHP	p x p
 oraz	oo . r a z
 oraz	oo . r a s
+oraz	oo . r a z
+oraz	oo . r a s
 kwalifikacji	k f a . l i . f i . k aa . ts i
+załogiW	z a . w oo . gi i v
+załogiW	z a . w oo . gi i f
 załogiW	z a . w oo . gi i v
 załogiW	z a . w oo . gi i f
 dalszym	d aa l . Sz y m
 ciągu	tsi oo N_ . g u
 noszono	n o . Sz oo . n o
 welon	v ee . l o n
+z	z
+z	s
 z	z
 z	s
 przepaską	p Sz e . p aa s . k o w_
@@ -1778,10 +2406,16 @@ czosnkiem	tSz oo s N_ . c j e m
 Nazbierałem	n a z . b j e . r aa . w e m
 garść	g aa r zi dzi
 garść	g aa r si tsi
+garść	g aa r zi dzi
+garść	g aa r si tsi
 ładnych	w aa . d n y x
 jagód	j aa . g u d
 jagód	j aa . g u t
+jagód	j aa . g u d
+jagód	j aa . g u t
 Dostał	d oo s . t a w
+w	v
+w	f
 w	v
 w	f
 mięsień	m j ee j_ . si e ni
@@ -1789,6 +2423,10 @@ dwugłowy	d v u . g w oo . v y
 ramienia	r a m . j ee . ni a
 Podłącz	p oo . d w o n drZ
 Podłącz	p oo . d w o n tSz
+Podłącz	p oo . d w o n drZ
+Podłącz	p oo . d w o n tSz
+zasilacz	z a . si ii . l a drZ
+zasilacz	z a . si ii . l a tSz
 zasilacz	z a . si ii . l a drZ
 zasilacz	z a . si ii . l a tSz
 do	d o
@@ -1796,9 +2434,15 @@ gniazdka	g ni aa s . t k a
 Sprawcy	s p r aa f . ts y
 PGWP	b k v b
 PGWP	b k f p
+PGWP	b k v b
+PGWP	b k f p
+z	z
+z	s
 z	z
 z	s
 Wietnamu	v j e . t n aa . m u
+Znalazłeś	z n a . l aa . z w e zi
+Znalazłeś	z n a . l aa . z w e si
 Znalazłeś	z n a . l aa . z w e zi
 Znalazłeś	z n a . l aa . z w e si
 szal	Sz aa l
@@ -1808,9 +2452,15 @@ On	oo n
 zacniej	z aa . ts ni e j
 niż	ni ii rZ
 niż	ni ii Sz
+niż	ni ii rZ
+niż	ni ii Sz
 żonka	rZ oo N_ . k a
 Slajd	s l aa j d
 Slajd	s l aa j t
+Slajd	s l aa j d
+Slajd	s l aa j t
+powieś	p oo v . j e zi
+powieś	p oo v . j e si
 powieś	p oo v . j e zi
 powieś	p oo v . j e si
 na	n a
@@ -1818,19 +2468,29 @@ na	n a
 Wolał	v oo . l a w
 pozostać	p o . z oo s . t a dzi
 pozostać	p o . z oo s . t a tsi
+pozostać	p o . z oo s . t a dzi
+pozostać	p o . z oo s . t a tsi
 uczciwym	u . tSz tsi ii . v y m
 robotnikiem	r o . b o . t ni ii . c j e m
+bez	b ee z
+bez	b ee s
 bez	b ee z
 bez	b ee s
 kasy	k aa . s y
 niż	ni ii rZ
 niż	ni ii Sz
+niż	ni ii rZ
+niż	ni ii Sz
+wspinać	f s p ii . n a dzi
+wspinać	f s p ii . n a tsi
 wspinać	f s p ii . n a dzi
 wspinać	f s p ii . n a tsi
 się	si e
 po	p o
 szczeblach	Sz tSz ee . b l a x
 kariery	k a r . j ee . r y
+oszukując	o . Sz u . k uu . j o n dz
+oszukując	o . Sz u . k uu . j o n ts
 oszukując	o . Sz u . k uu . j o n dz
 oszukując	o . Sz u . k uu . j o n ts
 ludzi	l uu . dzi i
@@ -1844,6 +2504,10 @@ recital	r e . tSz ii . t a l
 Alicji	a . l ii . ts i
 Dudziak	d uu . dzi a g
 Dudziak	d uu . dzi a k
+Dudziak	d uu . dzi a g
+Dudziak	d uu . dzi a k
+już	j uu rZ
+już	j uu Sz
 już	j uu rZ
 już	j uu Sz
 za	z a
@@ -1851,8 +2515,14 @@ dwa	d v aa
 tygodnie	t y . g oo . d ni e
 Część	tSz ee w_ zi dzi
 Część	tSz ee w_ si tsi
+Część	tSz ee w_ zi dzi
+Część	tSz ee w_ si tsi
 z	z
 z	s
+z	z
+z	s
+satelit	s a . t ee . l i d
+satelit	s a . t ee . l i t
 satelit	s a . t ee . l i d
 satelit	s a . t ee . l i t
 opuściła	o . p u si . tsi ii . w a
@@ -1870,12 +2540,16 @@ reguły	r e . g uu . w y
 są	s oo w_
 według	v ee . d w u g
 według	v ee . d w u k
+według	v ee . d w u g
+według	v ee . d w u k
 niego	ni ee . g o
 nie	ni ee
 wiele	v j ee . l e
 znaczącym	z n a . tSz oo n . ts y m
 mętlikiem	m e n . t l ii . c j e m
 sprzecznych	s p Sz ee . tSz n y x
+zasad	z aa . s a d
+zasad	z aa . s a t
 zasad	z aa . s a d
 zasad	z aa . s a t
 Rańtuchem	r a ni . t uu . x e m
@@ -1885,6 +2559,8 @@ wełniane	v e w . ni aa . n e
 nakrycie	n a . k r yy . tsi e
 głowy	g w oo . v y
 używane	u . rZ y . v aa . n e
+w	v
+w	f
 w	v
 w	f
 Polsce	p oo l . s ts e
@@ -1909,14 +2585,22 @@ Kapelusze	k a . p e . l uu . Sz e
 rydzy	r yy . dz y
 przed	p Sz e d
 przed	p Sz e t
+przed	p Sz e d
+przed	p Sz e t
 smażeniem	s m a . rZ ee . ni e m
 należy	n a . l ee . rZ y
 obgotować	o b . g o . t oo . v a dzi
 obgotować	o b . g o . t oo . v a tsi
+obgotować	o b . g o . t oo . v a dzi
+obgotować	o b . g o . t oo . v a tsi
+w	v
+w	f
 w	v
 w	f
 ciągu	tsi oo N_ . g u
 kilku	c ii l . k u
+minut	m ii . n u d
+minut	m ii . n u t
 minut	m ii . n u d
 minut	m ii . n u t
 we	v e
@@ -1925,9 +2609,13 @@ wodzie	v oo . dzi e
 Anarchiści	a . n a r . x ii si . tsi i
 w	v
 w	f
+w	v
+w	f
 rejonie	r e . j oo . ni e
 bydgoskim	b y d . g oo s . c i m
 musieli	m u . si ee . l i
+zejść	z ee j zi dzi
+zejść	z ee j si tsi
 zejść	z ee j zi dzi
 zejść	z ee j si tsi
 do	d o
@@ -1936,9 +2624,13 @@ i	i
 klepią	k l ee . p j o w_
 teraz	t ee . r a z
 teraz	t ee . r a s
+teraz	t ee . r a z
+teraz	t ee . r a s
 straszną	s t r aa Sz . n o w_
 biedę	b j ee . d e
 Opowiedzcie	o . p o v . j ee . ts tsi e
+jak	j aa g
+jak	j aa k
 jak	j aa g
 jak	j aa k
 to	t o
@@ -1948,13 +2640,21 @@ hetmańscy	x e . t m aa j_ . s ts y
 próbowali	p r u . b o . v aa . l i
 zaprowadzić	z a . p r o . v aa . dzi i dzi
 zaprowadzić	z a . p r o . v aa . dzi i tsi
+zaprowadzić	z a . p r o . v aa . dzi i dzi
+zaprowadzić	z a . p r o . v aa . dzi i tsi
 inny	ii . n n y
+porządek	p o . rZ oo n . d e g
+porządek	p o . rZ oo n . d e k
 porządek	p o . rZ oo n . d e g
 porządek	p o . rZ oo n . d e k
 w	v
 w	f
+w	v
+w	f
 tym	t y m
 powiecie	p o v . j ee . tsi e
+W	v
+W	f
 W	v
 W	f
 telewizyjnym	t e . l e . v i . z yy j . n y m
@@ -1965,8 +2665,12 @@ reprezentanci	r e . p r e . z e n . t aa ni . tsi i
 pięciu	p j ee ni . tsi u
 sołectw	s oo . w e dz d v
 sołectw	s oo . w e ts t f
+sołectw	s oo . w e dz d v
+sołectw	s oo . w e ts t f
 województwa	v o . j e . v uu . ts t f a
 mazowieckiego	m a . z o v . j e . ts c j ee . g o
+Przez	p Sz e z
+Przez	p Sz e s
 Przez	p Sz e z
 Przez	p Sz e s
 obfitą	o . p f ii . t o w_
@@ -1974,6 +2678,8 @@ mżawkę	m rZ aa f . k e
 nie	ni ee
 udało	u . d aa . w o
 się	si e
+zidentyfikować	z i . d e n . t y . f i . k oo . v a dzi
+zidentyfikować	z i . d e n . t y . f i . k oo . v a tsi
 zidentyfikować	z i . d e n . t y . f i . k oo . v a dzi
 zidentyfikować	z i . d e n . t y . f i . k oo . v a tsi
 numeru	n u . m ee . r u
@@ -1993,9 +2699,13 @@ nuklearną	n u . k l e . aa r . n o w_
 Na	n a
 wniosek	v ni oo . s e g
 wniosek	v ni oo . s e k
+wniosek	v ni oo . s e g
+wniosek	v ni oo . s e k
 Ministerstwa	m i . ni i s . t ee r . s t f a
 Skarbu	s k aa r . b u
 Państwa	p aa j_ . s t f a
+Ernst	ee r w_ z d
+Ernst	ee r w_ s t
 Ernst	ee r w_ z d
 Ernst	ee r w_ s t
 Jansen	j aa w_ . s e n
@@ -2003,9 +2713,13 @@ został	z oo s . t a w
 odwołany	o . d v o . w aa . n y
 z	z
 z	s
+z	z
+z	s
 rady	r aa . d y
 nadzorczej	n a . d z oo r . tSz e j
 Zaczną	z aa . tSz n o w_
+dopłacać	d o . p w aa . ts a dzi
+dopłacać	d o . p w aa . ts a tsi
 dopłacać	d o . p w aa . ts a dzi
 dopłacać	d o . p w aa . ts a tsi
 do	d o
@@ -2020,11 +2734,15 @@ nie	ni ee
 zaczną	z aa . tSz n o w_
 działać	dzi aa . w a dzi
 działać	dzi aa . w a tsi
+działać	dzi aa . w a dzi
+działać	dzi aa . w a tsi
 ostrożniej	o s . t r oo rZ . ni e j
 Wkrótce	f k r uu . t ts e
 przybywa	p Sz y . b yy . v a
 tam	t aa m
 także	t aa . g rZ e
+Kanadyjczyk	k a . n a . d yy j . tSz y g
+Kanadyjczyk	k a . n a . d yy j . tSz y k
 Kanadyjczyk	k a . n a . d yy j . tSz y g
 Kanadyjczyk	k a . n a . d yy j . tSz y k
 Caravaggio	ts a . r a . v aa g . gi j o
@@ -2034,6 +2752,10 @@ sikhijski	si i . k x ii j . s c i
 saper	s aa . p e r
 KipSzef	c ii . p Sz e v
 KipSzef	c ii . p Sz e f
+KipSzef	c ii . p Sz e v
+KipSzef	c ii . p Sz e f
+z	z
+z	s
 z	z
 z	s
 okazji	o . k aa . z i
@@ -2041,6 +2763,8 @@ swoich	s f oo . i x
 czterdziestych	tSz t e r . dzi ee s . t y x
 urodzin	u . r oo . dzi i n
 stawiał	s t aa v . j a w
+dziś	dzi ii zi
+dziś	dzi ii si
 dziś	dzi ii zi
 dziś	dzi ii si
 wszystkim	f Sz yy s . t c i m
@@ -2054,15 +2778,25 @@ dietę	d j ee . t e
 muszę	m uu . Sz e
 przestać	p Sz ee s . t a dzi
 przestać	p Sz ee s . t a tsi
+przestać	p Sz ee s . t a dzi
+przestać	p Sz ee s . t a tsi
 jeść	j ee zi dzi
 jeść	j ee si tsi
+jeść	j ee zi dzi
+jeść	j ee si tsi
+chleb	x l ee b
+chleb	x l ee p
 chleb	x l ee b
 chleb	x l ee p
 i	i
 jakiekolwiek	j a . c j e . k oo l . v j e g
 jakiekolwiek	j a . c j e . k oo l . v j e k
+jakiekolwiek	j a . c j e . k oo l . v j e g
+jakiekolwiek	j a . c j e . k oo l . v j e k
 inne	ii . n n e
 pieczywo	p j e . tSz yy . v o
+W	v
+W	f
 W	v
 W	f
 stanach	s t aa . n a x
@@ -2082,6 +2816,8 @@ mi	m i
 się	si e
 z	z
 z	s
+z	z
+z	s
 mdłościami	m d w o si . tsi aa . m i
 i	i
 rozpaczliwą	r o s . p a . tSz l ii . v o w_
@@ -2090,12 +2826,18 @@ powrotu	p o . v r oo . t u
 na	n a
 brzeg	b rZ ee g
 brzeg	b rZ ee k
+brzeg	b rZ ee g
+brzeg	b rZ ee k
 Po	p o
 drodze	d r oo . dz e
 zahaczyli	z a . x a . tSz yy . l i
 o	o
 Utrecht	uu . t r e x d
 Utrecht	uu . t r e x t
+Utrecht	uu . t r e x d
+Utrecht	uu . t r e x t
+zadowalając	z a . d o . v a . l aa . j o n dz
+zadowalając	z a . d o . v a . l aa . j o n ts
 zadowalając	z a . d o . v a . l aa . j o n dz
 zadowalając	z a . d o . v a . l aa . j o n ts
 się	si e
@@ -2106,14 +2848,20 @@ Nie	ni ee
 zrezygnujemy	z r e . z y . g n u . j ee . m y
 z	z
 z	s
+z	z
+z	s
 wyjazdu	v y . j aa z . d u
 niechby	ni ee x . b y
 miało	m j aa . w o
 być	b yy dzi
 być	b yy tsi
+być	b yy dzi
+być	b yy tsi
 zimno	zi ii m . n o
 i	i
 deszczowo	d e Sz . tSz oo . v o
+przez	p Sz e z
+przez	p Sz e s
 przez	p Sz e z
 przez	p Sz e s
 cały	ts aa . w y
@@ -2124,10 +2872,14 @@ to	t o
 sztuczny	Sz t uu . tSz n y
 zbiornik	z b j oo r . ni i g
 zbiornik	z b j oo r . ni i k
+zbiornik	z b j oo r . ni i g
+zbiornik	z b j oo r . ni i k
 dlatego	d l a . t ee . g o
 wymaga	v y . m aa . g a
 solidnego	s o . l i . d n ee . g o
 oczyszczacza	o . tSz y Sz . tSz aa . tSz a
+W	v
+W	f
 W	v
 W	f
 tajdze	t aa j . dz e
@@ -2144,6 +2896,8 @@ wynalazłszy	v y . n a . l aa . s Sz y
 suchy	s uu . x y
 kawałek	k a . v aa . w e g
 kawałek	k a . v aa . w e k
+kawałek	k a . v aa . w e g
+kawałek	k a . v aa . w e k
 ziemi	zi ee . m i
 ogradzały	o . g r a . dz aa . w y
 ją	j o w_
@@ -2157,7 +2911,11 @@ i	i
 westchnęła	v e s . t x n ee . w a
 z	z
 z	s
+z	z
+z	s
 zachwytem	z a . x f yy . t e m
+Cóż	ts uu rZ
+Cóż	ts uu Sz
 Cóż	ts uu rZ
 Cóż	ts uu Sz
 to	t o
@@ -2166,17 +2924,29 @@ smerfne	s m ee r . f n e
 cudeńka	ts u . d ee ni . k a
 W	v
 W	f
+W	v
+W	f
 orszaku	o r . Sz aa . k u
+pluszaków	p l u . Sz aa . k u v
+pluszaków	p l u . Sz aa . k u f
 pluszaków	p l u . Sz aa . k u v
 pluszaków	p l u . Sz aa . k u f
 pierwszy	p j ee r . f Sz y
 kroczył	k r oo . tSz y w
 Miś	m ii zi
 Miś	m ii si
+Miś	m ii zi
+Miś	m ii si
+uszatek	u . Sz aa . t e g
+uszatek	u . Sz aa . t e k
 uszatek	u . Sz aa . t e g
 uszatek	u . Sz aa . t e k
 wraz	v r aa z
 wraz	v r aa s
+wraz	v r aa z
+wraz	v r aa s
+z	z
+z	s
 z	z
 z	s
 prosiaczkiem	p r o . si aa . tSz c j e m
@@ -2184,10 +2954,16 @@ i	i
 króliczkami	k r u . l i . tSz k aa . m i
 Jacek	j aa . ts e g
 Jacek	j aa . ts e k
+Jacek	j aa . ts e g
+Jacek	j aa . ts e k
 zabrał	z aa . b r a w
 się	si e
 z	z
 z	s
+z	z
+z	s
+jakimś	j aa . c i m zi
+jakimś	j aa . c i m si
 jakimś	j aa . c i m zi
 jakimś	j aa . c i m si
 hipisem	x i . p ii . s e m
@@ -2200,8 +2976,12 @@ dwa	d v aa
 miesiące	m j e . si oo n . ts e
 Jad	j aa d
 Jad	j aa t
+Jad	j aa d
+Jad	j aa t
 żmii	rZ m ii . i
 zygzakowatej	z y . g z a . k o . v aa . t e j
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 niebezpieczną	ni e . b e . s p j ee . tSz n o w_
@@ -2215,8 +2995,12 @@ woda	v oo . d a
 zamarzła	z a . m aa r . z w a
 więc	v j ee n dz
 więc	v j ee n ts
+więc	v j ee n dz
+więc	v j ee n ts
 dzieci	dzi ee . tsi i
 mogły	m oo . g w y
+jeździć	j ee zi . dzi i dzi
+jeździć	j ee zi . dzi i tsi
 jeździć	j ee zi . dzi i dzi
 jeździć	j ee zi . dzi i tsi
 na	n a
@@ -2228,11 +3012,19 @@ mnie	m ni ee
 dudnienie	d u . d ni ee . ni e
 bębnów	b ee m . b n u v
 bębnów	b ee m . b n u f
+bębnów	b ee m . b n u v
+bębnów	b ee m . b n u f
 dochodzące	d o . x o . dz oo n . ts e
+gdzieś	g dzi ee zi
+gdzieś	g dzi ee si
 gdzieś	g dzi ee zi
 gdzieś	g dzi ee si
 z	z
 z	s
+z	z
+z	s
+dżungliw	drZ uu N_ . g l i v
+dżungliw	drZ uu N_ . g l i f
 dżungliw	drZ uu N_ . g l i v
 dżungliw	drZ uu N_ . g l i f
 której	k t uu . r e j
@@ -2253,9 +3045,15 @@ Gośka	g oo si . k a
 uprawiają	u . p r a v . j aa . j o w_
 jogging	drZ oo . gi i N_ g
 jogging	drZ oo . gi i N_ k
+jogging	drZ oo . gi i N_ g
+jogging	drZ oo . gi i N_ k
 wspólnie	f s p uu l . ni e
 od	o d
 od	o t
+od	o d
+od	o t
+lat	l aa d
+lat	l aa t
 lat	l aa d
 lat	l aa t
 Czy	tSz yy
@@ -2264,10 +3062,16 @@ radioaktywne	r a d . j o . a . k t yy v . n e
 ma	m aa
 z	z
 z	s
+z	z
+z	s
 energią	e . n ee r . gi j o w_
 cieplną	tsi ee . p l n o w_
 jakiś	j aa . c i zi
 jakiś	j aa . c i si
+jakiś	j aa . c i zi
+jakiś	j aa . c i si
+związek	z v j oo w_ . z e g
+związek	z v j oo w_ . z e k
 związek	z v j oo w_ . z e g
 związek	z v j oo w_ . z e k
 Póki	p uu . c i
@@ -2281,6 +3085,8 @@ mogli	m oo . g l i
 sobie	s oo . b j e
 poużywać	p o . u . rZ yy . v a dzi
 poużywać	p o . u . rZ yy . v a tsi
+poużywać	p o . u . rZ yy . v a dzi
+poużywać	p o . u . rZ yy . v a tsi
 do	d o
 woli	v oo . l i
 Na	n a
@@ -2292,6 +3098,10 @@ psa	p s aa
 rottweilera	r o t . v a j . l ee . r a
 od	o d
 od	o t
+od	o d
+od	o t
+rodziców	r o . dzi ii . ts u v
+rodziców	r o . dzi ii . ts u f
 rodziców	r o . dzi ii . ts u v
 rodziców	r o . dzi ii . ts u f
 Obecnie	o . b ee . ts ni e
@@ -2300,18 +3110,28 @@ formaty	f o r . m aa . t y
 graficzne	g r a . f ii . tSz n e
 w	v
 w	f
+w	v
+w	f
 komputerach	k o m . p u . t ee . r a x
 to	t oo
+gif	gi ii v
+gif	gi ii f
 gif	gi ii v
 gif	gi ii f
 Maleńkie	m a . l ee ni . c j e
 bursztynki	b u r . Sz t yy N_ . c i
 przywiózł	p Sz yy v . j u z
 przywiózł	p Sz yy v . j u s
+przywiózł	p Sz yy v . j u z
+przywiózł	p Sz yy v . j u s
+z	z
+z	s
 z	z
 z	s
 obozu	o . b oo . z u
 turystycznego	t u . r y s . t y . tSz n ee . g o
+w	v
+w	f
 w	v
 w	f
 Monako	m o . n aa . k o
@@ -2319,6 +3139,10 @@ Wokalista	v o . k a . l ii s . t a
 zespołu	z e s . p oo . w u
 Big	b ii g
 Big	b ii k
+Big	b ii g
+Big	b ii k
+Cyc	ts yy dz
+Cyc	ts yy ts
 Cyc	ts yy dz
 Cyc	ts yy ts
 dzwonił	dz v oo . ni i w
@@ -2330,15 +3154,23 @@ Nie	ni ee
 mogłem	m oo . g w e m
 odskrobać	o t . s k r oo . b a dzi
 odskrobać	o t . s k r oo . b a tsi
+odskrobać	o t . s k r oo . b a dzi
+odskrobać	o t . s k r oo . b a tsi
+resztek	r ee Sz . t e g
+resztek	r ee Sz . t e k
 resztek	r ee Sz . t e g
 resztek	r ee Sz . t e k
 przypalonej	p Sz y . p a . l oo . n e j
 zupy	z uu . p y
 od	o d
 od	o t
+od	o d
+od	o t
 dna	d n aa
 garnka	g aa r N_ . k a
 wynędzniała	v y . n e n . dz ni aa . w a
+twarz	t f aa rZ
+twarz	t f aa Sz
 twarz	t f aa rZ
 twarz	t f aa Sz
 i	i
@@ -2357,8 +3189,12 @@ huzarach	x u . z aa . r a x
 leży	l ee . rZ y
 przed	p Sz e d
 przed	p Sz e t
+przed	p Sz e d
+przed	p Sz e t
 drzwiami	drZ v j aa . m i
 Wizy	v ii . z y
+z	z
+z	s
 z	z
 z	s
 ograniczoną	o . g r a . ni i . tSz oo . n o w_
@@ -2366,16 +3202,26 @@ ważnością	v a rZ . n oo si . tsi o w_
 terytorialną	t e . r y . t o r . j aa l . n o w_
 typ	t yy b
 typ	t yy p
+typ	t yy b
+typ	t yy p
+LTVB	l v b
+LTVB	l v p
 LTVB	l v b
 LTVB	l v p
 or	oo r
+LTVC	l v dz
+LTVC	l v ts
 LTVC	l v dz
 LTVC	l v ts
 Felicyty	f e . l i . ts yy . t y
 Hufman	x uu f . m a n
 w	v
 w	f
+w	v
+w	f
 serialu	s e r . j aa . l u
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 mamą	m aa . m o w_
@@ -2383,6 +3229,10 @@ trójki	t r uu j . c i
 małych	m aa . w y x
 potworów	p o . t f oo . r u v
 potworów	p o . t f oo . r u f
+potworów	p o . t f oo . r u v
+potworów	p o . t f oo . r u f
+twierdząc	t f j ee r . dz o n dz
+twierdząc	t f j ee r . dz o n ts
 twierdząc	t f j ee r . dz o n dz
 twierdząc	t f j ee r . dz o n ts
 że	rZ e
@@ -2392,16 +3242,26 @@ mu	m u
 Białorusini	b j a . w o . r u . si ii . ni i
 bądź	b oo ni dzi
 bądź	b oo ni tsi
+bądź	b oo ni dzi
+bądź	b oo ni tsi
 Rosjanie	r o . s j aa . ni e
 Włóż	v w uu rZ
 Włóż	v w uu Sz
+Włóż	v w uu rZ
+Włóż	v w uu Sz
+duplikat	d u . p l ii . k a d
+duplikat	d u . p l ii . k a t
 duplikat	d u . p l ii . k a d
 duplikat	d u . p l ii . k a t
 do	d o
 opakowania	o . p a . k o . v aa . ni a
 z	z
 z	s
+z	z
+z	s
 plastiku	p l a s . t ii . k u
+lub	l uu b
+lub	l uu p
 lub	l uu b
 lub	l uu p
 owiń	oo . v i ni
@@ -2410,6 +3270,10 @@ folią	f oo l . j o w_
 Przewozili	p Sz e . v o . zi ii . l i
 jakichś	j aa . c i x zi
 jakichś	j aa . c i x si
+jakichś	j aa . c i x zi
+jakichś	j aa . c i x si
+członków	tSz w oo N_ . k u v
+członków	tSz w oo N_ . k u f
 członków	tSz w oo N_ . k u v
 członków	tSz w oo N_ . k u f
 prezydium	p r e . z yy d . j u m
@@ -2419,10 +3283,14 @@ Umazał	u . m aa . z a w
 się	si e
 jakąś	j aa . k o w_ zi
 jakąś	j aa . k o w_ si
+jakąś	j aa . k o w_ zi
+jakąś	j aa . k o w_ si
 zielonkawą	zi e . l o N_ . k aa . v o w_
 mazią	m aa . zi o w_
 i	i
 wyglądał	v y . g l oo n . d a w
+jak	j aa g
+jak	j aa k
 jak	j aa g
 jak	j aa k
 zombie	z oo m . b i
@@ -2432,12 +3300,16 @@ się	si e
 to	t o
 zrobić	z r oo . b i dzi
 zrobić	z r oo . b i tsi
+zrobić	z r oo . b i dzi
+zrobić	z r oo . b i tsi
 Magdzie	m aa g . dzi e
 i	i
 nie	ni ee
 ma	m aa
 się	si e
 co	ts oo
+dziwić	dzi ii . v i dzi
+dziwić	dzi ii . v i tsi
 dziwić	dzi ii . v i dzi
 dziwić	dzi ii . v i tsi
 których	k t uu . r y x
@@ -2458,6 +3330,8 @@ tym	t y m
 zdjęciu	z d j ee ni . tsi u
 w	v
 w	f
+w	v
+w	f
 wołdze	v oo w . dz e
 Bohdana	b o x . d aa . n a
 że	rZ e
@@ -2465,9 +3339,15 @@ Jezioro	j e . zi oo . r o
 Ełckie	ee w ts . c j e
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 zniszczone	z ni i Sz . tSz oo . n e
 przez	p Sz e z
 przez	p Sz e s
+przez	p Sz e z
+przez	p Sz e s
+działalność	dzi a . w aa l . n o zi dzi
+działalność	dzi a . w aa l . n o si tsi
 działalność	dzi a . w aa l . n o zi dzi
 działalność	dzi a . w aa l . n o si tsi
 człowiekaa	tSz w o v . j e . k aa . a
@@ -2475,14 +3355,22 @@ ten	t ee n
 stary	s t aa . r y
 odtwarzacz	o t . t f aa . rZ a drZ
 odtwarzacz	o t . t f aa . rZ a tSz
+odtwarzacz	o t . t f aa . rZ a drZ
+odtwarzacz	o t . t f aa . rZ a tSz
 Grundiga	g r u n . d ii . g a
+wyrzuć	v yy . rZ u dzi
+wyrzuć	v yy . rZ u tsi
 wyrzuć	v yy . rZ u dzi
 wyrzuć	v yy . rZ u tsi
 na	n a
 śmietnik	si m j ee . t ni i g
 śmietnik	si m j ee . t ni i k
+śmietnik	si m j ee . t ni i g
+śmietnik	si m j ee . t ni i k
 Ten	t ee n
 łysy	w yy . s y
+taksiarz	t aa . k si a rZ
+taksiarz	t aa . k si a Sz
 taksiarz	t aa . k si a rZ
 taksiarz	t aa . k si a Sz
 był	b yy w
@@ -2494,10 +3382,14 @@ kapitan	k a . p ii . t a n
 śledził	si l ee . dzi i w
 kurs	k uu r z
 kurs	k uu r s
+kurs	k uu r z
+kurs	k uu r s
 swojego	s f o . j ee . g o
 statku	s t aa . t k u
 Kynologia	k y . n o . l oo . gi j a
 nie	ni ee
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 tylko	t yy l . k o
@@ -2506,17 +3398,25 @@ o	o
 tresurze	t r e . s uu . rZ e
 psów	p s uu v
 psów	p s uu f
+psów	p s uu v
+psów	p s uu f
 gdy	g d yy
 wybieraliśmy	v y . b j e . r a . l ii si . m y
 się	si e
 grać	g r aa dzi
 grać	g r aa tsi
+grać	g r aa dzi
+grać	g r aa tsi
+w	v
+w	f
 w	v
 w	f
 softball	s oo f d . b a l
 na	n a
 plażę	p l aa . rZ e
 Czołgi	tSz oo w . gi i
+w	v
+w	f
 w	v
 w	f
 Kalkucie	k a l . k uu . tsi e
@@ -2526,9 +3426,15 @@ rytuały	r y . t u . aa . w y
 Napiszcie	n a . p ii Sz . tsi e
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
+nasz	n a rZ
+nasz	n a Sz
 nasz	n a rZ
 nasz	n a Sz
 odźwierny	o . dzi v j ee r . n y
+poszedł	p oo . Sz e d
+poszedł	p oo . Sz e t
 poszedł	p oo . Sz e d
 poszedł	p oo . Sz e t
 do	d o
@@ -2537,8 +3443,12 @@ Dżentelmeński	drZ e n . t e l . m ee j_ . s c i
 mężczyzna	m e w_ . Sz tSz yy z . n a
 podszedł	p oo . t Sz e d
 podszedł	p oo . t Sz e t
+podszedł	p oo . t Sz e d
+podszedł	p oo . t Sz e t
 bliżej	b l ii . rZ e j
 Mu	m u
+w	v
+w	f
 w	v
 w	f
 hollywodzkiej	x o . l l y . v oo . ts c j e j
@@ -2553,9 +3463,13 @@ postale	p o s . t aa . l e
 ten	t ee n
 ksiądz	k si oo n dz
 ksiądz	k si oo n ts
+ksiądz	k si oo n dz
+ksiądz	k si oo n ts
 często	tSz ee w_ . s t o
 takie	t aa . c j e
 wygłasza	v y . g w aa . Sz a
+Z	z
+Z	s
 Z	z
 Z	s
 książki	k si oo w_ . Sz c i
@@ -2564,7 +3478,11 @@ odgięta	o d . gi j ee n . t a
 strona	s t r oo . n a
 Sopot	s oo . p o d
 Sopot	s oo . p o t
+Sopot	s oo . p o d
+Sopot	s oo . p o t
 i	i
+Gdańsk	g d aa j_ z g
+Gdańsk	g d aa j_ s k
 Gdańsk	g d aa j_ z g
 Gdańsk	g d aa j_ s k
 na	n a
@@ -2577,21 +3495,31 @@ przeciwmgielne	p Sz e . tsi i v . m gi j ee l . n e
 a	a
 wewnątrz	v ee v . n o n drZ
 wewnątrz	v ee v . n o n tSz
+wewnątrz	v ee v . n o n drZ
+wewnątrz	v ee v . n o n tSz
 niego	ni ee . g o
 znaleziono	z n a . l e . zi oo . n o
 broń	b r oo ni
 z	z
 z	s
+z	z
+z	s
 brązu	b r oo w_ . z u
+pod	p o d
+pod	p o t
 pod	p o d
 pod	p o t
 wnęką	v n ee N_ . k o w_
 stał	s t aa w
 sprzęt	s p Sz ee n d
 sprzęt	s p Sz ee n t
+sprzęt	s p Sz ee n d
+sprzęt	s p Sz ee n t
 dzwonnika	dz v o . ni ni ii . k a
 Prosiłam	p r o . si ii . w a m
 aby	aa . b y
+wyszedł	v yy . Sz e d
+wyszedł	v yy . Sz e t
 wyszedł	v yy . Sz e d
 wyszedł	v yy . Sz e t
 i	i
@@ -2603,6 +3531,10 @@ i	i
 mężowi	m e w_ . rZ oo . v i
 wasz	v a rZ
 wasz	v a Sz
+wasz	v a rZ
+wasz	v a Sz
+zięć	zi ee ni dzi
+zięć	zi ee ni tsi
 zięć	zi ee ni dzi
 zięć	zi ee ni tsi
 się	si e
@@ -2611,11 +3543,17 @@ Przestań	p Sz ee s . t a ni
 że	rZ e
 szyć	Sz yy dzi
 szyć	Sz yy tsi
+szyć	Sz yy dzi
+szyć	Sz yy tsi
+z	z
+z	s
 z	z
 z	s
 zamszu	z aa m . Sz u
 te	t ee
 buciki	b u . tsi ii . c i
+W	v
+W	f
 W	v
 W	f
 sen	s ee n
@@ -2629,25 +3567,39 @@ uprawiam	u . p r aa v . j a m
 joggingu	drZ o . gi ii N_ . g u
 w	v
 w	f
+w	v
+w	f
 Miedzeszynie	m j e . dz e . Sz yy . ni e
 Na	n a
 Półwiejskiej	p u w . v j ee j . s c j e j
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+klub	k l uu b
+klub	k l uu p
 klub	k l uu b
 klub	k l uu p
 jazzowy	drZ e . z oo . v y
+zamiast	z aa m . j a z d
+zamiast	z aa m . j a s t
 zamiast	z aa m . j a z d
 zamiast	z aa m . j a s t
 tańszej	t aa j_ . Sz e j
 typu	t yy . p u
 hatchback	x ee tSz . b e g
 hatchback	x ee tSz . b e k
+hatchback	x ee tSz . b e g
+hatchback	x ee tSz . b e k
 Nastąpił	n a s . t oo m . p i w
+skurcz	s k uu r drZ
+skurcz	s k uu r tSz
 skurcz	s k uu r drZ
 skurcz	s k uu r tSz
 lewej	l ee . v e j
 nogi	n oo . gi i
+Bank	b aa N_ g
+Bank	b aa N_ k
 Bank	b aa N_ g
 Bank	b aa N_ k
 chłopski	x w oo . p s c i
@@ -2660,12 +3612,20 @@ założeń	z a . w oo . rZ e ni
 szintoizmu	Sz i n . t o . ii z . m u
 Słyszałeś	s w y . Sz aa . w e zi
 Słyszałeś	s w y . Sz aa . w e si
+Słyszałeś	s w y . Sz aa . w e zi
+Słyszałeś	s w y . Sz aa . w e si
 ten	t ee n
 ciężki	tsi ee w_ . Sz c i
+łomot	w oo . m o t
+uprawiałeś	u . p r a v . j aa . w e zi
+uprawiałeś	u . p r a v . j aa . w e si
 uprawiałeś	u . p r a v . j aa . w e zi
 uprawiałeś	u . p r a v . j aa . w e si
 kiedyś	c j ee . d y zi
 kiedyś	c j ee . d y si
+kiedyś	c j ee . d y zi
+kiedyś	c j ee . d y si
+dżudo	drZ uu . d o
 łokcia	w oo . k tsi a
 u	u
 dżokeja	drZ o . k ee . j a
@@ -2673,9 +3633,13 @@ to	t o
 klęska	k l ee w_ . s k a
 Masz	m aa rZ
 Masz	m aa Sz
+Masz	m aa rZ
+Masz	m aa Sz
 dzisiaj	dzi ii . si a j
 różyczkę	r u . rZ yy . tSz k e
 zieloną	zi e . l oo . n o w_
+Woź	v oo zi
+Woź	v oo si
 Woź	v oo zi
 Woź	v oo si
 żyto	rZ yy . t o
@@ -2687,12 +3651,18 @@ Dzwoniły	dz v o . ni ii . w y
 dzwony	dz v oo . n y
 w	v
 w	f
+w	v
+w	f
 kościołach	k o si . tsi oo . w a x
+częstując	tSz e w_ . s t uu . j o n dz
+częstując	tSz e w_ . s t uu . j o n ts
 częstując	tSz e w_ . s t uu . j o n dz
 częstując	tSz e w_ . s t uu . j o n ts
 ziemniakam	zi e m . ni aa . k a m
 i	i
 takie	t aa . c j e
+już	j uu rZ
+już	j uu Sz
 już	j uu rZ
 już	j uu Sz
 są	s oo w_
@@ -2703,9 +3673,13 @@ dzwonka	dz v oo N_ . k a
 Przestań	p Sz ee s . t a ni
 chrzanić	x Sz aa . ni i dzi
 chrzanić	x Sz aa . ni i tsi
+chrzanić	x Sz aa . ni i dzi
+chrzanić	x Sz aa . ni i tsi
 Nie	ni ee
 pieprzmy	p j ee . p rZ m y
 tego	t ee . g o
+Widziałeś	v i . dzi aa . w e zi
+Widziałeś	v i . dzi aa . w e si
 Widziałeś	v i . dzi aa . w e zi
 Widziałeś	v i . dzi aa . w e si
 łunę	w uu . n e
@@ -2716,48 +3690,87 @@ pracują	p r a . ts uu . j o w_
 ciężko	tsi ee w_ . Sz k o
 w	v
 w	f
+w	v
+w	f
 Niemczech	ni ee m . tSz e x
 Telemarketerka	t e . l e . m a r . k e . t ee r . k a
+obdzwoniła	o b . dz v o . ni ii . w a
 wszystkich	f Sz yy s . t c i x
+petentów	p e . t ee n . t u v
+petentów	p e . t ee n . t u f
+petentów	p e . t ee n . t u v
+petentów	p e . t ee n . t u f
 Subdiakon	s u b . d j aa . k o n
+którego	k t u . r ee . g o
 znam	z n aa m
 to	t o
 bardzo	b aa r . dz o
 spokojny	s p o . k oo j . n y
+człowiek	tSz w oo v . j e g
+człowiek	tSz w oo v . j e k
+człowiek	tSz w oo v . j e g
+człowiek	tSz w oo v . j e k
 Pies	p j ee z
 Pies	p j ee s
+Pies	p j ee z
+Pies	p j ee s
+obdrapał	o b . d r aa . p a w
 mi	m i
-farbę	f aa r b
-farbę	f aa r p
+farbę	f aa r . b e
+farbę	f aa r . b e
 ze	z e
-ścian	tsi aa n
+ścian	si tsi aa n
 Moja	m oo . j a
+koleżanka	k o . l e . rZ aa N_ . k a
 z	z
 z	s
-ławki	aa f . c i
+z	z
+z	s
+ławki	w aa f . c i
 ma	m aa
 poobgryzane	p o . o b . g r y . z aa . n e
 paznokcie	p a z . n oo . k tsi e
 Bibliotekarka	b i . b l j o . t e . k aa r . k a
+zamknęła	z a m . k n ee . w a
 dzisiaj	dzi ii . si a j
-szkolną	Sz k oo l n
-bibliotekę	b i . b l j oo . t e g
-bibliotekę	b i . b l j oo . t e k
+szkolną	Sz k oo l . n o w_
+bibliotekę	b i . b l j o . t ee . k e
+bibliotekę	b i . b l j o . t ee . k e
+wcześniej	f tSz ee si . ni e j
 nie	ni ee
 lubie	l uu . b j e
 obmierzlych	o b . m j ee r . z l y x
 starcow	s t aa r . ts o v
 starcow	s t aa r . ts o f
+starcow	s t aa r . ts o v
+starcow	s t aa r . ts o f
+Mój	m uu j
+chłopak	x w oo . p a g
+chłopak	x w oo . p a k
+chłopak	x w oo . p a g
+chłopak	x w oo . p a k
+jeździ	j ee zi . dzi i
 kabrioletem	k a . b r j o . l ee . t e m
+Krnąbrny	k r n oo m . b r n y
+właściciel	v w a si . tsi ii . tsi e l
 sklepu	s k l ee . p u
 ze	z e
 srebrem	s r ee . b r e m
 nie	ni ee
+wybrnął	v yy . b r n o w
 z	z
 z	s
+z	z
+z	s
+długów	d w uu . g u v
+długów	d w uu . g u f
+długów	d w uu . g u v
+długów	d w uu . g u f
 i	i
+splajtował	s p l a j . t oo . v a w
 Nie	ni ee
-jesteś	j ee s . t e
+jesteś	j ee s . t e zi
+jesteś	j ee s . t e si
 warta	v aa r . t a
 jednego	j e . d n ee . g o
 srebrnika	s r e . b r ni ii . k a
@@ -2765,17 +3778,27 @@ Ale	aa . l e
 zimno	zi ii m . n o
 Bokser	b oo . k s e r
 ma	m aa
-łuk	uu g
-łuk	uu k
+rozcięty	r o s . tsi ee n . t y
+łuk	w uu g
+łuk	w uu k
+łuk	w uu g
+łuk	w uu k
 brwiowy	b r v j oo . v y
 Cyganka	ts y . g aa N_ . k a
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 obwieszona	o b . v j e . Sz oo . n a
+złotem	z w oo . t e m
 Matka	m aa . t k a
+ubzdurała	u . b z d u . r aa . w a
 sobie	s oo . b j e
-że	ee
-zostanę	z oo s . t a n
+że	rZ e
+zostanę	z o s . t aa . n e
+księdzem	k si ee n . dz e m
+Jarek	j aa . r e g
+Jarek	j aa . r e k
 Jarek	j aa . r e g
 Jarek	j aa . r e k
 nie	ni ee
@@ -2783,349 +3806,621 @@ gra	g r aa
 na	n a
 gitarze	gi i . t aa . rZ e
 tylko	t yy l . k o
+brzdąka	b rZ d oo N_ . k a
+W	v
+W	f
 W	v
 W	f
 pokoju	p o . k oo . j u
 rozbrzmiewa	r o z . b rZ m j ee . v a
+pobudzająca	p o . b u . dz a . j oo n . ts a
 muzyka	m u . z yy . k a
 Obznajmil	o b . z n aa j . m i l
-prawdę	p r aa v d
-prawdę	p r aa f t
+prawdę	p r aa v . d e
+prawdę	p r aa v . d e
 wszem	f Sz ee m
 i	i
 wobec	v oo . b e dz
 wobec	v oo . b e ts
+wobec	v oo . b e dz
+wobec	v oo . b e ts
+Ubrałam	u . b r aa . w a m
 lekkie	l ee . c c j e
 rzeczy	rZ ee . tSz y
-ponieważ	p o . ni ee . v a
+ponieważ	p o . ni ee . v a rZ
+ponieważ	p o . ni ee . v a Sz
+słonko	s w oo N_ . k o
+świeciło	si f j e . tsi ii . w o
 mocno	m oo . ts n o
 Sarny	s aa r . n y
+występują	v y s . t e m . p uu . j o w_
 w	v
 w	f
+w	v
+w	f
+dużej	d uu . rZ e j
 liczbie	l ii . drZ b j e
+w	v
+w	f
 w	v
 w	f
 tym	t y m
 rejonie	r e . j oo . ni e
 Rolnik	r oo l . ni i g
 Rolnik	r oo l . ni i k
+Rolnik	r oo l . ni i g
+Rolnik	r oo l . ni i k
 ma	m aa
+źdźbła	zi dzi b w aa
+zboża	z b oo . rZ a
 we	v e
+włosach	v w oo . s a x
 Napastnik	n a . p aa s . t ni i g
 Napastnik	n a . p aa s . t ni i k
-swoją	s f oo j
-ofiarę	oo . f j a r
+Napastnik	n a . p aa s . t ni i g
+Napastnik	n a . p aa s . t ni i k
+dźgnął	dzi g n oo w
+nożem	n oo . rZ e m
+swoją	s f oo . j o w_
+ofiarę	o . f j aa . r e
+Niedźwiedź	ni ee . dzi v j e dzi
+Niedźwiedź	ni ee . dzi v j e tsi
+Niedźwiedź	ni ee . dzi v j e dzi
+Niedźwiedź	ni ee . dzi v j e tsi
 ma	m aa
-dużą	d uu
-ochotę	oo . x o d
-ochotę	oo . x o t
+dużą	d uu . rZ o w_
+ochotę	o . x oo . t e
+ochotę	o . x oo . t e
 na	n a
-Mąż	m
+miód	m j uu d
+miód	m j uu t
+miód	m j uu d
+miód	m j uu t
+Mąż	m oo w_ rZ
+Mąż	m oo w_ Sz
+wyszedł	v yy . Sz e d
+wyszedł	v yy . Sz e t
+z	z
+z	s
 z	z
 z	s
 pokoju	p o . k oo . j u
 i	i
+trzasnął	t Sz aa s . n o w
 za	z a
-sobą	s oo b
-sobą	s oo p
+sobą	s oo . b o w_
+sobą	s oo . b o w_
 drzwiami	drZ v j aa . m i
-Odbiorę	oo d . b j o r
+Odbiorę	o d . b j oo . r e
+odbiornik	o d . b j oo r . ni i g
+odbiornik	o d . b j oo r . ni i k
 odbiornik	o d . b j oo r . ni i g
 odbiornik	o d . b j oo r . ni i k
 od	o d
 od	o t
+od	o d
+od	o t
 naprawy	n a . p r aa . v y
 Rowerzysta	r o . v e . rZ yy s . t a
+dostał	d oo s . t a w
 mandat	m aa n . d a d
 mandat	m aa n . d a t
-ponieważ	p o . ni ee . v a
+mandat	m aa n . d a d
+mandat	m aa n . d a t
+ponieważ	p o . ni ee . v a rZ
+ponieważ	p o . ni ee . v a Sz
+odpadł	oo . t p a d
+odpadł	oo . t p a t
 mu	m u
 odblask	oo d . b l a z g
 odblask	oo d . b l a s k
+odblask	oo d . b l a z g
+odblask	oo d . b l a s k
 Lokatorzy	l o . k a . t oo . rZ y
-się	s ii
+znaleźli	z n a . l ee . zi l i
+się	si e
+w	v
+w	f
 w	v
 w	f
 podbramkowej	p o d . b r a m . k oo . v e j
 sytuacji	s y . t u . aa . ts i
 i	i
 musieli	m u . si ee . l i
-się	s ii
-wyprowadzić	v y . p r o . v aa . dzi i
+się	si e
+wyprowadzić	v y . p r o . v aa . dzi i dzi
+wyprowadzić	v y . p r o . v aa . dzi i tsi
+odbłysk	oo d . b w y z g
+odbłysk	oo d . b w y s k
+odbłysk	oo d . b w y z g
+odbłysk	oo d . b w y s k
+światła	si f j aa . t w a
+oślepiał	o . si l ee . p j a w
 Trzeba	t Sz ee . b a
-wyciąć	v yy . tsi i
+wyciąć	v yy . tsi o ni dzi
+wyciąć	v yy . tsi o ni tsi
+nadbrzeżne	n a d . b rZ ee rZ . n e
+zarośla	z a . r oo . si l a
 aby	aa . b y
-poszerzyć	p o . Sz ee . rZ y
-plażę	p l aa
-Oddzwonię	o d . dz v oo . ni i
+poszerzyć	p o . Sz ee . rZ y dzi
+poszerzyć	p o . Sz ee . rZ y tsi
+plażę	p l aa . rZ e
+Oddzwonię	o d . dz v oo . ni e
 do	d o
 ciebie	tsi ee . b j e
 za	z a
-chwilę	x f ii l
-Marzę	m aa rZ
-Marzę	m aa Sz
+chwilę	x f ii . l e
+Marzę	m aa . rZ e
+Marzę	m aa . rZ e
 o	o
 kupnie	k uu . p ni e
+ponaddźwiękowego	p o . n a d . dzi v j e N_ . k o . v ee . g o
 odrzutowca	o . d rZ u . t oo f . ts a
 Naddruk	n aa d . d r u g
 Naddruk	n aa d . d r u k
-też	t ee
-się	s ii
+Naddruk	n aa d . d r u g
+Naddruk	n aa d . d r u k
+książki	k si oo w_ . Sz c i
+też	t e rZ
+też	t e Sz
+się	si e
+sprzedał	s p Sz ee . d a w
 i	i
 wydawca	v y . d aa f . ts a
+zlecił	z l ee . tsi i w
 dodrukowanie	d o . d r u . k o . v aa . ni e
 kilkuset	c i l . k uu . s e d
 kilkuset	c i l . k uu . s e t
+kilkuset	c i l . k uu . s e d
+kilkuset	c i l . k uu . s e t
 egzemplarzy	e . g z e m . p l aa . rZ y
+książki	k si oo w_ . Sz c i
+Oddłubałem	o d . d w u . b aa . w e m
+kawałek	k a . v aa . w e g
+kawałek	k a . v aa . w e k
+kawałek	k a . v aa . w e g
+kawałek	k a . v aa . w e k
 chleba	x l ee . b a
 bo	b o
+byłem	b yy . w e m
+głodny	g w oo . d n y
+Chłopcy	x w oo . p ts y
+podglądali	p o d . g l o n . d aa . l i
 dziewczynki	dzi e f . tSz yy N_ . c i
-się	s ii
+bawiące	b a v . j oo n . ts e
+się	si e
 lalkami	l a l . k aa . m i
 Odgnieciony	o d . g ni e . tsi oo . n y
-ślad	l aa d
-ślad	l aa t
+ślad	si l aa d
+ślad	si l aa t
+ślad	si l aa d
+ślad	si l aa t
+głowy	g w oo . v y
 na	n a
 poduszce	p o . d uu Sz . ts e
-że	ee
+wskazywał	f s k a . z yy . v a w
+że	rZ e
 jej	j e j
+męża	m ee w_ . rZ a
+odwiedziła	o d . v j e . dzi ii . w a
 kochanka	k o . x aa N_ . k a
 Jej	j e j
-obecność	o . b ee . ts n o
+obecność	o . b ee . ts n o zi dzi
+obecność	o . b ee . ts n o si tsi
 nie	ni ee
-żadnej	aa . d n e j
+odgrywała	o d . g r y . v aa . w a
+żadnej	rZ aa . d n e j
 roli	r oo . l i
+W	v
+W	f
 W	v
 W	f
 przedgwiazdkowy	p Sz e d . g v j a s . t k oo . v y
 czas	tSz aa z
 czas	tSz aa s
+czas	tSz aa z
+czas	tSz aa s
 ludzi	l uu . dzi i
 ogarnia	o . g aa r . ni a
-się	s ii
+szał	Sz aa w
+zakupów	z a . k uu . p u v
+zakupów	z a . k uu . p u f
+zakupów	z a . k uu . p u v
+zakupów	z a . k uu . p u f
+Słyszałam	s w y . Sz aa . w a m
+odgłos	oo d . g w o z
+odgłos	oo d . g w o s
+odgłos	oo d . g w o z
+odgłos	oo d . g w o s
+zbliżającego	z b l i . rZ a . j o n . ts ee . g o
+się	si e
+pociągu	p o . tsi oo N_ . g u
 Kiedy	c j ee . d y
 przyjedzie	p Sz y . j ee . dzi e
-mąż	m
-muszę	m uu rZ
-muszę	m uu Sz
-odgrzać	oo d . g rZ a
+mąż	m oo w_ rZ
+mąż	m oo w_ Sz
+muszę	m uu . Sz e
+muszę	m uu . Sz e
+odgrzać	oo d . g rZ a dzi
+odgrzać	oo d . g rZ a tsi
+obiad	oo . b j a d
+obiad	oo . b j a t
 obiad	oo . b j a d
 obiad	oo . b j a t
 dla	d l a
 niego	ni ee . g o
 Z	z
 Z	s
+Z	z
+Z	s
+książki	k si oo w_ . Sz c i
+wystawała	v y s . t a . v aa . w a
+odgięta	o d . gi j ee n . t a
 strona	s t r oo . n a
-się	s ii
+Módlmy	m uu . d l m y
+się	si e
 za	z a
 dusze	d uu . Sz e
+zmarłych	z m aa r . w y x
 kadzilne	k a . dzi ii l . n e
 wonie	v oo . ni e
 mydlnica	m y . d l ni ii . ts a
 jest	j ee z d
 jest	j ee s t
-dużą	d uu
-rzeką	rZ ee g
-rzeką	rZ ee k
+jest	j ee z d
+jest	j ee s t
+dużą	d uu . rZ o w_
+rzeką	rZ ee . k o w_
+rzeką	rZ ee . k o w_
 Siedmioro	si e d . m j oo . r o
 siedmioletnich	si e d . m j o . l ee . t ni i x
 dzieci	dzi ee . tsi i
-odmieniać	o d . m j ee . ni a
+potrafiło	p o . t r a . f ii . w o
+odmieniać	o d . m j ee . ni a dzi
+odmieniać	o d . m j ee . ni a tsi
 rzeczowniki	rZ e . tSz o v . ni ii . c i
 siedemnasty	si e . d e m . n aa s . t y
+żołnierz	rZ oo w . ni e rZ
+żołnierz	rZ oo w . ni e Sz
+żołnierz	rZ oo w . ni e rZ
+żołnierz	rZ oo w . ni e Sz
+zmarł	z m aa r
 Bezdomny	b e z . d oo m . n y
+odmroził	o d . m r oo . zi i w
 sobie	s oo . b j e
 stopy	s t oo . p y
 Nie	ni ee
 wierz	v j ee rZ
 wierz	v j ee Sz
-że	ee
+wierz	v j ee rZ
+wierz	v j ee Sz
+że	rZ e
 ten	t ee n
 krem	k r ee m
-cię	tsi ii
+cię	tsi e
+odmłodzi	o d . m w oo . dzi i
 Crepidnm	ts r ee . p i d n m
 to	t o
+lek	l ee g
+lek	l ee k
 lek	l ee g
 lek	l ee k
 na	n a
 grype	g r yy . p e
 Nikt	ni ii g d
 Nikt	ni ii k t
+Nikt	ni ii g d
+Nikt	ni ii k t
 nie	ni ee
 kupi	k uu . p i
 od	o d
 od	o t
+od	o d
+od	o t
 ciebie	tsi ee . b j e
+nadrdzewiałego	n a d . r dz e v . j a . w ee . g o
 auta	aa w . t a
 Gdy	g d yy
+zobaczył	z o . b aa . tSz y w
 psa	p s aa
 ze	z e
 strachu	s t r aa . x u
 ani	aa . ni i
+drgnął	d r g n oo w
 i	i
 to	t o
+uratowało	u . r a . t o . v aa . w o
 go	g o
+przed	p Sz e d
+przed	p Sz e t
 przed	p Sz e d
 przed	p Sz e t
 pogryzieniem	p o . g r y . zi ee . ni e m
 Adrian	aa . d r j a n
+został	z oo s . t a w
 weterynarzem	v e . t e . r y . n aa . rZ e m
 Drwal	d r v aa l
+zadrwił	z aa . d r v i w
 z	z
 z	s
+z	z
+z	s
+sąsiada	s o w_ . si aa . d a
 i	i
+poniósł	p oo . ni u z
+poniósł	p oo . ni u s
 za	z a
 to	t o
-karę	k aa r
+karę	k aa . r e
 Z	z
 Z	s
-się	s ii
+Z	z
+Z	s
+drżeniem	d r rZ ee . ni e m
+głosu	g w oo . s u
+pożegnał	p o . rZ ee . g n a w
+się	si e
 ze	z e
 wszystkimi	f Sz y s . t c ii . m i
-Obiecuję	o . b j ee . ts u j
-że	ee
+Obiecuję	o . b j e . ts uu . j e
+że	rZ e
 w	v
 w	f
+w	v
+w	f
+przyszłości	p Sz y . Sz w oo si . tsi i
+odwdzięczę	o d . v dzi ee n . tSz e
+odwdzięczę	o d . v dzi ee n . tSz e
 ci	tsi i
-się	s ii
+się	si e
 za	z a
 pomoc	p oo . m o dz
 pomoc	p oo . m o ts
+pomoc	p oo . m o dz
+pomoc	p oo . m o ts
 Nie	ni ee
-podwiozę	p oo d . v j o z
-podwiozę	p oo d . v j o s
-cię	tsi ii
-ponieważ	p o . ni ee . v a
+podwiozę	p o d . v j oo . z e
+podwiozę	p o d . v j oo . z e
+cię	tsi e
+ponieważ	p o . ni ee . v a rZ
+ponieważ	p o . ni ee . v a Sz
 ten	t ee n
+sklep	s k l ee b
+sklep	s k l ee p
 sklep	s k l ee b
 sklep	s k l ee p
 jest	j ee z d
 jest	j ee s t
-stąd	d
-stąd	t
+jest	j ee z d
+jest	j ee s t
+dwieście	d v j ee si . tsi e
+metrów	m ee . t r u v
+metrów	m ee . t r u f
+metrów	m ee . t r u v
+metrów	m ee . t r u f
+stąd	s t oo n d
+stąd	s t oo n t
+stąd	s t oo n d
+stąd	s t oo n t
 Co	ts oo
-się	s ii
+się	si e
 odwlecze	o d . v l ee . tSz e
 to	t o
 nie	ni ee
 uciecze	u . tsi ee . tSz e
 pod	p o d
 pod	p o t
+pod	p o d
+pod	p o t
+wnęką	v n ee N_ . k o w_
+wnęką	v n ee N_ . k o w_
+stał	s t aa w
+sprzęt	s p Sz ee n d
+sprzęt	s p Sz ee n t
+sprzęt	s p Sz ee n d
+sprzęt	s p Sz ee n t
 dzwonnika	dz v o . ni ni ii . k a
-Odwróć	oo d v r
-Odwróć	oo d f r
-się	s ii
+Odwróć	oo d . v r u dzi
+Odwróć	oo d . v r u tsi
+Odwróć	oo d . v r u dzi
+Odwróć	oo d . v r u tsi
+się	si e
 do	d o
 mnie	m ni ee
 bo	b o
-chcę	x dz
-chcę	x ts
-się	s ii
+chcę	x ts ee
+chcę	x ts ee
+się	si e
 tobie	t oo . b j e
-przyjrzeć	p Sz yy j . rZ e
-się	s ii
+przyjrzeć	p Sz yy j . rZ e dzi
+przyjrzeć	p Sz yy j . rZ e tsi
+Podwładny	p o d . v w aa . d n y
+zwrócił	z v r uu . tsi i w
+się	si e
 do	d o
 dyrektora	d y . r e . k t oo . r a
 z	z
 z	s
+z	z
+z	s
+prośbą	p r oo zi . b o w_
+prośbą	p r oo zi . b o w_
 o	o
+urlop	uu r . l o b
+urlop	uu r . l o p
 urlop	uu r . l o b
 urlop	uu r . l o p
 ale	aa . l e
 nie	ni ee
+uzyskał	u . z yy s . k a w
 zgody	z g oo . d y
 Krystian	k r yy s . t j a n
+odwzajemnił	o d . v z a . j ee m . ni i w
 uczucia	u . tSz uu . tsi a
 Bronki	b r oo N_ . c i
 i	i
+przysiągł	p Sz yy . si o N_ g
+przysiągł	p Sz yy . si o N_ k
 jej	j e j
-dozgonną	d oo z . g o n
+dozgonną	d o z . g oo . n n o w_
+miłość	m ii . w o zi dzi
+miłość	m ii . w o si tsi
 Marek	m aa . r e g
 Marek	m aa . r e k
+Marek	m aa . r e g
+Marek	m aa . r e k
+krzyknął	k Sz yy . k n o w
 do	d o
 brata	b r aa . t a
 z	z
 z	s
+z	z
+z	s
+szóstego	Sz u s . t ee . g o
+piętra	p j ee n . t r a
 aby	aa . b y
 na	n a
 niego	ni ee . g o
+poczekał	p o . tSz ee . k a w
 ale	aa . l e
 ten	t ee n
+odwrzasnął	o d . v rZ aa s . n o w
 mu	m u
 tylko	t yy l . k o
-że	ee
+że	rZ e
 zaraz	z aa . r a z
 zaraz	z aa . r a s
+zaraz	z aa . r a z
+zaraz	z aa . r a s
+odjeżdża	o d . j ee rZ . drZ a
 jego	j ee . g o
+autobus	a w . t oo . b u z
+autobus	a w . t oo . b u s
 autobus	a w . t oo . b u z
 autobus	a w . t oo . b u s
 po	p o
 czym	tSz yy m
-się	s ii
+odwrócił	o d . v r uu . tsi i w
+się	si e
 i	i
+odszedł	oo . t Sz e d
+odszedł	oo . t Sz e t
+Wszedłszy	f Sz ee . t Sz y
 do	d o
 biura	b j uu . r a
-że	ee
-ktoś	k t oo
+spostrzegłam	s p o s . t Sz ee . g w a m
+że	rZ e
+ktoś	k t oo zi
+ktoś	k t oo si
+grzebał	g rZ ee . b a w
+w	v
+w	f
 w	v
 w	f
 moich	m oo . i x
 dokumentach	d o . k u . m ee n . t a x
+Zbiór	z b j uu r
+liczb	l ii drZ b
+liczb	l ii tSz p
 liczb	l ii drZ b
 liczb	l ii tSz p
 naturalnych	n a . t u . r aa l . n y x
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 podzbiorem	p o d . z b j oo . r e m
 liczb	l ii drZ b
 liczb	l ii tSz p
+liczb	l ii drZ b
+liczb	l ii tSz p
+całkowitych	ts a w . k o . v ii . t y x
 Wszystkie	f Sz yy s . t c j e
+pieniądze	p j e . ni oo n . dz e
+wydał	v yy . d a w
 na	n a
 bilety	b i . l ee . t y
 przedzjazdowe	p Sz e d . z j a z . d oo . v e
 pod	p o d
 pod	p o t
+pod	p o d
+pod	p o t
 zlewem	z l ee . v e m
+wyciekła	v y . tsi ee . k w a
 woda	v oo . d a
 Dawid	d aa . v i d
 Dawid	d aa . v i t
+Dawid	d aa . v i d
+Dawid	d aa . v i t
+pachniał	p aa x . ni a w
 perfumami	p e r . f u . m aa . m i
 o	o
+nadzmysłowym	n a d . z m y . s w oo . v y m
+wręcz	v r ee n drZ
+wręcz	v r ee n tSz
+wręcz	v r ee n drZ
+wręcz	v r ee n tSz
 zapachu	z a . p aa . x u
+Dowódca	d o . v uu . t ts a
+odznaczył	o d . z n aa . tSz y w
+żołnierza	rZ o w . ni ee . rZ a
 za	z a
-odwagę	oo . d v a g
-odwagę	oo . d v a k
+odwagę	o . d v aa . g e
+odwagę	o . d v aa . g e
 na	n a
 polu	p oo . l u
 walki	v aa l . c i
 W	v
 W	f
+W	v
+W	f
+przedżniwny	p Sz e d . rZ ni ii v . n y
+czas	tSz aa z
+czas	tSz aa s
 czas	tSz aa z
 czas	tSz aa s
 rolnicy	r o l . ni ii . ts y
-zbierają	z b j ee . r a j
+zbierają	z b j e . r aa . j o w_
+siły	si ii . w y
 do	d o
 pracy	p r aa . ts y
 Dziadek	dzi aa . d e g
 Dziadek	dzi aa . d e k
-się	s ii
+Dziadek	dzi aa . d e g
+Dziadek	dzi aa . d e k
+odzwyczaił	o d . z v y . tSz aa . i w
+się	si e
+od	o d
+od	o t
 od	o d
 od	o t
 palenia	p a . l ee . ni a
-ponieważ	p o . ni ee . v a
+ponieważ	p o . ni ee . v a rZ
+ponieważ	p o . ni ee . v a Sz
+nawyk	n aa . v y g
+nawyk	n aa . v y k
 nawyk	n aa . v y g
 nawyk	n aa . v y k
 ten	t ee n
+był	b yy w
 nadzwyczaj	n a d . z v yy . tSz a j
 niebezpieczny	ni e . b e . s p j ee . tSz n y
 dla	d l a
 jego	j ee . g o
 zdrowia	z d r oo v . j a
+Znalazłam	z n a . l aa . z w a m
 banknot	b aa N_ . k n o d
 banknot	b aa N_ . k n o t
-Lubię	l uu . b i
-rysować	r y . s oo . v a
+banknot	b aa N_ . k n o d
+banknot	b aa N_ . k n o t
+pięciusetzłotowy	p j e ni . tsi u . s e d . z w o . t oo . v y
+Lubię	l uu . b j e
+rysować	r y . s oo . v a dzi
+rysować	r y . s oo . v a tsi
 kwiatki	k f j aa . t c i
+ołówkiem	o . w uu f . c j e m
+w	v
+w	f
 w	v
 w	f
 zeszycie	z e . Sz yy . tsi e
@@ -3135,341 +4430,628 @@ na	n a
 ulotce	u . l oo . t ts e
 przed	p Sz e d
 przed	p Sz e t
+przed	p Sz e d
+przed	p Sz e t
+zażyciem	z a . rZ yy . tsi e m
 lekarstwa	l e . k aa r . s t f a
+Wkleiłem	f k l e . ii . w e m
 kilka	c ii l . k a
+artykułów	a r . t y . k uu . w u v
+artykułów	a r . t y . k uu . w u f
+artykułów	a r . t y . k uu . w u v
+artykułów	a r . t y . k uu . w u f
 do	d o
 mojego	m o . j ee . g o
 dziennika	dzi e . ni ni ii . k a
 ale	aa . l e
 nauczycielka	n a . u . tSz y . tsi ee l . k a
-że	ee
+powiedziała	p o v . j e . dzi aa . w a
+że	rZ e
 to	t o
 za	z a
+mało	m aa . w o
 Do	d o
 twoich	t f oo . i x
-obliczeń	o . b l ii . tSz e
-się	s ii
+obliczeń	o . b l ii . tSz e ni
+wkradł	f k r aa d
+wkradł	f k r aa t
+się	si e
+błąd	b w oo n d
+błąd	b w oo n t
+błąd	b w oo n d
+błąd	b w oo n t
+Pielęgniarka	p j e . l e N_ . g ni aa r . k a
+podała	p o . d aa . w a
 pacjentowi	p a . ts j e n . t oo . v i
-środek	r oo . d e g
-środek	r oo . d e k
+środek	si r oo . d e g
+środek	si r oo . d e k
+środek	si r oo . d e g
+środek	si r oo . d e k
 przeciwkrzepliwy	p Sz e . tsi i f . k Sz e . p l ii . v y
+kościół	k oo si . tsi u w
 w	v
 w	f
-się	s ii
+w	v
+w	f
+którym	k t uu . r y m
+się	si e
 obecnie	o . b ee . ts ni e
 znajdujemy	z n a j . d u . j ee . m y
+został	z oo s . t a w
 zbudowany	z b u . d o . v aa . n y
+w	v
+w	f
 w	v
 w	f
 XVII	k s v ii
 wieku	v j ee . k u
+Pamiętaj	p a m . j ee n . t a j
 aby	aa . b y
 zawsze	z aa . f Sz e
+wkładać	f k w aa . d a dzi
+wkładać	f k w aa . d a tsi
+wkładki	f k w aa . t c i
 do	d o
+butów	b uu . t u v
+butów	b uu . t u f
+butów	b uu . t u v
+butów	b uu . t u f
+Wyglądasz	v y . g l oo n . d a rZ
+Wyglądasz	v y . g l oo n . d a Sz
+Wyglądasz	v y . g l oo n . d a rZ
+Wyglądasz	v y . g l oo n . d a Sz
+olśniewająco	o l . si ni e . v a . j oo n . ts o
 z	z
 z	s
+z	z
+z	s
+wpiętymi	f p j e n . t yy . m i
 we	v e
+włosy	v w oo . s y
 motylkami	m o . t y l . k aa . m i
-się	s ii
+Wplątałam	f p l o n . t aa . w a m
+się	si e
+w	v
+w	f
 w	v
 w	f
 konflikt	k oo n . f l i g d
 konflikt	k oo n . f l i k t
+konflikt	k oo n . f l i g d
+konflikt	k oo n . f l i k t
 z	z
 z	s
-Wpnę	f b n
-Wpnę	f p n
+z	z
+z	s
+sąsiadami	s o w_ . si a . d aa . m i
+Wpnę	f p n ee
+Wpnę	f p n ee
 ci	tsi i
 we	v e
+włosy	v w oo . s y
+różyczkę	r u . rZ yy . tSz k e
+różyczkę	r u . rZ yy . tSz k e
+którą	k t uu . r o w_
+zerwałam	z e r . v aa . w a m
+w	v
+w	f
 w	v
 w	f
 ogrodzie	o . g r oo . dzi e
 Wprawdzie	f p r aa v . dzi e
-się	s ii
+wprowadził	f p r o . v aa . dzi i w
+się	si e
 do	d o
 mieszkania	m j e Sz . k aa . ni a
-tydzień	t yy . dzi e
+tydzień	t yy . dzi e ni
 temu	t ee . m u
 ale	aa . l e
-już	j uu
+już	j uu rZ
+już	j uu Sz
+wprawił	f p r aa . v i w
 nowe	n oo . v e
 okna	oo . k n a
+Wpierw	f p j ee r v
+Wpierw	f p j ee r f
 Wpierw	f p j ee r v
 Wpierw	f p j ee r f
 popchnij	p oo . p x ni i j
 w	v
 w	f
-przód	d
-przód	t
+w	v
+w	f
+przód	p Sz uu d
+przód	p Sz uu t
+przód	p Sz uu d
+przód	p Sz uu t
 potem	p oo . t e m
 w	v
 w	f
+w	v
+w	f
+tył	t yy w
 i	i
 dopiero	d o . p j ee . r o
+spróbuj	s p r uu . b u j
+wyciągnąć	v y . tsi oo N_ . g n o ni dzi
+wyciągnąć	v y . tsi oo N_ . g n o ni tsi
+wyciągnąć	v y . tsi oo N_ . g n o ni dzi
+wyciągnąć	v y . tsi oo N_ . g n o ni tsi
 Tomek	t oo . m e g
 Tomek	t oo . m e k
-uciekać	u . tsi ee . k a
+Tomek	t oo . m e g
+Tomek	t oo . m e k
+zaczął	z aa . tSz o w
+uciekać	u . tsi ee . k a dzi
+uciekać	u . tsi ee . k a tsi
+z	z
+z	s
 z	z
 z	s
 lekcji	l ee . k ts i
 od	o d
 od	o t
-Leć	l ee
+od	o d
+od	o t
+wpływem	f p w yy . v e m
+kolegów	k o . l ee . g u v
+kolegów	k o . l ee . g u f
+kolegów	k o . l ee . g u v
+kolegów	k o . l ee . g u f
+Leć	l ee dzi
+Leć	l ee tsi
 w	v
 w	f
+w	v
+w	f
+górę	g uu . r e
+Prezydent	p r e . z yy . d e n d
+Prezydent	p r e . z yy . d e n t
 Prezydent	p r e . z yy . d e n d
 Prezydent	p r e . z yy . d e n t
 Aleksander	a . l e . k s aa n . d e r
+Kwaśniewski	k f a si . ni ee . f s c i
+zacytował	z a . ts y . t oo . v a w
+słowa	s w oo . v a
 Jana	j aa . n a
 Kochanowskiego	k o . x a . n o f s . c j ee . g o
 w	v
 w	f
+w	v
+w	f
 swoim	s f oo . i m
+orędziu	o . r ee ni . dzi u
 do	d o
 narodu	n a . r oo . d u
 Monarchia	m o . n aa r . x j a
+królewska	k r u . l ee . f s k a
+wskazała	f s k a . z aa . w a
+rządowi	rZ o n . d oo . v i
+jak	j aa g
+jak	j aa k
 jak	j aa g
 jak	j aa k
 ma	m aa
+postąpić	p o s . t oo m . p i dzi
+postąpić	p o s . t oo m . p i tsi
 w	v
 w	f
+w	v
+w	f
+głośnej	g w oo si . n e j
 aferze	a . f ee . rZ e
+posła	p oo . s w a
+Kozłowskiego	k o . z w o f s . c j ee . g o
+Mała	m aa . w a
 myszka	m yy Sz . k a
-się	s ii
+wślizgnęła	f si l i z . g n ee . w a
+się	si e
 do	d o
 domu	d oo . m u
 przez	p Sz e z
 przez	p Sz e s
-szparkę	Sz p aa r g
-szparkę	Sz p aa r k
+przez	p Sz e z
+przez	p Sz e s
+szparkę	Sz p aa r . k e
+szparkę	Sz p aa r . k e
+w	v
+w	f
 w	v
 w	f
 drzwiach	drZ v j aa x
 w	v
 w	f
+w	v
+w	f
 snach	s n aa x
 widze	v ii . dz e
+pstrągi	p s t r oo N_ . gi i
+Współgospodarz	f s p u w . g o s . p oo . d a rZ
+Współgospodarz	f s p u w . g o s . p oo . d a Sz
+Współgospodarz	f s p u w . g o s . p oo . d a rZ
+Współgospodarz	f s p u w . g o s . p oo . d a Sz
+kupił	k uu . p i w
 sobie	s oo . b j e
 auto	aa w . t o
 ze	z e
 wspomaganiem	f s p o . m a . g aa . ni e m
+dzięki	dzi ee N_ . c i
 wsparciu	f s p aa r . tsi u
 swojego	s f o . j ee . g o
 partnera	p a r . t n ee . r a
+Wśród	f si r uu d
+Wśród	f si r uu t
+Wśród	f si r uu d
+Wśród	f si r uu t
+nas	n aa z
+nas	n aa s
 nas	n aa z
 nas	n aa s
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 zdrajca	z d r aa j . ts a
+Wstrętny	f s t r ee n . t n y
 i	i
 bezwstydny	b e s . f s t yy . d n y
 morderca	m o r . d ee r . ts a
-się	s ii
+przyznał	p Sz yy z . n a w
+się	si e
 do	d o
 zamordowania	z a . m o r . d o . v aa . ni a
 studentki	s t u . d ee n . t c i
 naukoznawstwa	n a . u . k o z . n aa . f s t f a
 w	v
 w	f
+w	v
+w	f
 kwietniu	k f j ee . t ni u
+ubiegłego	u . b j e . g w ee . g o
 roku	r oo . k u
+zaraz	z aa . r a z
+zaraz	z aa . r a s
 zaraz	z aa . r a z
 zaraz	z aa . r a s
 po	p o
 Zmartwychwstaniu	z m a r . t f y x . f s t aa . ni u
+Pański	p aa j_ . s c i
 Na	n a
-kolację	k oo . l a ts j
+kolację	k o . l aa . ts j e
+poszliśmy	p o . Sz l ii si . m y
 do	d o
 restauracji	r e s . t a w . r aa . ts i
 niedaleko	ni e . d a . l ee . k o
+wałów	v aa . w u v
+wałów	v aa . w u f
+wałów	v aa . w u v
+wałów	v aa . w u f
 przeciwsztormowych	p Sz e . tsi i . f Sz t o r . m oo . v y x
 i	i
+zamówiliśmy	z a . m u . v i . l ii si . m y
 krwistego	k r f i s . t ee . g o
 befsztyka	b e . f Sz t yy . k a
 Krakowscy	k r a . k oo . f s ts y
+właściciele	v w a si . tsi i . tsi ee . l e
+sklepów	s k l ee . p u v
+sklepów	s k l ee . p u f
+sklepów	s k l ee . p u v
+sklepów	s k l ee . p u f
 nie	ni ee
-narzekają	n a . rZ ee . k a j
+narzekają	n a . rZ e . k aa . j o w_
 na	n a
 brak	b r aa g
 brak	b r aa k
+brak	b r aa g
+brak	b r aa k
+klientów	k l i . j ee n . t u v
+klientów	k l i . j ee n . t u f
+klientów	k l i . j ee n . t u v
+klientów	k l i . j ee n . t u f
 Wczoraj	f tSz oo . r a j
 lekarze	l e . k aa . rZ e
 i	i
+pielęgniarki	p j e . l e N_ . g ni aa r . c i
 z	z
 z	s
+z	z
+z	s
+województwa	v o . j e . v uu . ts t f a
+dolnośląskiego	d o l . n o . si l o w_ . s c j ee . g o
+wszczęli	f Sz tSz ee . l i
 trzydniowy	t Sz y . d ni oo . v y
+protest	p r oo . t e z d
+protest	p r oo . t e s t
 protest	p r oo . t e z d
 protest	p r oo . t e s t
 Skromna	s k r oo m . n a
 sekretarka	s e . k r e . t aa r . k a
+opuściła	o . p u si . tsi ii . w a
+gabinet	g a . b ii . n e d
+gabinet	g a . b ii . n e t
 gabinet	g a . b ii . n e d
 gabinet	g a . b ii . n e t
 szefa	Sz ee . f a
+rozwścieczona	r o s . f si tsi e . tSz oo . n a
 jego	j ee . g o
+wścibskimi	f si tsi i . p s c ii . m i
 pytaniami	p y . t a . ni aa . m i
+Patrzyłem	p a . t Sz yy . w e m
 na	n a
-nią	ni ii
+nią	ni oo w_
+wsłuchaną	f s w u . x aa . n o w_
+w	v
+w	f
 w	v
 w	f
 szum	Sz uu m
 fal	f aa l
 na	n a
-dziś	dzi ii
+gorącej	g o . r oo n . ts e j
+plaży	p l aa . rZ y
+Wstałem	f s t aa . w e m
+dziś	dzi ii zi
+dziś	dzi ii si
+przed	p Sz e d
+przed	p Sz e t
 przed	p Sz e d
 przed	p Sz e t
 wschodem	f s x oo . d e m
+słońca	s w oo ni . ts a
 aby	aa . b y
 pierwszy	p j ee r . f Sz y
-zobaczyć	z o . b aa . tSz y
+zobaczyć	z o . b aa . tSz y dzi
+zobaczyć	z o . b aa . tSz y tsi
 czy	tSz yy
-już	j uu
-Poproszę	p oo . p r o rZ
-Poproszę	p oo . p r o Sz
+powschodziły	p o . f s x o . dzi ii . w y
+już	j uu rZ
+już	j uu Sz
+przebiśniegi	p Sz e . b i si . ni ee . gi i
+Poproszę	p o . p r oo . Sz e
+Poproszę	p o . p r oo . Sz e
 dwie	d v j ee
 haftki	x aa f . t c i
 i	i
-szpulkę	Sz p uu l g
-szpulkę	Sz p uu l k
+szpulkę	Sz p uu l . k e
+szpulkę	Sz p uu l . k e
 czerwonych	tSz e r . v oo . n y x
 nici	ni ii . tsi i
 Haftka	x aa f . t k a
 ci	tsi i
-się	s ii
+się	si e
+rozpięła	r o . s p j ee . w a
 zapnij	z aa . p ni i j
-ją	j
+ją	j o w_
 Pomimo	p o . m ii . m o
 tego	t ee . g o
-że	ee
+że	rZ e
 nie	ni ee
+miał	m j aa w
+pojęcia	p o . j ee ni . tsi a
 o	o
 wtryskach	f t r yy s . k a x
 paliwa	p a . l ii . v a
-się	s ii
+ciągle	tsi oo N_ . g l e
+wtrącał	f t r oo n . ts a w
+się	si e
 do	d o
 dyskusji	d y s . k uu . s i
+w	v
+w	f
 w	v
 w	f
 trzaskajacym	t Sz a s . k a . j aa . ts y m
 mrozie	m r oo . zi e
 Do	d o
 pomieszczenia	p o m . j e Sz . tSz ee . ni a
+należy	n a . l ee . rZ y
+wtłoczyć	f t w oo . tSz y dzi
+wtłoczyć	f t w oo . tSz y tsi
+ciepłe	tsi ee . p w e
 powietrze	p o v . j ee . t Sz e
 Na	n a
 imieniny	i m . j e . ni ii . n y
+podarowałam	p o . d a . r o . v aa . w a m
 babci	b aa . p tsi i
 obrus	oo . b r u z
 obrus	oo . b r u s
+obrus	oo . b r u z
+obrus	oo . b r u s
+który	k t uu . r y
 nie	ni ee
+wchłania	f x w aa . ni a
 wody	v oo . d y
 Nie	ni ee
+byłam	b yy . w a m
 jeszcze	j ee Sz . tSz e
+w	v
+w	f
 w	v
 w	f
 Anglii	aa N_ . g l i
 zaflegmienie	z a . f l e g . m j ee . ni e
+Mój	m uu j
 kolega	k o . l ee . g a
 z	z
 z	s
-ławki	aa f . c i
+z	z
+z	s
+ławki	w aa f . c i
 ma	m aa
-ogromną	oo . g r o m n
-grdykę	g r d yy g
-grdykę	g r d yy k
+ogromną	o . g r oo m . n o w_
+grdykę	g r d yy . k e
+grdykę	g r d yy . k e
+Oczekując	o . tSz e . k uu . j o n dz
+Oczekując	o . tSz e . k uu . j o n ts
+Oczekując	o . tSz e . k uu . j o n dz
+Oczekując	o . tSz e . k uu . j o n ts
 na	n a
 Gwiazdora	g v j a z . d oo . r a
 dzieci	dzi ee . tsi i
+patrzyły	p a . t Sz yy . w y
 na	n a
 gwiazdy	g v j aa z . d y
 na	n a
 niebie	ni ee . b j e
+mógłże	m uu g w . rZ e
 to	t o
+zrobićMałgorzata	z r o . b i . tsi m a w . g o . rZ aa . t a
+poszła	p oo . Sz w a
 na	n a
-rozmowę	r oo z . m o v
-rozmowę	r oo z . m o f
-kwalifikacyjną	k f a . l i . f i . k aa . ts y j n
+rozmowę	r o z . m oo . v e
+rozmowę	r o z . m oo . v e
+kwalifikacyjną	k f a . l i . f i . k a . ts yy j . n o w_
 ubrana	u . b r aa . n a
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
 seksbomba	s e g z . b oo m . b a
-się	s ii
+Nauczyłam	n a . u . tSz yy . w a m
+się	si e
+pływać	p w yy . v a dzi
+pływać	p w yy . v a tsi
 na	n a
 grzbiecie	g rZ b j ee . tsi e
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
+byłam	b yy . w a m
+mała	m aa . w a
 Najpierw	n aa j . p j e r v
 Najpierw	n aa j . p j e r f
+Najpierw	n aa j . p j e r v
+Najpierw	n aa j . p j e r f
+usłyszałem	u . s w y . Sz aa . w e m
+grzmot	g rZ m oo d
+grzmot	g rZ m oo t
 grzmot	g rZ m oo d
 grzmot	g rZ m oo t
 dopiero	d o . p j ee . r o
 potem	p oo . t e m
-że	ee
+zauważyłem	z a . u . v a . rZ yy . w e m
+że	rZ e
 piorun	p j oo . r u n
+trafił	t r aa . f i w
 w	v
 w	f
+w	v
+w	f
+sąsiedni	s o w_ . si ee . d ni i
 budynek	b u . d yy . n e g
 budynek	b u . d yy . n e k
-bóg	g
-bóg	k
+budynek	b u . d yy . n e g
+budynek	b u . d yy . n e k
+bóg	b uu g
+bóg	b uu k
+bóg	b uu g
+bóg	b uu k
 zwyczajny	z v y . tSz aa j . n y
 Ale	aa . l e
 zimno	zi ii m . n o
 Legendy	l e . g ee n . d y
-że	ee
+mówią	m uu v . j o w_
+że	rZ e
 ludzie	l uu . dzi e
 o	o
+zrośniętych	z r o si . ni ee n . t y x
 brwiach	b r v j aa x
-nocą	n oo dz
-nocą	n oo ts
-zmieniają	z m j ee . ni a j
-się	s ii
+nocą	n oo . ts o w_
+nocą	n oo . ts o w_
+zmieniają	z m j e . ni aa . j o w_
+się	si e
 w	v
 w	f
+w	v
+w	f
+wilkołaki	v i l . k o . w aa . c i
+Zapomniałam	z a . p o m . ni aa . w a m
 jak	j aa g
 jak	j aa k
-imię	ii . m i
+jak	j aa g
+jak	j aa k
+brzmiało	b rZ m j aa . w o
+imię	ii m . j e
 Mozarta	m o . z aa r . t a
 Wojsko	v oo j . s k o
 posiada	p o . si aa . d a
+kilkadziesiąt	c i l . k a . dzi ee . si o n d
+kilkadziesiąt	c i l . k a . dzi ee . si o n t
+kilkadziesiąt	c i l . k a . dzi ee . si o n d
+kilkadziesiąt	c i l . k a . dzi ee . si o n t
+ponaddźwiękowych	p o . n a d . dzi v j e N_ . k oo . v y x
+odrzutowców	o . d rZ u . t oo f . ts u v
+odrzutowców	o . d rZ u . t oo f . ts u f
+odrzutowców	o . d rZ u . t oo f . ts u v
+odrzutowców	o . d rZ u . t oo f . ts u f
+Pojechałam	p o . j e . x aa . w a m
 do	d o
 hipermarketu	x i . p e r . m a r . k ee . t u
 na	n a
 przedgwiazdkowe	p Sz e d . g v j a s . t k oo . v e
 zakupy	z a . k uu . p y
-Coś	ts oo
+Coś	ts oo zi
+Coś	ts oo si
+w	v
+w	f
 w	v
 w	f
 nim	ni ii m
+drgnęło	d r g n ee . w o
 i	i
-kolegę	k oo . l e g
-kolegę	k oo . l e k
+przeprosił	p Sz e . p r oo . si i w
+kolegę	k o . l ee . g e
+kolegę	k o . l ee . g e
 za	z a
 pobicie	p o . b ii . tsi e
 Jedno	j ee . d n o
 drgnienie	d r g ni ee . ni e
 i	i
-strzelę	s t Sz ee l
+strzelę	s t Sz ee . l e
+Spojrzał	s p oo j . rZ a w
 na	n a
 przegranego	p Sz e . g r a . n ee . g o
+drwiąco	d r v j oo n . ts o
 i	i
+odszedł	oo . t Sz e d
+odszedł	oo . t Sz e t
+zwycięsko	z v y . tsi ee w_ . s k o
+Podwzgórze	p o d . v z g uu . rZ e
 to	t o
-część	drZ
-część	tSz
+część	tSz ee w_ zi dzi
+część	tSz ee w_ si tsi
+część	tSz ee w_ zi dzi
+część	tSz ee w_ si tsi
 podkorowa	p o . t k o . r oo . v a
+mózgowia	m u z . g oo v . j a
 zaliczana	z a . l i . tSz aa . n a
 do	d o
+międzymózgowia	m j e n . dz y . m u z . g oo v . j a
+która	k t uu . r a
 nadzoruje	n a . d z o . r uu . j e
 reakcje	r e . aa . k ts j e
 bezwiedne	b e . z v j ee . d n e
 organizmu	o r . g a . ni ii z . m u
 W	v
 W	f
+W	v
+W	f
+zależności	z a . l e rZ . n oo si . tsi i
+od	o d
+od	o t
 od	o d
 od	o t
 charakteru	x a . r a . k t ee . r u
 zmian	z m j aa n
 krzywizny	k Sz y . v ii z . n y
+rogówki	r o . g uu f . c i
+wyróżniamy	v y . r u rZ . ni aa . m y
 astygmatyzm	a s . t y . g m aa . t y z m
 astygmatyzm	a s . t y . g m aa . t y s m
+astygmatyzm	a s . t y . g m aa . t y z m
+astygmatyzm	a s . t y . g m aa . t y s m
+krótkowzroczny	k r u . t k o . v z r oo . tSz n y
 nadwzroczny	n a d . v z r oo . tSz n y
 i	i
 mieszany	m j e . Sz aa . n y
@@ -3478,190 +5060,344 @@ zbioru	z b j oo . r u
 A	a
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+zbiór	z b j uu r
+B	b
+B	p
 B	b
 B	p
 Wyraz	v yy . r a z
 Wyraz	v yy . r a s
+Wyraz	v yy . r a z
+Wyraz	v yy . r a s
 jej	j e j
 twarzy	t f aa . rZ y
-żal	aa l
+odzwierciedlał	o d . z v j e r . tsi ee . d l a w
+wewnętrzny	v e v . n ee n . tSz n y
+żal	rZ aa l
 i	i
+tęsknotę	t e w_ . s k n oo . t e
+tęsknotę	t e w_ . s k n oo . t e
+W	v
+W	f
 W	v
 W	f
 strefie	s t r ee . f j e
 klimatu	k l i . m aa . t u
 podzwrotnikowego	p o d . z v r o . t ni i . k o . v ee . g o
 opady	o . p aa . d y
+występują	v y s . t e m . p uu . j o w_
+przeważnie	p Sz e . v aa rZ . ni e
 w	v
 w	f
+w	v
+w	f
+chłodnym	x w oo . d n y m
+półroczu	p u w . r oo . tSz u
 Nie	ni ee
-widzę	v ii dz
-widzę	v ii ts
-żadnych	aa . d n y x
-przeciwwskazań	p Sz e . tsi i f . f s k aa . z a
-abyś	aa . b y
-iść	ii
+widzę	v ii . dz e
+widzę	v ii . dz e
+żadnych	rZ aa . d n y x
+przeciwwskazań	p Sz e . tsi i f . f s k aa . z a ni
+abyś	aa . b y zi
+abyś	aa . b y si
+mogła	m oo . g w a
+iść	ii zi dzi
+iść	ii si tsi
 dzisiaj	dzi ii . si a j
 na	n a
-dyskotekę	d y s . k oo . t e g
-dyskotekę	d y s . k oo . t e k
+dyskotekę	d y s . k o . t ee . k e
+dyskotekę	d y s . k o . t ee . k e
 Najnowsze	n a j . n oo . f Sz e
 modele	m o . d ee . l e
+przenośnych	p Sz e . n oo si . n y x
 odtwarzaczy	o t . t f a . rZ aa . tSz y
 CD	dz d
 CD	dz t
-posiadają	p o . si aa . d a j
+CD	dz d
+CD	dz t
+posiadają	p o . si a . d aa . j o w_
 system	s yy s . t e m
+przeciwwstrząsowy	p Sz e . tsi i f . f s t Sz o w_ . s oo . v y
+Jeśli	j ee . si l i
 krwawienie	k r f a v . j ee . ni e
 nie	ni ee
+ustępuje	u s . t e m . p uu . j e
+można	m oo rZ . n a
 pod	p o d
 pod	p o t
-kontrolą	k oo n . t r o l
+pod	p o d
+pod	p o t
+kontrolą	k o n . t r oo . l o w_
 lekarza	l e . k aa . rZ a
-zastosować	z a s . t o . s oo . v a
-środek	r oo . d e g
-środek	r oo . d e k
+zastosować	z a s . t o . s oo . v a dzi
+zastosować	z a s . t o . s oo . v a tsi
+środek	si r oo . d e g
+środek	si r oo . d e k
+środek	si r oo . d e g
+środek	si r oo . d e k
 przeciwkrwotoczny	p Sz e . tsi i f . k r f o . t oo . tSz n y
 frr	f r r
 Rodzina	r o . dzi ii . n a
-kiedyś	c j ee . d y
+Zdzisława	z dzi i . s w aa . v a
+Krzyżanowskiego	k Sz y . rZ a . n o f s . c j ee . g o
+mieszkała	m j e Sz . k aa . w a
+kiedyś	c j ee . d y zi
+kiedyś	c j ee . d y si
 w	v
 w	f
-żydowskiej	y . d oo f s . c j e j
+w	v
+w	f
+żydowskiej	rZ y . d oo f s . c j e j
 dzielnicy	dzi e l . ni ii . ts y
 miasta	m j aa s . t a
 na	n a
 ulicy	u . l ii . ts y
-ją	j
+Wrocławskiej	v r o . ts w aa f s . c j e j
+Przejrzałam	p Sz e j . rZ aa . w a m
+ją	j o w_
 na	n a
-wskroś	f s k r oo
+wskroś	f s k r oo zi
+wskroś	f s k r oo si
 i	i
 wiem	v j ee m
-że	ee
+że	rZ e
 to	t o
 ona	oo . n a
+ukradła	u . k r aa . d w a
+mój	m uu j
 srebrny	s r ee . b r n y
+pierścionek	p j e r . si tsi oo . n e g
+pierścionek	p j e r . si tsi oo . n e k
+pierścionek	p j e r . si tsi oo . n e g
+pierścionek	p j e r . si tsi oo . n e k
+Nic	ni ii dz
+Nic	ni ii ts
 Nic	ni ii dz
 Nic	ni ii ts
 nie	ni ee
 wskrzesi	f s k Sz ee . si i
 jej	j e j
+zmarłego	z m a r . w ee . g o
+męża	m ee w_ . rZ a
 Marcin	m aa r . tsi i n
-się	s ii
+wspiął	f s p j oo w
+się	si e
 na	n a
 sam	s aa m
 czubek	tSz uu . b e g
 czubek	tSz uu . b e k
+czubek	tSz uu . b e g
+czubek	tSz uu . b e k
 drzewa	d rZ ee . v a
 by	b y
-zerwać	z ee r . v a
+zerwać	z ee r . v a dzi
+zerwać	z ee r . v a tsi
 najdojrzalsze	n a j . d o j . rZ aa l . Sz e
 i	i
+najpiękniejsze	n a j . p j e N_ . k ni ee j . Sz e
+jabłko	j aa . p k o
 dla	d l a
+koleżanki	k o . l e . rZ aa N_ . c i
 Na	n a
 studiach	s t uu d . j a x
 zawsze	z aa . f Sz e
+miałem	m j aa . w e m
+kłopoty	k w o . p oo . t y
+z	z
+z	s
 z	z
 z	s
 zaliczeniem	z a . l i . tSz ee . ni e m
+materiałoznawstwa	m a . t e r . j a . w o z . n aa . f s t f a
+Koleżanka	k o . l e . rZ aa N_ . k a
 anorektyczka	a . n o . r e . k t yy . tSz k a
 ma	m aa
+jadłowstręt	j a . d w oo . f s t r e n d
+jadłowstręt	j a . d w oo . f s t r e n t
+jadłowstręt	j a . d w oo . f s t r e n d
+jadłowstręt	j a . d w oo . f s t r e n t
+W	v
+W	f
 W	v
 W	f
 ostatniej	o s . t aa . t ni e j
 chwili	x f ii . l i
+powstrzymałem	p o . f s t Sz y . m aa . w e m
 go	g o
+od	o d
+od	o t
 od	o d
 od	o t
 skoku	s k oo . k u
 z	z
 z	s
+z	z
+z	s
 mostu	m oo s . t u
+Przepłynęłam	p Sz e . p w y . n ee . w a m
 na	n a
 grzbiecie	g rZ b j ee . tsi e
+siedemnaście	si e . d e m . n aa si . tsi e
+długości	d w u . g oo si . tsi i
 basenu	b a . s ee . n u
+Zagrzmiało	z a . g rZ m j aa . w o
+więc	v j ee n dz
+więc	v j ee n ts
+więc	v j ee n dz
+więc	v j ee n ts
 mama	m aa . m a
+zawołała	z a . v o . w aa . w a
 dzieci	dzi ee . tsi i
 do	d o
 domu	d oo . m u
-życzymy	y . tSz yy . m y
+życzymy	rZ y . tSz yy . m y
+gościom	g oo si . tsi o m
+szampańskiej	Sz a m . p aa j_ . s c j e j
 zabawy	z a . b aa . v y
 do	d o
+białego	b j a . w ee . g o
 rana	r aa . n a
 gajski	g aa j . s c i
+urzędnik	u . rZ ee n . d ni i g
+urzędnik	u . rZ ee n . d ni i k
+urzędnik	u . rZ ee n . d ni i g
+urzędnik	u . rZ ee n . d ni i k
+podśpiewywał	p o t . si p j e . v yy . v a w
 Ciocia	tsi oo . tsi a
 pracuje	p r a . ts uu . j e
 w	v
 w	f
+w	v
+w	f
+urzędzie	u . rZ ee ni . dzi e
+państwowym	p a j_ . s t f oo . v y m
+trójdźwięk	t r uu j . dzi v j e N_ g
+trójdźwięk	t r uu j . dzi v j e N_ k
+trójdźwięk	t r uu j . dzi v j e N_ g
+trójdźwięk	t r uu j . dzi v j e N_ k
+słyszymy	s w y . Sz yy . m y
 bez	b ee z
 bez	b ee s
+bez	b ee z
+bez	b ee s
+głosnika	g w o s . ni ii . k a
+Przyjście	p Sz yy j . si tsi e
 na	n a
-świat	v j aa d
-świat	v j aa t
+świat	si f j aa d
+świat	si f j aa t
+świat	si f j aa d
+świat	si f j aa t
 mego	m ee . g o
 syna	s yy . n a
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 najwspanialszym	n a j . f s p a . ni aa l . Sz y m
 wydarzeniem	v y . d a . rZ ee . ni e m
 mojego	m o . j ee . g o
-życia	yy . tsi a
+życia	rZ yy . tsi a
 Najbardziej	n a j . b aa r . dzi e j
 smakuje	s m a . k uu . j e
 mi	m i
 sok	s oo g
 sok	s oo k
+sok	s oo g
+sok	s oo k
 grejpfrutowy	g r e j . p f r u . t oo . v y
 Wiejskie	v j ee j . s c j e
-życie	yy . tsi e
+życie	rZ yy . tsi e
 musi	m uu . si i
+wyglądać	v y . g l oo n . d a dzi
+wyglądać	v y . g l oo n . d a tsi
 jak	j aa g
 jak	j aa k
-życie	yy . tsi e
+jak	j aa g
+jak	j aa k
+życie	rZ yy . tsi e
+w	v
+w	f
 w	v
 w	f
 rajskiej	r aa j . s c j e j
 krainie	k r a . ii . ni e
 Wierni	v j ee r . ni i
-idą	ii d
-idą	ii t
+idą	ii . d o w_
+idą	ii . d o w_
 do	d o
+kościoła	k o si . tsi oo . w a
 by	b y
-prosić	p r oo . si i
+prosić	p r oo . si i dzi
+prosić	p r oo . si i tsi
 o	o
-łaskę	aa z g
-łaskę	aa s k
-Maryję	m aa . r y j
-Pannę	p aa n
-się	s ii
+łaskę	w aa s . k e
+łaskę	w aa s . k e
+Przenajświętszą	p Sz e . n a j . si f j ee n . t Sz o w_
+Przenajświętszą	p Sz e . n a j . si f j ee n . t Sz o w_
+Maryję	m a . r yy . j e
+Pannę	p aa . n n e
+Spełniły	s p e w . ni ii . w y
+się	si e
 moje	m oo . j e
 najskrytsze	n a j . s k r yy . t Sz e
 marzenia	m a . rZ ee . ni a
+pojęciowe	p o . j e ni . tsi oo . v e
+składniki	s k w a . d ni ii . c i
 trudno	t r uu . d n o
+zinterpretowaćDaniel	z i n t e r p r e t o v a dzi d a ni e l
+był	b yy w
 zawsze	z aa . f Sz e
+najśmielszy	n a j . si m j ee l . Sz y
+w	v
+w	f
 w	v
 w	f
 grupie	g r uu . p j e
-Idź	ii d
-Idź	ii t
+Idź	ii dzi
+Idź	ii tsi
+Idź	ii dzi
+Idź	ii tsi
 do	d o
 domu	d oo . m u
+najśpieszniej	n a j . si p j ee Sz . ni e j
+jak	j aa g
+jak	j aa k
 jak	j aa g
 jak	j aa k
 potrafisz	p o . t r aa . f i rZ
 potrafisz	p o . t r aa . f i Sz
+potrafisz	p o . t r aa . f i rZ
+potrafisz	p o . t r aa . f i Sz
+Nawet	n aa . v e d
+Nawet	n aa . v e t
 Nawet	n aa . v e d
 Nawet	n aa . v e t
 najsprawiedliwszy	n a j . s p r a v . j e . d l ii . f Sz y
-się	s ii
-pomylić	p o . m yy . l i
+człowiek	tSz w oo v . j e g
+człowiek	tSz w oo v . j e k
+człowiek	tSz w oo v . j e g
+człowiek	tSz w oo v . j e k
+może	m oo . rZ e
+się	si e
+pomylić	p o . m yy . l i dzi
+pomylić	p o . m yy . l i tsi
 To	t o
 najsprzeczniejsze	n a j . s p Sz e . tSz ni ee j . Sz e
 zeznania	z e z . n aa . ni a
 jakie	j aa . c j e
 kiedykolwiek	c j e . d y . k oo l . v j e g
 kiedykolwiek	c j e . d y . k oo l . v j e k
+kiedykolwiek	c j e . d y . k oo l . v j e g
+kiedykolwiek	c j e . d y . k oo l . v j e k
+słyszałem	s w y . Sz aa . w e m
+Więzień	v j ee j_ . zi e ni
+popełnił	p o . p ee w . ni i w
 wczoraj	f tSz oo . r a j
+samobójstwo	s a . m o . b uu j . s t f o
+w	v
+w	f
 w	v
 w	f
 celi	ts ee . l i
@@ -3669,23 +5405,39 @@ To	t o
 najstraszniejsza	n a j . s t r a Sz . ni ee j . Sz a
 rzecz	rZ ee drZ
 rzecz	rZ ee tSz
+rzecz	rZ ee drZ
+rzecz	rZ ee tSz
+którą	k t uu . r o w_
+udało	u . d aa . w o
 ci	tsi i
-się	s ii
-zmajstrować	z m a j . s t r oo . v a
+się	si e
+zmajstrować	z m a j . s t r oo . v a dzi
+zmajstrować	z m a j . s t r oo . v a tsi
 policmajstrzy	p o . l i . ts m aa j . s t Sz y
 poszli	p oo . Sz l i
 na	n a
-się	s ii
+służbę	s w uu rZ . b e
+służbę	s w uu rZ . b e
+Umówiłam	u . m u . v ii . w a m
+się	si e
 na	n a
-randkę	r aa n d g
-randkę	r aa n t k
+randkę	r aa n . t k e
+randkę	r aa n . t k e
+z	z
+z	s
 z	z
 z	s
 majtkiem	m aa j . t c j e m
+który	k t uu . r y
+przypłynął	p Sz y . p w yy . n o w
 wczoraj	f tSz oo . r a j
 na	n a
 rosyjskim	r o . s yy j . s c i m
-się	s ii
+okręcie	o . k r ee ni . tsi e
+Rozpłakałem	r o s . p w a . k aa . w e m
+się	si e
+podczas	p oo . t tSz a z
+podczas	p oo . t tSz a s
 podczas	p oo . t tSz a z
 podczas	p oo . t tSz a s
 najtkliwszej	n a j . t k l ii . f Sz e j
@@ -3693,27 +5445,39 @@ sceny	s ts ee . n y
 filmu	f ii l . m u
 rajzbret	r aa j z . b r e d
 rajzbret	r aa j z . b r e t
+rajzbret	r aa j z . b r e d
+rajzbret	r aa j z . b r e t
 to	t o
+mój	m uu j
 najgorszy	n a j . g oo r . Sz y
 kompan	k oo m . p a n
 Pracujemy	p r a . ts u . j ee . m y
 w	v
 w	f
+w	v
+w	f
 systemie	s y s . t ee m . j e
-chusteczkę	x uu s . t e drZ g
-chusteczkę	x uu s . t e tSz k
-krwią	k r f ii
-Czuję	tSz uu j
-się	s ii
+trójzmianowym	t r u j . z m j a . n oo . v y m
+Ubrudziłem	u . b r u . dzi ii . w e m
+chusteczkę	x u s . t ee . tSz k e
+chusteczkę	x u s . t ee . tSz k e
+krwią	k r f j oo w_
+Czuję	tSz uu . j e
+się	si e
 okrrropnie	o . k r r r oo . p ni e
+Wnętrze	v n ee n . t Sz e
 mieszkania	m j e Sz . k aa . ni a
+Mieczysława	m j e . tSz y . s w aa . v a
+wyglądało	v y . g l o n . d aa . w o
 bardzo	b aa r . dz o
 ekskluzywnie	e k s . k l u . z yy v . ni e
 rok	r oo g
 rok	r oo k
+rok	r oo g
+rok	r oo k
 skunksa	s k uu N_ . k s a
 to	t o
-świetny	v j ee . t n y
+świetny	si f j ee . t n y
 film	f ii l m
 ekspjacjny	e k s p j a ts j n y
 to	t o
@@ -3723,37 +5487,59 @@ Eksplozja	e k s . p l oo z . j a
 bomby	b oo m . b y
 w	v
 w	f
+w	v
+w	f
 zaparkowanym	z a . p a r . k o . v aa . n y m
+w	v
+w	f
 w	v
 w	f
 centrum	ts ee n . t r u m
 miasta	m j aa s . t a
 samochodzie	s a . m o . x oo . dzi e
+szczęśliwie	Sz tSz e w_ . si l ii v . j e
 nie	ni ee
-żadnych	aa . d n y x
+przyniosła	p Sz y . ni oo . s w a
+żadnych	rZ aa . d n y x
 ofiar	oo . f j a r
 Ekspresy	e k . s p r ee . s y
 do	d o
 kawy	k aa . v y
-są	z
-są	s
+są	s oo w_
+są	s oo w_
+teraz	t ee . r a z
+teraz	t ee . r a s
 teraz	t ee . r a z
 teraz	t ee . r a s
 sprzedawane	s p Sz e . d a . v aa . n e
+w	v
+w	f
 w	v
 w	f
 promocyjnej	p r o . m o . ts yy j . n e j
 cenie	ts ee . ni e
 ekspres	ee k . s p r e z
 ekspres	ee k . s p r e s
+ekspres	ee k . s p r e z
+ekspres	ee k . s p r e s
 do	d o
 kawy	k aa . v y
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+w	v
+w	f
 w	v
 w	f
 szafie	Sz aa . f j e
+Wyglądasz	v y . g l oo n . d a rZ
+Wyglądasz	v y . g l oo n . d a Sz
+Wyglądasz	v y . g l oo n . d a rZ
+Wyglądasz	v y . g l oo n . d a Sz
 ekstra	ee k s . t r a
+w	v
+w	f
 w	v
 w	f
 tej	t e j
@@ -3767,33 +5553,52 @@ to	t o
 moja	m oo . j a
 dziewczyna	dzi e f . tSz yy . n a
 Przechadzam	p Sz e . x aa . dz a m
-się	s ii
+się	si e
 bulwarem	b u l . v aa . r e m
 sztokholmskim	Sz t o . k x oo l m . s c i m
 Wielkopolskie	v j e l . k o . p oo l . s c j e
 ziemniaki	zi e m . ni aa . c i
-sprzedają	s p Sz ee . d a j
-się	s ii
+sprzedają	s p Sz e . d aa . j o w_
+się	si e
 najlepiej	n a j . l ee . p j e j
 Twoje	t f oo . j e
 zuchwalstwo	z u . x f aa l . s t f o
 doprowadzi	d o . p r o . v aa . dzi i
 ciebie	tsi ee . b j e
-kiedyś	c j ee . d y
+kiedyś	c j ee . d y zi
+kiedyś	c j ee . d y si
 do	d o
 zguby	z g uu . b y
 stronniczy	s t r o . ni ni ii . tSz y
+sędzia	s ee ni . dzi a
 wszystkich	f Sz yy s . t c i x
+zawiodł	z aa v . j o d
+zawiodł	z aa v . j o t
 Pomimo	p o . m ii . m o
 tego	t ee . g o
-że	ee
+że	rZ e
 w	v
 w	f
+w	v
+w	f
+podstawówce	p o t . s t a . v uu f . ts e
+był	b yy w
 milczkiem	m ii l . tSz c j e m
+został	z oo s . t a w
 politykiem	p o . l i . t yy . c j e m
+Elżbieta	e l . rZ b j ee . t a
+wiedziała	v j e . dzi aa . w a
 jak	j aa g
 jak	j aa k
+jak	j aa g
+jak	j aa k
+postępować	p o s . t e m . p oo . v a dzi
+postępować	p o s . t e m . p oo . v a tsi
 ze	z e
+wścibską	f si tsi ii . p s k o w_
+wścibską	f si tsi ii . p s k o w_
+teściową	t e si . tsi oo . v o w_
+teściową	t e si . tsi oo . v o w_
 ambljopja	a m . b l j oo . p j a
 to	t o
 choroba	x o . r oo . b a
@@ -3801,20 +5606,32 @@ Badania	b a . d aa . ni a
 na	n a
 embrionach	e m . b r j oo . n a x
 ludzkich	l uu . ts c i x
-są	z
-są	s
+są	s oo w_
+są	s oo w_
 zakazane	z a . k a . z aa . n e
 Musisz	m uu . si i rZ
 Musisz	m uu . si i Sz
-oduczyć	o . d uu . tSz y
-się	s ii
+Musisz	m uu . si i rZ
+Musisz	m uu . si i Sz
+oduczyć	o . d uu . tSz y dzi
+oduczyć	o . d uu . tSz y tsi
+się	si e
 swojej	s f oo . j e j
+krnąbrności	k r n o m . b r n oo si . tsi i
+Józef	j uu . z e v
+Józef	j uu . z e f
+Józef	j uu . z e v
+Józef	j uu . z e f
 zawsze	z aa . f Sz e
 zachowuje	z a . x o . v uu . j e
-się	s ii
+się	si e
+krnąbrnie	k r n oo m . b r ni e
 Swoim	s f oo . i m
-szansę	Sz aa w_ z
-szansę	Sz aa w_ s
+występkiem	v y s . t ee m p . c j e m
+przekreśliłeś	p Sz e . k r e . si l ii . w e zi
+przekreśliłeś	p Sz e . k r e . si l ii . w e si
+szansę	Sz aa w_ . s e
+szansę	Sz aa w_ . s e
 na	n a
 zrobienie	z r o . b j ee . ni e
 kariery	k a r . j ee . r y
@@ -3822,118 +5639,205 @@ jarzembski	j a . rZ ee m p . s c i
 ma	m aa
 powodzenie	p o . v o . dz ee . ni e
 Za	z a
-sąd	d
-sąd	t
+popełnione	p o . p e w . ni oo . n e
+przestępstwo	p Sz e s . t ee m p . s t f o
+sąd	s oo n d
+sąd	s oo n t
+sąd	s oo n d
+sąd	s oo n t
+skazał	s k aa . z a w
 go	g o
 na	n a
+szesnaście	Sz e s . n aa si . tsi e
+lat	l aa d
+lat	l aa t
 lat	l aa d
 lat	l aa t
 pozbawienia	p o z . b a v . j ee . ni a
+wolności	v o l . n oo si . tsi i
 Konsumpcja	k o w_ . s uu m . p ts j a
+mięsa	m j ee w_ . s a
 drobiowego	d r o . b j o . v ee . g o
+w	v
+w	f
 w	v
 w	f
 Europie	e w . r oo . p j e
 spada	s p aa . d a
 Ziemskie	zi ee m . s c j e
-życie	yy . tsi e
+życie	rZ yy . tsi e
 nie	ni ee
 jest	j ee z d
 jest	j ee s t
-sielanką	si ee . l a N_ g
-sielanką	si ee . l a N_ k
+jest	j ee z d
+jest	j ee s t
+sielanką	si e . l aa N_ . k o w_
+sielanką	si e . l aa N_ . k o w_
+Kłamstwa	k w aa m . s t f a
 nigdy	ni ii g . d y
 nie	ni ee
-wyjdą	v yy j d
-wyjdą	v yy j t
+wyjdą	v yy j . d o w_
+wyjdą	v yy j . d o w_
 ci	tsi i
 na	n a
 dobre	d oo . b r e
-Bolą	b oo l
+Bolą	b oo . l o w_
 mnie	m ni ee
+lędźwie	l ee ni . dzi v j e
 pan	p aa n
+drgnął	d r g n oo w
 przestraszony	p Sz e s . t r a . Sz oo . n y
 Hipochondria	x i . p o . x oo n . d r j a
 przejawia	p Sz e . j aa v . j a
-się	s ii
+się	si e
 poczuciem	p o . tSz uu . tsi e m
 nieuzasadnionego	ni e . u . z a . s a . d ni o . n ee . g o
+lęku	l ee N_ . k u
 o	o
+własne	v w aa s . n e
 zdrowie	z d r oo v . j e
 przekonaniem	p Sz e . k o . n aa . ni e m
 o	o
 istnieniu	i s . t ni ee . ni u
+ciężkiej	tsi ee w_ . Sz c j e j
 choroby	x o . r oo . b y
-Ćwiczę	v ii drZ
-Ćwiczę	v ii tSz
+Ćwiczę	tsi f ii . tSz e
+Ćwiczę	tsi f ii . tSz e
 wieczorami	v j e . tSz o . r aa . m i
 aby	aa . b y
-mieć	m j ee
+mieć	m j ee dzi
+mieć	m j ee tsi
+jędrny	j ee n . d r n y
+biust	b j uu z d
+biust	b j uu s t
 biust	b j uu z d
 biust	b j uu s t
 Te	t ee
 nowe	n oo . v e
 majtki	m aa j . t c i
-sprawiają	s p r aa v . j a j
-że	ee
+które	k t uu . r e
+kupiłam	k u . p ii . w a m
+sprawiają	s p r a v . j aa . j o w_
+że	rZ e
 moje	m oo . j e
+pośladki	p o . si l aa . t c i
+wyglądają	v y . g l o n . d aa . j o w_
+jędrnie	j ee n . d r ni e
+Mój	m uu j
 dziadek	dzi aa . d e g
 dziadek	dzi aa . d e k
+dziadek	dzi aa . d e g
+dziadek	dzi aa . d e k
+pracował	p r a . ts oo . v a w
+w	v
+w	f
 w	v
 w	f
 kontrwywiadzie	k o n . d r v y v . j aa . dzi e
 ten	t ee n
 dzban	dz b aa n
 ma	m aa
+rączkę	r oo n . tSz k e
+rączkę	r oo n . tSz k e
 W	v
 W	f
+W	v
+W	f
+przyszłym	p Sz yy . Sz w y m
 roku	r oo . k u
-odwiedzę	oo d . v j e dz
-odwiedzę	oo d . v j e ts
-Francję	f r aa n ts j
+odwiedzę	o d . v j ee . dz e
+odwiedzę	o d . v j ee . dz e
+Francję	f r aa n ts . j e
 i	i
-Anglię	aa N_ . g l i
+Anglię	aa N_ . g l j e
+żołnierze	rZ o w . ni ee . rZ e
 wywiesili	v y v . j e . si ii . l i
+białą	b j aa . w o w_
+chorągiew	x o . r oo N_ . gi j e v
+chorągiew	x o . r oo N_ . gi j e f
+chorągiew	x o . r oo N_ . gi j e v
+chorągiew	x o . r oo N_ . gi j e f
 na	n a
 znak	z n aa g
 znak	z n aa k
+znak	z n aa g
+znak	z n aa k
 poddania	p o d . d aa . ni a
-się	s ii
+się	si e
+bank	b aa N_ g
+bank	b aa N_ k
 bank	b aa N_ g
 bank	b aa N_ k
 w	v
 w	f
+w	v
+w	f
 toruniu	t o . r uu . ni u
+Zespół	z ee s . p u w
 po	p o
+długiej	d w uu . gi j e j
 przerwie	p Sz ee r . v j e
+wydał	v yy . d a w
+swój	s f uu j
 nowy	n oo . v y
 longplayer	l o N_ k . p l ee . j e r
 bank	b aa N_ g
 bank	b aa N_ k
+bank	b aa N_ g
+bank	b aa N_ k
 splajtowal	s p l a j . t oo . v a l
 Policja	p o . l ii . ts j a
+przymknęła	p Sz y m . k n ee . w a
 przedwczoraj	p Sz e t f . tSz oo . r a j
+dwóch	d v uu x
+gangsterów	g a N_ k . s t ee . r u v
+gangsterów	g a N_ k . s t ee . r u f
+gangsterów	g a N_ k . s t ee . r u v
+gangsterów	g a N_ k . s t ee . r u f
+Dotąd	d oo . t o n d
+Dotąd	d oo . t o n t
+Dotąd	d oo . t o n d
+Dotąd	d oo . t o n t
 wszystkie	f Sz yy s . t c j e
 funkcje	f uu N_ . k ts j e
 tego	t ee . g o
-są	z
-są	s
+urządzenia	u . rZ o n . dz ee . ni a
+są	s oo w_
+są	s oo w_
 mi	m i
 nieznane	ni e z . n aa . n e
 Legitymacje	l e . gi i . t y . m aa . ts j e
 studenckie	s t u . d ee n . ts c j e
-są	z
-są	s
+są	s oo w_
+są	s oo w_
+ważne	v aa rZ . n e
 do	d o
+końca	k oo ni . ts a
+października	p a zi . dzi e r . ni ii . k a
+tęsknotę	t e w_ . s k n oo . t e
+tęsknotę	t e w_ . s k n oo . t e
 trudno	t r uu . d n o
 mi	m i
+było	b yy . w o
+ukryćTysiąckrotnie	u k r y tsi t y si o n ts k r o t ni e
+dziękuję	dzi e N_ . k uu . j e
 za	z a
+pomoc	p oo . m o dz
+pomoc	p oo . m o ts
 pomoc	p oo . m o dz
 pomoc	p oo . m o ts
 w	v
 w	f
+w	v
+w	f
+załatwieniu	z a . w a . t f j ee . ni u
 sprawy	s p r aa . v y
-że	ee
+Pięćktroć	p j e ni tsi k t r o dzi
+Pięćktroć	p j e ni tsi k t r o tsi
+mówiłem	m u . v ii . w e m
+że	rZ e
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 mi	m i
@@ -3941,11 +5845,19 @@ przykro	p Sz yy . k r o
 za	z a
 to	t o
 co	ts oo
-się	s ii
+się	si e
+stało	s t aa . w o
+Mój	m uu j
 wujek	v uu . j e g
 wujek	v uu . j e k
+wujek	v uu . j e g
+wujek	v uu . j e k
+zasiał	z aa . si a w
 na	n a
 polu	p oo . l u
+jęczmień	j ee n . tSz m j e ni
+s	z
+s	s
 s	z
 s	s
 tego	t ee . g o
@@ -3954,137 +5866,236 @@ Znam	z n aa m
 go	g o
 od	o d
 od	o t
-Proszę	p r oo rZ
-Proszę	p r oo Sz
+od	o d
+od	o t
+niemowlęctwa	ni e . m o . v l ee n . ts t f a
+Proszę	p r oo . Sz e
+Proszę	p r oo . Sz e
 mi	m i
+wypłacić	v y . p w aa . tsi i dzi
+wypłacić	v y . p w aa . tsi i tsi
+pieniądze	p j e . ni oo n . dz e
 w	v
 w	f
+w	v
+w	f
+tysiączłotówkach	t y . si o n ts . z w o . t uu f . k a x
 Staraj	s t aa . r a j
-się	s ii
-kierować	c j e . r oo . v a
+się	si e
+kierować	c j e . r oo . v a dzi
+kierować	c j e . r oo . v a tsi
 w	v
 w	f
-życiu	yy . tsi u
+w	v
+w	f
+życiu	rZ yy . tsi u
+rozsądkiem	r o . s s oo n t . c j e m
+Zdrętwiały	z d r e n . t f j aa . w y
 mi	m i
 palce	p aa l . ts e
 od	o d
 od	o t
+od	o d
+od	o t
 tego	t ee . g o
+ciągłego	tsi o N_ . g w ee . g o
 pisania	p i . s aa . ni a
 W	v
 W	f
+W	v
+W	f
 chwilach	x f ii . l a x
+zwątpienia	z v o n t . p j ee . ni a
 zawsze	z aa . f Sz e
-proszę	p r oo rZ
-proszę	p r oo Sz
+proszę	p r oo . Sz e
+proszę	p r oo . Sz e
 ojca	oo j . ts a
 o	o
-radę	r aa d
-radę	r aa t
+radę	r aa . d e
+radę	r aa . d e
 Jego	j ee . g o
 dzisiejszy	dzi i . si ee j . Sz y
+występ	v yy s . t e m b
+występ	v yy s . t e m p
+występ	v yy s . t e m b
+występ	v yy s . t e m p
+niewątpliwie	ni e . v o n t . p l ii v . j e
+potwierdził	p o . t f j ee r . dzi i w
 jego	j ee . g o
 ogromny	o . g r oo m . n y
 talent	t aa . l e n d
 talent	t aa . l e n t
+talent	t aa . l e n d
+talent	t aa . l e n t
 Kontrkandydat	k o n t r . k a n . d yy . d a d
 Kontrkandydat	k o n t r . k a n . d yy . d a t
+Kontrkandydat	k o n t r . k a n . d yy . d a d
+Kontrkandydat	k o n t r . k a n . d yy . d a t
+uzyskał	u . z yy s . k a w
 niewiele	ni e v . j ee . l e
 ponad	p oo . n a d
 ponad	p oo . n a t
-dziesięć	dzi ee . si i
+ponad	p oo . n a d
+ponad	p oo . n a t
+dziesięć	dzi ee . si e ni dzi
+dziesięć	dzi ee . si e ni tsi
 procent	p r oo . ts e n d
 procent	p r oo . ts e n t
+procent	p r oo . ts e n d
+procent	p r oo . ts e n t
+głosów	g w oo . s u v
+głosów	g w oo . s u f
+głosów	g w oo . s u v
+głosów	g w oo . s u f
+w	v
+w	f
 w	v
 w	f
 wyborach	v y . b oo . r a x
 Zawodnik	z a . v oo . d ni i g
 Zawodnik	z a . v oo . d ni i k
+Zawodnik	z a . v oo . d ni i g
+Zawodnik	z a . v oo . d ni i k
+wykonał	v y . k oo . n a w
+kontrmanewr	k o n t r . m aa . n e v r
+kontrmanewr	k o n t r . m aa . n e f r
 kontrmanewr	k o n t r . m aa . n e v r
 kontrmanewr	k o n t r . m aa . n e f r
 i	i
 tym	t y m
 samym	s aa . m y m
-walkę	v aa l g
-walkę	v aa l k
+wygrał	v yy . g r a w
+walkę	v aa l . k e
+walkę	v aa l . k e
 Wojsko	v oo j . s k o
+szykowało	Sz y . k o . v aa . w o
 kontrnatarcie	k o n t r . n a . t aa r . tsi e
 na	n a
-siedzibę	si ee . dzi i b
-siedzibę	si ee . dzi i p
+siedzibę	si e . dzi ii . b e
+siedzibę	si e . dzi ii . b e
 wroga	v r oo . g a
+W	v
+W	f
 W	v
 W	f
 czasie	tSz aa . si e
 zebrania	z e . b r aa . ni a
+mój	m uu j
 przyjaciel	p Sz y . j aa . tsi e l
-kontrpropozycję	k o n t r . p r o . p oo . z y ts j
+przedstawił	p Sz e t . s t aa . v i w
+kontrpropozycję	k o n t r . p r o . p o . z yy . ts j e
 do	d o
 mojego	m o . j ee . g o
 projektu	p r o . j ee . k t u
 i	i
 teraz	t ee . r a z
 teraz	t ee . r a s
+teraz	t ee . r a z
+teraz	t ee . r a s
 on	oo n
 nadzoruje	n a . d z o . r uu . j e
 przebieg	p Sz ee . b j e g
 przebieg	p Sz ee . b j e k
+przebieg	p Sz ee . b j e g
+przebieg	p Sz ee . b j e k
+rac	r aa dz
+rac	r aa ts
 rac	r aa dz
 rac	r aa ts
 nad	n a d
 nad	n a t
+nad	n a d
+nad	n a t
 projektem	p r o . j ee . k t e m
 Partia	p aa r . t j a
+która	k t uu . r a
+wypadła	v y . p aa . d w a
 w	v
 w	f
+w	v
+w	f
+sondażach	s o n . d aa . rZ a x
 najgorzej	n a j . g oo . rZ e j
 ma	m aa
+poglądy	p o . g l oo n . d y
 kontrewolucyjne	k o n . t r e . v o . l u . ts yy j . n e
 co	ts oo
 wskazuje	f s k a . z uu . j e
 na	n a
 to	t o
-że	ee
+że	rZ e
+naród	n aa . r u d
+naród	n aa . r u t
+naród	n aa . r u d
+naród	n aa . r u t
 potrzebuje	p o . t Sz e . b uu . j e
 zmian	z m j aa n
+Każde	k aa rZ . d e
 niemal	ni ee . m a l
+słowo	s w oo . v o
+budziło	b u . dzi ii . w o
 w	v
 w	f
+w	v
+w	f
+umyśle	u . m yy . si l e
+słuchacza	s w u . x aa . tSz a
+kontrsłowo	k o n t r . s w oo . v o
 a	a
+każda	k aa rZ . d a
 prawda	p r aa v . d a
-się	s ii
+głoszona	g w o . Sz oo . n a
+domagała	d o . m a . g aa . w a
+się	si e
+wysunięcia	v y . s u . ni ee ni . tsi a
 i	i
 postawienia	p o s . t a v . j ee . ni a
 kontrprawdy	k o n t r . p r aa v . d y
+Kontrtytuł	k o n t r . t yy . t u w
 to	t o
+tytuł	t yy . t u w
 seryjny	s e . r yy j . n y
+nadrzędny	n a . d rZ ee n . d n y
+w	v
+w	f
 w	v
 w	f
 publikacjach	p u . b l i . k aa . ts j a x
 wielotomowych	v j e . l o . t o . m oo . v y x
 legenda	l e . g ee n . d a
 o	o
+Mędrcach	m ee n t r . ts a x
+z	z
+z	s
 z	z
 z	s
 Dalekiego	d a . l e . c j ee . g o
 Wschodu	f s x oo . d u
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 bardzo	b aa r . dz o
+pouczająca	p o . u . tSz a . j oo n . ts a
 i	i
 moje	m oo . j e
 dzieci	dzi ee . tsi i
-ją	j
-uwielbiają	u v . j ee l . b j a j
+ją	j o w_
+uwielbiają	u v . j e l . b j aa . j o w_
 Cokolwiek	ts o . k oo l . v j e g
 Cokolwiek	ts o . k oo l . v j e k
-zrobię	z r oo . b i
+Cokolwiek	ts o . k oo l . v j e g
+Cokolwiek	ts o . k oo l . v j e k
+zrobię	z r oo . b j e
 ona	oo . n a
 zawsze	z aa . f Sz e
 znajduje	z n a j . d uu . j e
 na	n a
 to	t o
-jakiś	j aa . c i
+jakiś	j aa . c i zi
+jakiś	j aa . c i si
+kontrchwyt	k oo n t r . x f y d
+kontrchwyt	k oo n t r . x f y t
 kontrchwyt	k oo n t r . x f y d
 kontrchwyt	k oo n t r . x f y t
 i	i
@@ -4095,52 +6106,101 @@ Stachurski	s t a . x uu r . s c i
 mieszka	m j ee Sz . k a
 przy	p Sz y
 Landstrasse	l a n t s t r a s s e
-telewizję	t e . l ee . v i z j
+Chętnie	x ee n . t ni e
+pooglądałbym	p o . o . g l o n . d aa w . b y m
+telewizję	t e . l e . v ii z . j e
 Prrr	p r r r
 koniku	k o . ni ii . k u
 GOPR	g oo b r
 GOPR	g oo p r
+GOPR	g oo b r
+GOPR	g oo p r
+skierował	s c j e . r oo . v a w
 ratownika	r a . t o v . ni ii . k a
 Gospodyni	g o s . p o . d yy . ni i
+nagotowała	n a . g o . t o . v aa . w a
+chłopskiego	x w o p s . c j ee . g o
+jadła	j aa . d w a
 i	i
+poczęstowała	p o . tSz e w_ . s t o . v aa . w a
 nim	ni ii m
+biesiadników	b j e . si a . d ni ii . k u v
+biesiadników	b j e . si a . d ni ii . k u f
+biesiadników	b j e . si a . d ni ii . k u v
+biesiadników	b j e . si a . d ni ii . k u f
+Dzięki	dzi ee N_ . c i
 subskrypcji	s u p s . k r yy . p ts i
-otrzymywać	o . t Sz y . m yy . v a
+możesz	m oo . rZ e rZ
+możesz	m oo . rZ e Sz
+możesz	m oo . rZ e rZ
+możesz	m oo . rZ e Sz
+otrzymywać	o . t Sz y . m yy . v a dzi
+otrzymywać	o . t Sz y . m yy . v a tsi
 na	n a
+swój	s f uu j
+email	ee m ee j l
 informacje	i n . f o r . m aa . ts j e
+dotyczące	d o . t y . tSz oo n . ts e
+nowości	n o . v oo si . tsi i
 oferowanych	o . f e . r o . v aa . n y x
+w	v
+w	f
 w	v
 w	f
 naszym	n aa . Sz y m
 serwisie	s e r . v ii . si e
 Wszyscy	f Sz yy s . ts y
-się	s ii
+obśmiewali	o p . si m j e . v aa . l i
+się	si e
+z	z
+z	s
 z	z
 z	s
 Jasia	j aa . si a
-że	ee
+że	rZ e
+chodził	x oo . dzi i w
+w	v
+w	f
 w	v
 w	f
 rozdartych	r o z . d aa r . t y x
 spodniach	s p oo . d ni a x
 pop	p oo b
 pop	p oo p
+pop	p oo b
+pop	p oo p
+sprawdził	s p r aa v . dzi i w
+kościół	k oo si . tsi u w
 Znowu	z n oo . v u
+palnąłem	p a l . n oo . w e m
+głupstwo	g w uu p s . t f o
 przy	p Sz y
+księdzu	k si ee n . dz u
 i	i
 teraz	t ee . r a z
 teraz	t ee . r a s
-żadne	aa . d n e
+teraz	t ee . r a z
+teraz	t ee . r a s
+żadne	rZ aa . d n e
 pochlebstwa	p o . x l ee p s . t f a
 na	n a
 temat	t ee . m a d
 temat	t ee . m a t
+temat	t ee . m a d
+temat	t ee . m a t
 arcybiskupstwa	a r . ts y . b i s . k uu p s . t f a
 nie	ni ee
+załagodzą	z a . w a . g oo . dz o w_
+załagodzą	z a . w a . g oo . dz o w_
 sprawy	s p r aa . v y
 Jagoda	j a . g oo . d a
-uwagę	uu . v a g
-uwagę	uu . v a k
+przyciąga	p Sz y . tsi oo N_ . g a
+uwagę	u . v aa . g e
+uwagę	u . v aa . g e
+chłopców	x w oo . p ts u v
+chłopców	x w oo . p ts u f
+chłopców	x w oo . p ts u v
+chłopców	x w oo . p ts u f
 pstrokatymi	p s t r o . k a . t yy . m i
 kolorami	k o . l o . r aa . m i
 swoich	s f oo . i x
@@ -4148,87 +6208,135 @@ kreacji	k r e . aa . ts i
 Nie	ni ee
 mam	m aa m
 czasu	tSz aa . s u
-ponieważ	p o . ni ee . v a
-idę	ii d
-idę	ii t
+popołudniu	p o . p o . w uu . d ni u
+ponieważ	p o . ni ee . v a rZ
+ponieważ	p o . ni ee . v a Sz
+idę	ii . d e
+idę	ii . d e
 do	d o
 fryzjera	f r y z . j ee . r a
-się	s ii
+się	si e
+obstrzyc	oo p s . t Sz y dz
+obstrzyc	oo p s . t Sz y ts
 obstrzyc	oo p s . t Sz y dz
 obstrzyc	oo p s . t Sz y ts
 Marta	m aa r . t a
 przed	p Sz e d
 przed	p Sz e t
-operacją	o . p ee . r a ts j
-wadę	v aa d
-wadę	v aa t
+przed	p Sz e d
+przed	p Sz e t
+operacją	o . p e . r aa . ts j o w_
+miała	m j aa . w a
+wadę	v aa . d e
+wadę	v aa . d e
 wzroku	v z r oo . k u
+minus	m ii . n u z
+minus	m ii . n u s
 minus	m ii . n u z
 minus	m ii . n u s
 osiem	oo . si e m
 dioptrii	d j oo p . t r i
-Ćwierć	v j ee r
+Ćwierć	tsi f j ee r dzi
+Ćwierć	tsi f j ee r tsi
 wieku	v j ee . k u
 temu	t ee . m u
 nikt	ni ii g d
 nikt	ni ii k t
+nikt	ni ii g d
+nikt	ni ii k t
 nie	ni ee
+marzył	m aa . rZ y w
 o	o
 posiadaniu	p o . si a . d aa . ni u
 telefonu	t e . l e . f oo . n u
+komórkowego	k o . m u r . k o . v ee . g o
 Supergwiazdy	s u . p e r . g v j aa z . d y
 sceny	s ts ee . n y
+międzynarodowej	m j e n . dz y . n a . r o . d oo . v e j
+wystąpiły	v y s . t o m . p ii . w y
 wczoraj	f tSz oo . r a j
 na	n a
 koncercie	k o n . ts ee r . tsi e
 zorganizowanym	z o r . g a . ni i . z o . v aa . n y m
 przez	p Sz e z
 przez	p Sz e s
+przez	p Sz e z
+przez	p Sz e s
+władze	v w aa . dz e
 miasta	m j aa s . t a
 Poznania	p o z . n aa . ni a
 mark	m aa r g
 mark	m aa r k
+mark	m aa r g
+mark	m aa r k
+skierował	s c j e . r oo . v a w
 karabin	k a . r aa . b i n
 karrl	k aa r r l
+spał	s p aa w
 na	n a
+łóżku	w uu Sz . k u
 karlzbadzka	k a r l z . b aa . ts k a
+łaźnia	w aa zi . ni a
 permski	p ee r m . s c i
 ser	s ee r
+był	b yy w
+spleśniały	s p l e si . ni aa . w y
 Na	n a
-romantyczną	r o . m aa n . t y drZ n
-romantyczną	r o . m aa n . t y tSz n
-kolację	k oo . l a ts j
+romantyczną	r o . m a n . t yy . tSz n o w_
+romantyczną	r o . m a n . t yy . tSz n o w_
+kolację	k o . l aa . ts j e
 przy	p Sz y
-świecach	v j ee . ts a x
+świecach	si f j ee . ts a x
+przygotowałam	p Sz y . g o . t o . v aa . w a m
+polędwicę	p o . l e n . d v ii . ts e
+polędwicę	p o . l e n . d v ii . ts e
 po	p o
-żandarmsku	a n . d aa r m . s k u
+żandarmsku	rZ a n . d aa r m . s k u
 i	i
-pieczeń	p j ee . tSz e
+pieczeń	p j ee . tSz e ni
+wołową	v o . w oo . v o w_
+wołową	v o . w oo . v o w_
+stormtrap	s t oo r m . t r a b
+stormtrap	s t oo r m . t r a p
 stormtrap	s t oo r m . t r a b
 stormtrap	s t oo r m . t r a p
 na	n a
+łódce	w uu . t ts e
 Dziewka	dzi ee f . k a
+umyła	u . m yy . w a
 gliniane	g l i . ni aa . n e
 garnczki	g aa r n . tSz c i
 w	v
 w	f
+w	v
+w	f
 strumyku	s t r u . m yy . k u
 i	i
+położyła	p o . w o . rZ yy . w a
 na	n a
 zielonej	zi e . l oo . n e j
 trawie	t r aa v . j e
 do	d o
+wyschnięcia	v y . s x ni ee ni . tsi a
+Wlałam	v l aa . w a m
 mleko	m l ee . k o
 do	d o
 garnczka	g aa r n . tSz k a
 z	z
 z	s
+z	z
+z	s
+zagotowałam	z a . g o . t o . v aa . w a m
 Nad	n a d
 Nad	n a t
-serbską	s ee r b z g
-serbską	s ee r p s k
-granicą	g r aa . ni i dz
-granicą	g r aa . ni i ts
+Nad	n a d
+Nad	n a t
+serbską	s ee r . p s k o w_
+serbską	s ee r . p s k o w_
+granicą	g r a . ni ii . ts o w_
+granicą	g r a . ni ii . ts o w_
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 niebezpiecznie	ni e . b e . s p j ee . tSz ni e
@@ -4237,23 +6345,55 @@ to	t o
 zjawisko	z j a . v ii s . k o
 oraz	oo . r a z
 oraz	oo . r a s
+oraz	oo . r a z
+oraz	oo . r a s
 proces	p r oo . ts e z
 proces	p r oo . ts e s
+proces	p r oo . ts e z
+proces	p r oo . ts e s
+pochłaniania	p o . x w a . ni aa . ni a
 substancji	s u . p s t aa n . ts i
 gazowej	g a . z oo . v e j
 w	v
 w	f
-substancji	s u . p s t aa n . ts i
-lub	l uu b
-lub	l uu p
-lub	l uu b
-lub	l uu p
-też	t ee
-substancji	s u . p s t aa n . ts i
 w	v
 w	f
+całą	ts aa . w o w_
+objętość	o . b j ee n . t o zi dzi
+objętość	o . b j ee n . t o si tsi
 substancji	s u . p s t aa n . ts i
+ciekłej	tsi ee . k w e j
+lub	l uu b
+lub	l uu p
+lub	l uu b
+lub	l uu p
+stałej	s t aa . w e j
+lub	l uu b
+lub	l uu p
+lub	l uu b
+lub	l uu p
+też	t e rZ
+też	t e Sz
+substancji	s u . p s t aa n . ts i
+ciekłej	tsi ee . k w e j
+w	v
+w	f
+w	v
+w	f
+całą	ts aa . w o w_
+objętość	o . b j ee n . t o zi dzi
+objętość	o . b j ee n . t o si tsi
+substancji	s u . p s t aa n . ts i
+stałej	s t aa . w e j
+Podziwiałam	p o . dzi i v . j aa . w a m
+górskie	g uu r . s c j e
 krajobrazy	k r a . j o . b r aa . z y
+siedząc	si ee . dz o n dz
+siedząc	si ee . dz o n ts
+siedząc	si ee . dz o n dz
+siedząc	si ee . dz o n ts
+nad	n a d
+nad	n a t
 nad	n a d
 nad	n a t
 brzegiem	b rZ ee . gi j e m
@@ -4261,18 +6401,32 @@ Morskiego	m o r . s c j ee . g o
 Oka	oo . k a
 Mateusz	m a . t ee . u rZ
 Mateusz	m a . t ee . u Sz
+Mateusz	m a . t ee . u rZ
+Mateusz	m a . t ee . u Sz
 nie	ni ee
+wytrzymał	v y . t Sz yy . m a w
 i	i
-śmiechem	m j ee . x e m
+parsknął	p aa r . s k n o w
+śmiechem	si m j ee . x e m
+w	v
+w	f
 w	v
 w	f
 czasie	tSz aa . si e
 lekcji	l ee . k ts i
-ciemną	tsi ee m n
-ulicą	uu . l i dz
-ulicą	uu . l i ts
-się	s ii
+Idąc	ii . d o n dz
+Idąc	ii . d o n ts
+Idąc	ii . d o n dz
+Idąc	ii . d o n ts
+ciemną	tsi ee m . n o w_
+ulicą	u . l ii . ts o w_
+ulicą	u . l ii . ts o w_
+usłyszał	u . s w yy . Sz a w
+parsknięcie	p a r . s k ni ee ni . tsi e
+odwrócił	o d . v r uu . tsi i w
+się	si e
 i	i
+zobaczył	z o . b aa . tSz y w
 policjanta	p o . l i . ts j aa n . t a
 na	n a
 koniu	k oo . ni u
@@ -4285,59 +6439,93 @@ nie	ni ee
 pomaga	p o . m aa . g a
 W	v
 W	f
+W	v
+W	f
 dniu	d ni uu
 swoich	s f oo . i x
 dwudziestych	d v u . dzi ee s . t y x
+dziewiątych	dzi e v . j oo n . t y x
 urodzin	u . r oo . dzi i n
-pierwszą	p j ee r rZ
-pierwszą	p j ee r Sz
-zmarszczkę	z m aa r Sz drZ g
-zmarszczkę	z m aa r Sz tSz k
+zauważyła	z a . u . v a . rZ yy . w a
+pierwszą	p j ee r . f Sz o w_
+pierwszą	p j ee r . f Sz o w_
+zmarszczkę	z m aa r . Sz tSz k e
+zmarszczkę	z m aa r . Sz tSz k e
 na	n a
 czole	tSz oo . l e
 i	i
+posmutniała	p o s . m u . t ni aa . w a
 Szare	Sz aa . r e
+płótno	p w uu . t n o
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 szorstkie	Sz oo r s . t c j e
 w	v
 w	f
+w	v
+w	f
 dotyku	d o . t yy . k u
 W	v
 W	f
+W	v
+W	f
 nocy	n oo . ts y
+spadła	s p aa . d w a
+świeża	si f j ee . rZ a
 warstwa	v aa r . s t f a
-śniegu	ni ee . g u
+śniegu	si ni ee . g u
 i	i
 poranny	p o . r aa . n n y
 krajobraz	k r a . j oo . b r a z
 krajobraz	k r a . j oo . b r a s
+krajobraz	k r a . j oo . b r a z
+krajobraz	k r a . j oo . b r a s
+wyglądał	v y . g l oo n . d a w
+olśniewająco	o l . si ni e . v a . j oo n . ts o
 Moja	m oo . j a
 garstka	g aa r . s t k a
+przyjaciół	p Sz y . j aa . tsi u w
 ze	z e
-się	s ii
+studiów	s t uu d . j u v
+studiów	s t uu d . j u f
+studiów	s t uu d . j u v
+studiów	s t uu d . j u f
+spotkała	s p o . t k aa . w a
+się	si e
 po	p o
 wielu	v j ee . l u
 latach	l aa . t a x
 forstner	f oo r . s t n e r
 to	t o
+słowo	s w oo . v o
+włoskie	v w oo s . c j e
+naparstnik	n a . p aa r . s t ni i g
+naparstnik	n a . p aa r . s t ni i k
 naparstnik	n a . p aa r . s t ni i g
 naparstnik	n a . p aa r . s t ni i k
 naparstnica	n a . p a r . s t ni ii . ts a
 gumpendorfersztrasse	g u m . p e n . d o r . f e r . Sz t r aa . s s e
 W	v
 W	f
+W	v
+W	f
 karczmie	k aa r . tSz m j e
+Złota	z w oo . t a
 rybka	r yy . p k a
 nieznajomy	ni e z . n a . j oo . m y
+zasztyletował	z a Sz . t y . l e . t oo . v a w
 rybaka	r y . b aa . k a
 Rodzice	r o . dzi ii . ts e
-martwią	m aa r . t f i
-się	s ii
+martwią	m aa r . t f j o w_
+się	si e
 o	o
 swoje	s f oo . j e
 dzieci	dzi ee . tsi i
 dyzartja	d y . z aa r . t j a
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 schorzeniem	s x o . rZ ee . ni e m
@@ -4346,122 +6534,237 @@ takiej	t aa . c j e j
 sportsmenki	s p o r t s . m ee N_ . c i
 Polska	p oo l . s k a
 nie	ni ee
+miała	m j aa . w a
 Picie	p ii . tsi e
+soków	s oo . k u v
+soków	s oo . k u f
+soków	s oo . k u v
+soków	s oo . k u f
 z	z
 z	s
-marchwią	m aa r . x f i
+z	z
+z	s
+marchwią	m aa r . x f j o w_
+wpływa	f p w yy . v a
 korzystnie	k o . rZ yy s . t ni e
 na	n a
-cerę	ts ee r
+cerę	ts ee . r e
 Zachowujesz	z a . x o . v uu . j e rZ
 Zachowujesz	z a . x o . v uu . j e Sz
-się	s ii
+Zachowujesz	z a . x o . v uu . j e rZ
+Zachowujesz	z a . x o . v uu . j e Sz
+się	si e
 bezwstydnie	b e s . f s t yy . d ni e
+Rozwścieczony	r o s . f si tsi e . tSz oo . n y
 pies	p j ee z
 pies	p j ee s
+pies	p j ee z
+pies	p j ee s
+pogryzł	p oo . g r y z
+pogryzł	p oo . g r y s
 swojego	s f o . j ee . g o
+właściciela	v w a si . tsi i . tsi ee . l a
 Rozgrzany	r o z . g rZ aa . n y
+tłuszcz	t w uu rZ drZ
+tłuszcz	t w uu Sz tSz
+tłuszcz	t w uu rZ drZ
+tłuszcz	t w uu Sz tSz
+skwierczał	s k f j ee r . tSz a w
 na	n a
 patelni	p a . t ee l . ni i
+Spór	s p uu r
+został	z oo s . t a w
+szczęśliwie	Sz tSz e w_ . si l ii v . j e
+rozwiązany	r o . z v j o w_ . z aa . n y
+w	v
+w	f
 w	v
 w	f
 bezkrwawy	b e s . k r f aa . v y
+sposób	s p oo . s u b
+sposób	s p oo . s u p
+sposób	s p oo . s u b
+sposób	s p oo . s u p
 Twoje	t f oo . j e
 litery	l i . t ee . r y
-są	z
-są	s
+są	s oo w_
+są	s oo w_
+bezkształtne	b e s . k Sz t aa w . t n e
 dlatego	d l a . t ee . g o
 musisz	m uu . si i rZ
 musisz	m uu . si i Sz
-ćwiczyć	v ii . tSz y
+musisz	m uu . si i rZ
+musisz	m uu . si i Sz
+często	tSz ee w_ . s t o
+ćwiczyć	tsi f ii . tSz y dzi
+ćwiczyć	tsi f ii . tSz y tsi
 pisanie	p i . s aa . ni e
+myśl	m yy zi l
+myśl	m yy si l
 skierowana	s c j e . r o . v aa . n a
 Kiedy	c j ee . d y
 zaatakuje	z a . a . t a . k uu . j e
-cię	tsi ii
+cię	tsi e
 wampir	v aa m . p i r
-broń	b r oo
-się	s ii
-wodą	v oo d
-wodą	v oo t
+broń	b r oo ni
+się	si e
+wodą	v oo . d o w_
+wodą	v oo . d o w_
+święconą	si f j e n . ts oo . n o w_
 i	i
 czosnkiem	tSz oo s N_ . c j e m
+Rozmnażanie	r o z . m n a . rZ aa . ni e
+bezpłciowe	b e s . p w tsi oo . v e
 wegetatywne	v e . g e . t a . t yy v . n e
 agamiczne	a . g a . m ii . tSz n e
 to	t o
 typ	t yy b
 typ	t yy p
+typ	t yy b
+typ	t yy p
+rozmnażania	r o z . m n a . rZ aa . ni a
+organizmów	o r . g a . ni ii z . m u v
+organizmów	o r . g a . ni ii z . m u f
+organizmów	o r . g a . ni ii z . m u v
+organizmów	o r . g a . ni ii z . m u f
+który	k t uu . r y
 nie	ni ee
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+związany	z v j o w_ . z aa . n y
+z	z
+z	s
 z	z
 z	s
 wytwarzaniem	v y . t f a . rZ aa . ni e m
+komórek	k o . m uu . r e g
+komórek	k o . m uu . r e k
+komórek	k o . m uu . r e g
+komórek	k o . m uu . r e k
 generatywnych	g e . n e . r a . t yy v . n y x
 czyli	tSz yy . l i
 gamet	g aa . m e d
 gamet	g aa . m e t
-też	t ee
+gamet	g aa . m e d
+gamet	g aa . m e t
+też	t e rZ
+też	t e Sz
 austriackiemu	a w s . t r j a . ts c j ee . m u
+generałowi	g e . n e . r a . w oo . v i
 Jedna	j ee . d n a
-świeczka	v j ee . tSz k a
+świeczka	si f j ee . tSz k a
+może	m oo . rZ e
+rozświetlić	r o s . si f j ee . t l i dzi
+rozświetlić	r o s . si f j ee . t l i tsi
+całe	ts aa . w e
 pomieszczenie	p o m . j e Sz . tSz ee . ni e
 Owady	o . v aa . d y
+bezskrzydłe	b e s . s k Sz yy . d w e
 to	t o
 podgromada	p o d . g r o . m aa . d a
 zaliczana	z a . l i . tSz aa . n a
 do	d o
 gromady	g r o . m aa . d y
-się	s ii
+owadów	o . v aa . d u v
+owadów	o . v aa . d u f
+owadów	o . v aa . d u v
+owadów	o . v aa . d u f
+cechująca	ts e . x u . j oo n . ts a
+się	si e
 rozwojem	r o . z v oo . j e m
 osobniczym	o . s o . b ni ii . tSz y m
 bez	b ee z
 bez	b ee s
+bez	b ee z
+bez	b ee s
 stadium	s t aa d . j u m
+przeobrażenia	p Sz e . o . b r a . rZ ee . ni a
 Politycy	p o . l i . t yy . ts y
 zawsze	z aa . f Sz e
 mnie	m ni ee
+rozśmieszali	r o s . si m j e . Sz aa . l i
+Przez	p Sz e z
+Przez	p Sz e s
 Przez	p Sz e z
 Przez	p Sz e s
 miasto	m j aa s . t o
+przeszła	p Sz ee . Sz w a
+rozśpiewana	r o s . si p j e . v aa . n a
 pielgrzymka	p j e l . g rZ yy m . k a
 Bezsprzecznie	b e s . s p Sz ee . tSz ni e
+wygrała	v y . g r aa . w a
+drużyna	d r u . rZ yy . n a
 niebieskich	ni e . b j ee s . c i x
 Bo	b o
 nasz	n a rZ
 nasz	n a Sz
+nasz	n a rZ
+nasz	n a Sz
+usłyszą	u . s w yy . Sz o w_
+usłyszą	u . s w yy . Sz o w_
 Mam	m aa m
 rozstrojone	r o s . s t r o . j oo . n e
 radio	r aa d . j o
 Wychowawczyni	v y . x o . v a f . tSz yy . ni i
+rozstrzygnęła	r o s . s t Sz y . g n ee . w a
+spór	s p uu r
+pomiędzy	p o m . j ee n . dz y
 dziewczynkami	dzi e f . tSz y N_ . k aa . m i
 Dzieci	dzi ee . tsi i
-uszczknąć	uu Sz tSz k n
+próbowały	p r u . b o . v aa . w y
+uszczknąć	uu Sz tSz . k n o ni dzi
+uszczknąć	uu Sz tSz . k n o ni tsi
+kawałek	k a . v aa . w e g
+kawałek	k a . v aa . w e k
+kawałek	k a . v aa . w e g
+kawałek	k a . v aa . w e k
 tortu	t oo r . t u
 przed	p Sz e d
 przed	p Sz e t
+przed	p Sz e d
+przed	p Sz e t
 przyjazdem	p Sz y . j aa z . d e m
+gości	g oo si . tsi i
 Nie	ni ee
 uszczkniesz	uu Sz tSz . k ni e rZ
 uszczkniesz	uu Sz tSz . k ni e Sz
+uszczkniesz	uu Sz tSz . k ni e rZ
+uszczkniesz	uu Sz tSz . k ni e Sz
 ani	aa . ni i
+kawałka	k a . v aa w . k a
 Po	p o
+sześćkroć	Sz ee si tsi . k r o dzi
+sześćkroć	Sz ee si tsi . k r o tsi
 ciebie	tsi ee . b j e
-proszę	p r oo rZ
-proszę	p r oo Sz
-żebyś	ee . b y
+proszę	p r oo . Sz e
+proszę	p r oo . Sz e
+żebyś	rZ ee . b y zi
+żebyś	rZ ee . b y si
+poszedł	p oo . Sz e d
+poszedł	p oo . Sz e t
 do	d o
 skrzynki	s k Sz yy N_ . c i
 Wszystkie	f Sz yy s . t c j e
 dzieci	dzi ee . tsi i
-kochają	k oo . x a j
+kochają	k o . x aa . j o w_
 wakacje	v a . k aa . ts j e
 O	o
 morderstwie	m o r . d ee r . s t f j e
-się	s ii
+dowiedziałam	d o v . j e . dzi aa . w a m
+się	si e
+z	z
+z	s
 z	z
 z	s
 telewizji	t e . l e . v ii . z i
+siedząc	si ee . dz o n dz
+siedząc	si ee . dz o n ts
+siedząc	si ee . dz o n dz
+siedząc	si ee . dz o n ts
+w	v
+w	f
 w	v
 w	f
 towarzystwie	t o . v a . rZ yy s . t f j e
@@ -4469,178 +6772,326 @@ siostry	si oo s . t r y
 zamordowanego	z a . m o r . d o . v a . n ee . g o
 Nie	ni ee
 rozstkliwiaj	r o s s t k l i v j a j
-się	s ii
+się	si e
+tak	t aa g
+tak	t aa k
 tak	t aa g
 tak	t aa k
 bo	b o
 on	oo n
 na	n a
 pewno	p ee v . n o
-się	s ii
+wróci	v r uu . tsi i
+Strwożyłem	s t r f o . rZ yy . w e m
+się	si e
+widząc	v ii . dz o n dz
+widząc	v ii . dz o n ts
+widząc	v ii . dz o n dz
+widząc	v ii . dz o n ts
+mężczyzn	m ee w_ . Sz tSz y z n
+mężczyzn	m ee w_ . Sz tSz y s n
+mężczyzn	m ee w_ . Sz tSz y z n
+mężczyzn	m ee w_ . Sz tSz y s n
+biegnących	b j e . g n oo n . ts y x
+w	v
+w	f
 w	v
 w	f
 moim	m oo . i m
 kierunku	c j e . r uu N_ . k u
 Przez	p Sz e z
 Przez	p Sz e s
-Austrię	aa w . s t r i
+Przez	p Sz e z
+Przez	p Sz e s
+Austrię	aa w s . t r j e
 tylko	t yy l . k o
+przejeżdżałem	p Sz e . j e rZ . drZ aa . w e m
 nigdy	ni ii g . d y
-się	s ii
+się	si e
 tam	t aa m
 nie	ni ee
+zatrzymywałem	z a . t Sz y . m y . v aa . w e m
+strmberk	s t r m b ee r g
+strmberk	s t r m b ee r k
 strmberk	s t r m b ee r g
 strmberk	s t r m b ee r k
 to	t o
+góra	g uu . r a
+w	v
+w	f
 w	v
 w	f
 austrii	aa w . s t r i
+Napisał	n a . p ii . s a w
+w	v
+w	f
 w	v
 w	f
 postscriptum	p o s t . s ts r ii . p t u m
-że	ee
+że	rZ e
+przyśle	p Sz yy . si l e
+zdjęcia	z d j ee ni . tsi a
+następnym	n a s . t ee m . p n y m
 razem	r aa . z e m
-ją	j
+Widząc	v ii . dz o n dz
+Widząc	v ii . dz o n ts
+Widząc	v ii . dz o n dz
+Widząc	v ii . dz o n ts
+ją	j o w_
+z	z
+z	s
 z	z
 z	s
 innym	ii . n n y m
 tylko	t yy l . k o
-westchną	v ee s t x n
+westchną	v ee s . t x n o w_
 i	i
+odszedł	oo . t Sz e d
+odszedł	oo . t Sz e t
 na	n a
 zawsze	z aa . f Sz e
 westchnienie	v e s . t x ni ee . ni e
+wstrząsnęło	f s t Sz o w_ . s n ee . w o
+królewną	k r u . l ee v . n o w_
 Jesienny	j e . si ee . n n y
 wiatr	v j aa d r
 wiatr	v j aa t r
+wiatr	v j aa d r
+wiatr	v j aa t r
+rozchwiewał	r o s . x f j ee . v a w
+pożółkłe	p o . rZ uu w . k w e
+liście	l ii si . tsi e
+moc	m oo dz
+moc	m oo ts
 moc	m oo dz
 moc	m oo ts
 stworzenia	s t f o . rZ ee . ni a
-świata	v j aa . t a
+świata	si f j aa . t a
 Magnaci	m a . g n aa . tsi i
 zbuntowali	z b u n . t o . v aa . l i
-się	s ii
+się	si e
 przeciw	p Sz ee . tsi i v
 przeciw	p Sz ee . tsi i f
-być	b yy
+przeciw	p Sz ee . tsi i v
+przeciw	p Sz ee . tsi i f
+królowi	k r u . l oo . v i
+który	k t uu . r y
+być	b yy dzi
+być	b yy tsi
+może	m oo . rZ e
 nie	ni ee
-żyje	yy . j e
+żyje	rZ yy . j e
 lub	l uu b
 lub	l uu p
+lub	l uu b
+lub	l uu p
+który	k t uu . r y
+poszedł	p oo . Sz e d
+poszedł	p oo . Sz e t
 na	n a
+uchodźstwo	u . x oo . tsi s t f o
 O	o
 bankructwie	b a N_ . k r uu . ts t f j e
 firmy	f ii r . m y
+usłyszałem	u . s w y . Sz aa . w e m
+w	v
+w	f
 w	v
 w	f
 mediach	m ee d . j a x
+Przedwstępny	p Sz e t . f s t ee m . p n y
 kosztorys	k o Sz . t oo . r y z
 kosztorys	k o Sz . t oo . r y s
+kosztorys	k o Sz . t oo . r y z
+kosztorys	k o Sz . t oo . r y s
+został	z oo s . t a w
+złożony	z w o . rZ oo . n y
 na	n a
 biurku	b j uu r . k u
 prezesa	p r e . z ee . s a
 Drzazgi	d rZ aa z . gi i
 nadal	n aa . d a l
-tkwią	t k f ii
+tkwią	t k f j oo w_
+pod	p o d
+pod	p o t
 pod	p o d
 pod	p o t
 jego	j ee . g o
+skórą	s k uu . r o w_
 Pod	p o d
 Pod	p o t
+Pod	p o d
+Pod	p o t
+wpływem	f p w yy . v e m
+ciepła	tsi ee . p w a
 kubek	k uu . b e g
 kubek	k uu . b e k
-się	s ii
+kubek	k uu . b e g
+kubek	k uu . b e k
+się	si e
+odkształcił	o t . k Sz t aa w . tsi i w
+W	v
+W	f
 W	v
 W	f
 przedszkolu	p Sz e . t Sz k oo . l u
-się	s ii
+kumplowałem	k u m . p l o . v aa . w e m
+się	si e
+z	z
+z	s
 z	z
 z	s
 Pietrkiem	p j ee t r . c j e m
-się	s ii
+Umówiliśmy	u . m u . v i . l ii si . m y
+się	si e
 na	n a
 Placu	p l aa . ts u
-Idę	ii d
-Idę	ii t
-się	s ii
+Piłsudskiego	p i w . s u . t s c j ee . g o
+Idę	ii . d e
+Idę	ii . d e
+się	si e
+odświeżyć	o t . si f j ee . rZ y dzi
+odświeżyć	o t . si f j ee . rZ y tsi
 i	i
+założyć	z a . w oo . rZ y dzi
+założyć	z a . w oo . rZ y tsi
+odświętne	o t . si f j ee n . t n e
 ubrania	u . b r aa . ni a
 Nie	ni ee
-odskrobać	o t . s k r oo . b a
+mogłem	m oo . g w e m
+odskrobać	o t . s k r oo . b a dzi
+odskrobać	o t . s k r oo . b a tsi
+resztek	r ee Sz . t e g
+resztek	r ee Sz . t e k
 resztek	r ee Sz . t e g
 resztek	r ee Sz . t e k
 przypalonej	p Sz y . p a . l oo . n e j
 zupy	z uu . p y
 od	o d
 od	o t
+od	o d
+od	o t
 dna	d n aa
 garnka	g aa r N_ . k a
-się	s ii
+Michał	m ii . x a w
+podśmiechiwał	p o t . si m j e . x ii . v a w
+się	si e
+z	z
+z	s
 z	z
 z	s
 kolegi	k o . l ee . gi i
-jedynkę	j ee . d y N_ g
-jedynkę	j ee . d y N_ k
+który	k t uu . r y
+dostał	d oo s . t a w
+jedynkę	j e . d yy N_ . k e
+jedynkę	j e . d yy N_ . k e
 ze	z e
 sprawdzianu	s p r a v . dzi aa . n u
 W	v
 W	f
+W	v
+W	f
 czasie	tSz aa . si e
+sprzątania	s p Sz o n . t aa . ni a
 mama	m aa . m a
+podśpiewuje	p o t . si p j e . v uu . j e
 sobie	s oo . b j e
 pod	p o d
 pod	p o t
+pod	p o d
+pod	p o t
 nosem	n oo . s e m
+Odstraszyła	o t . s t r a . Sz yy . w a
 mnie	m ni ee
 cena	ts ee . n a
 a	a
 nie	ni ee
-jakość	j aa . k o
+jakość	j aa . k o zi dzi
+jakość	j aa . k o si tsi
 produktu	p r o . d uu . k t u
+Podstrzygłem	p o t . s t Sz yy . g w e m
 sobie	s oo . b j e
-mąż	m
+włosy	v w oo . s y
+Mój	m uu j
+mąż	m oo w_ rZ
+mąż	m oo w_ Sz
 znowu	z n oo . v u
+wrócił	v r uu . tsi i w
 podchmielony	p o t . x m j e . l oo . n y
 do	d o
 domu	d oo . m u
 Na	n a
 osiedlu	o . si ee . d l u
+zostały	z o s . t aa . w y
+założone	z a . w o . rZ oo . n e
 ekrany	e . k r aa . n y
+przeciwdźwiękowe	p Sz e . tsi i v . dzi v j e N_ . k oo . v e
 aby	aa . b y
-oddzielić	o d . dzi ee . l i
+oddzielić	o d . dzi ee . l i dzi
+oddzielić	o d . dzi ee . l i tsi
+mieszkańców	m j e Sz . k aa ni . ts u v
+mieszkańców	m j e Sz . k aa ni . ts u f
+mieszkańców	m j e Sz . k aa ni . ts u v
+mieszkańców	m j e Sz . k aa ni . ts u f
 od	o d
 od	o t
+od	o d
+od	o t
+hałasu	x a . w aa . s u
 ruchliwej	r u . x l ii . v e j
 sosy	s oo . s y
+Zamontowałem	z a . m o n . t o . v aa . w e m
 sobie	s oo . b j e
 reflektory	r e . f l e . k t oo . r y
+przeciwmgłowe	p Sz e . tsi i v . m g w oo . v e
+Włączyłam	v w o n . tSz yy . w a m
+światła	si f j aa . t w a
 przeciwmgielne	p Sz e . tsi i v . m gi j ee l . n e
-ponieważ	p o . ni ee . v a
-widoczność	v i . d oo . tSz n o
+ponieważ	p o . ni ee . v a rZ
+ponieważ	p o . ni ee . v a Sz
+widoczność	v i . d oo . tSz n o zi dzi
+widoczność	v i . d oo . tSz n o si tsi
+była	b yy . w a
 bardzo	b aa r . dz o
 kiepska	c j ee . p s k a
 vrrr	v r r r
 Powoli	p o . v oo . l i
-wzbierać	v z b j ee . r a
+zaczął	z aa . tSz o w
+wzbierać	v z b j ee . r a dzi
+wzbierać	v z b j ee . r a tsi
+w	v
+w	f
 w	v
 w	f
 nim	ni ii m
 gniew	g ni ee v
 gniew	g ni ee f
+gniew	g ni ee v
+gniew	g ni ee f
+Wejście	v ee j . si tsi e
 do	d o
 budynku	b u . d yy N_ . k u
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 wzbronione	v z b r o . ni oo . n e
+Wzdrygnął	v z d r yy . g n o w
 na	n a
 wspomnienie	f s p o m . ni ee . ni e
 tamtego	t a m . t ee . g o
 zdarzenia	z d a . rZ ee . ni a
+Mnóstwo	m n uu s . t f o
 ludzi	l uu . dzi i
 spaceruje	s p a . ts e . r uu . j e
+wzdłuż	v z d w uu rZ
+wzdłuż	v z d w uu Sz
 bulwaru	b u l . v aa . r u
 Bez	b ee z
 Bez	b ee s
+Bez	b ee z
+Bez	b ee s
+względu	v z g l ee n . d u
 na	n a
 to	t o
 ile	ii . l e
@@ -4649,76 +7100,131 @@ to	t o
 zabierze	z a . b j ee . rZ e
 musisz	m uu . si i rZ
 musisz	m uu . si i Sz
+musisz	m uu . si i rZ
+musisz	m uu . si i Sz
 to	t o
+skończyć	s k oo ni . tSz y dzi
+skończyć	s k oo ni . tSz y tsi
+W	v
+W	f
 W	v
 W	f
 prasie	p r aa . si e
-się	s ii
+ukazała	u . k a . z aa . w a
+się	si e
+krótka	k r uu . t k a
 wzmianka	v z m j aa N_ . k a
 o	o
 planowanych	p l a . n o . v aa . n y x
 w	v
 w	f
+w	v
+w	f
 zmianach	z m j aa . n a x
 w	v
 w	f
+w	v
+w	f
+służbie	s w uu rZ . b j e
 zdrowia	z d r oo v . j a
+w	v
+w	f
 w	v
 w	f
 zwiewnej	z v j ee v . n e j
 sukience	s u . c j ee n . ts e
 W	v
 W	f
+W	v
+W	f
+męskiej	m ee w_ . s c j e j
 toalecie	t o . a . l ee . tsi e
+zabrakło	z a . b r aa . k w o
 papieru	p a . p j ee . r u
 Prasowanie	p r a . s o . v aa . ni e
 to	t o
 nic	ni ii dz
 nic	ni ii ts
-żona	oo . n a
+nic	ni ii dz
+nic	ni ii ts
+ciężkiego	tsi e w_ . Sz c j ee . g o
+tęskliwa	t e w_ . s k l ii . v a
+żona	rZ oo . n a
+Umierała	u m . j e . r aa . w a
 z	z
 z	s
+z	z
+z	s
+tęsknoty	t e w_ . s k n oo . t y
 za	z a
 swym	s f yy m
 marynarzem	m a . r y . n aa . rZ e m
 Z	z
 Z	s
+Z	z
+Z	s
+utęsknieniem	u . t e w_ . s k ni ee . ni e m
+czekał	tSz ee . k a w
 aby	aa . b y
-ją	j
+ją	j o w_
 znowu	z n oo . v u
-zobaczyć	z o . b aa . tSz y
+zobaczyć	z o . b aa . tSz y dzi
+zobaczyć	z o . b aa . tSz y tsi
 Transkrypcji	t r a w_ . s k r yy . p ts i
 fonetycznej	f o . n e . t yy . tSz n e j
-się	s ii
+można	m oo rZ . n a
+się	si e
 szybko	Sz yy . p k o
-nauczyć	n a . uu . tSz y
+nauczyć	n a . uu . tSz y dzi
+nauczyć	n a . uu . tSz y tsi
+Pacjent	p aa . ts j e n d
+Pacjent	p aa . ts j e n t
 Pacjent	p aa . ts j e n d
 Pacjent	p aa . ts j e n t
 oczekuje	o . tSz e . k uu . j e
 na	n a
-transplantację	t r a w_ s . p l aa n . t a ts j
+transplantację	t r a w_ s . p l a n . t aa . ts j e
 nerki	n ee r . c i
 Zanim	z aa . ni i m
 to	t o
 zjesz	z j ee rZ
 zjesz	z j ee Sz
+zjesz	z j ee rZ
+zjesz	z j ee Sz
 podziel	p oo . dzi e l
 to	t o
 na	n a
-żebyś	ee . b y
-się	s ii
+cząstki	tSz oo w_ . s t c i
+żebyś	rZ ee . b y zi
+żebyś	rZ ee . b y si
+się	si e
 nie	ni ee
+udławił	u . d w aa . v i w
 Nie	ni ee
 interesuje	i n . t e . r e . s uu . j e
 go	g o
 nic	ni ii dz
 nic	ni ii ts
+nic	ni ii dz
+nic	ni ii ts
+prócz	p r uu drZ
+prócz	p r uu tSz
+prócz	p r uu drZ
+prócz	p r uu tSz
+zwycięstwo	z v y . tsi ee w_ . s t f o
+Zacisnął	z a . tsi ii s . n o w
+piąstki	p j oo w_ . s t c i
 i	i
-że	ee
+zagroził	z a . g r oo . zi i w
+że	rZ e
 zacznie	z aa . tSz ni e
-wrzeszczeć	v rZ ee Sz . tSz e
+wrzeszczeć	v rZ ee Sz . tSz e dzi
+wrzeszczeć	v rZ ee Sz . tSz e tsi
+jeśli	j ee . si l i
 mama	m aa . m a
 mu	m u
+zaraz	z aa . r a z
+zaraz	z aa . r a s
 zaraz	z aa . r a z
 zaraz	z aa . r a s
 nie	ni ee
@@ -4726,43 +7232,75 @@ kupi	k uu . p i
 czekoladki	tSz e . k o . l aa . t c i
 Na	n a
 sprawdzianie	s p r a v . dzi aa . ni e
-opisać	o . p ii . s a
-tkankę	t k aa N_ g
-tkankę	t k aa N_ k
+mieliśmy	m j e . l ii si . m y
+opisać	o . p ii . s a dzi
+opisać	o . p ii . s a tsi
+tkankę	t k aa N_ . k e
+tkankę	t k aa N_ . k e
+chrzęstną	x Sz ee w_ . s t n o w_
+chrzęstną	x Sz ee w_ . s t n o w_
 Kiedy	c j ee . d y
 sos	s oo z
 sos	s oo s
-polewać	p o . l ee . v a
+sos	s oo z
+sos	s oo s
+zgęstnieje	z g e w_ . s t ni ee . j e
+można	m oo rZ . n a
+polewać	p o . l ee . v a dzi
+polewać	p o . l ee . v a tsi
 nim	ni ii m
-potrawę	p oo . t r a v
-potrawę	p oo . t r a f
+potrawę	p o . t r aa . v e
+potrawę	p o . t r aa . v e
 i	i
-podawać	p o . d aa . v a
+podawać	p o . d aa . v a dzi
+podawać	p o . d aa . v a tsi
 na	n a
+gorąco	g o . r oo n . ts o
 Demonstracja	d e . m o w_ . s t r aa . ts j a
-dziś	dzi ii
+przeszła	p Sz ee . Sz w a
+dziś	dzi ii zi
+dziś	dzi ii si
 ulicami	u . l i . ts aa . m i
 stolicy	s t o . l ii . ts y
 Nie	ni ee
-się	s ii
+przyglądaj	p Sz y . g l oo n . d a j
+się	si e
 tej	t e j
+cząstce	tSz oo w_ s . t ts e
 chleba	x l ee . b a
+leżącej	l e . rZ oo n . ts e j
 na	n a
+podłodze	p o . d w oo . dz e
 tylko	t yy l . k o
-ją	j
-podnieś	p oo . d ni e
+ją	j o w_
+podnieś	p oo . d ni e zi
+podnieś	p oo . d ni e si
 Transgresja	t r a w_ z . g r ee . s j a
 to	t o
 inaczej	i . n aa . tSz e j
 przekraczanie	p Sz e . k r a . tSz aa . ni e
+Współbrzmienie	f s p u w . b rZ m j ee . ni e
 tych	t y x
+instrumentów	i w_ . s t r u . m ee n . t u v
+instrumentów	i w_ . s t r u . m ee n . t u f
+instrumentów	i w_ . s t r u . m ee n . t u v
+instrumentów	i w_ . s t r u . m ee n . t u f
+jest	j ee z d
+jest	j ee s t
 jest	j ee z d
 jest	j ee s t
 idealne	i . d e . aa l . n e
 Augsburski	a w g z . b uu r . s c i
 obraz	oo . b r a z
 obraz	oo . b r a s
+obraz	oo . b r a z
+obraz	oo . b r a s
 Aukcja	aa w . k ts j a
+obrazów	o . b r aa . z u v
+obrazów	o . b r aa . z u f
+obrazów	o . b r aa . z u v
+obrazów	o . b r aa . z u f
+wzbudziła	v z b u . dzi ii . w a
 ogromne	o . g r oo m . n e
 zainteresowanie	z a . i n . t e . r e . s o . v aa . ni e
 faulkner	f aa w l . k n e r
@@ -4770,97 +7308,161 @@ to	t o
 znany	z n aa . n y
 pisarz	p ii . s a rZ
 pisarz	p ii . s a Sz
+pisarz	p ii . s a rZ
+pisarz	p ii . s a Sz
+cełmski	ts ee w m . s c i
 ratusz	r aa . t u rZ
 ratusz	r aa . t u Sz
+ratusz	r aa . t u rZ
+ratusz	r aa . t u Sz
+Widziałam	v i . dzi aa . w a m
 go	g o
 w	v
 w	f
+w	v
+w	f
+półświetle	p u w . si f j ee . t l e
 i	i
 nie	ni ee
-mogę	m oo g
-mogę	m oo k
+mogę	m oo . g e
+mogę	m oo . g e
 przyrzec	p Sz yy . rZ e dz
 przyrzec	p Sz yy . rZ e ts
-że	ee
+przyrzec	p Sz yy . rZ e dz
+przyrzec	p Sz yy . rZ e ts
+że	rZ e
 to	t o
+właśnie	v w aa si . ni e
 on	oo n
+strzelał	s t Sz ee . l a w
+współśmierci	f s p u w . si m j ee r . tsi i
 nie	ni ee
-życzę	yy drZ
-życzę	yy tSz
-Jesteś	j ee s . t e
+życzę	rZ yy . tSz e
+życzę	rZ yy . tSz e
+Jesteś	j ee s . t e zi
+Jesteś	j ee s . t e si
+współsprawcą	f s p u w . s p r aa f . ts o w_
+współsprawcą	f s p u w . s p r aa f . ts o w_
 tej	t e j
 krzywdy	k Sz yy v . d y
 Wczoraj	f tSz oo . r a j
+poznałam	p o z . n aa . w a m
+dwóch	d v uu x
+Austriaków	a w s . t r j aa . k u v
+Austriaków	a w s . t r j aa . k u f
+Austriaków	a w s . t r j aa . k u v
+Austriaków	a w s . t r j aa . k u f
+Półzbroja	p u w . z b r oo . j a
 husarska	x u . s aa r . s k a
+należy	n a . l ee . rZ y
 do	d o
 typu	t yy . p u
 wybitnie	v y . b ii . t ni e
+użytkowego	u . rZ y . t k o . v ee . g o
 uzbrojenia	u z . b r o . j ee . ni a
 ochronnego	o . x r o . n n ee . g o
+końca	k oo ni . ts a
 XVII	k s v ii
 wieku	v j ee . k u
+Wyszłam	v yy . Sz w a m
 na	n a
 spacer	s p aa . ts e r
 z	z
 z	s
+z	z
+z	s
 psem	p s ee m
-Boję	b oo j
-się	s ii
-wychodzić	v y . x oo . dzi i
+półzmierzchem	p u w . z m j ee . Sz x e m
+Boję	b oo . j e
+się	si e
+wychodzić	v y . x oo . dzi i dzi
+wychodzić	v y . x oo . dzi i tsi
+z	z
+z	s
 z	z
 z	s
 domu	d oo . m u
 kiedy	c j ee . d y
 na	n a
+zewnątrz	z ee v . n o n drZ
+zewnątrz	z ee v . n o n tSz
+zewnątrz	z ee v . n o n drZ
+zewnątrz	z ee v . n o n tSz
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
+półzmrok	p uu w . z m r o g
+półzmrok	p uu w . z m r o k
+półzmrok	p uu w . z m r o g
+półzmrok	p uu w . z m r o k
 Ci	tsi i
 bracia	b r aa . tsi a
 zakonni	z a . k oo . ni ni i
+którzy	k t uu . rZ y
 ulegali	u . l e . g aa . l i
 genetycznej	g e . n e . t yy . tSz n e j
 skazie	s k aa . zi e
 degenerowali	d e . g e . n e . r o . v aa . l i
-się	s ii
+się	si e
 fizycznie	f i . z yy . tSz ni e
 w	v
 w	f
+w	v
+w	f
+półzwierzęce	p u w . z v j e . rZ ee n . ts e
 formy	f oo r . m y
+Wykonaliśmy	v y . k o . n a . l ii si . m y
+półzwrot	p uu w . z v r o d
+półzwrot	p uu w . z v r o t
+półzwrot	p uu w . z v r o d
+półzwrot	p uu w . z v r o t
 na	n a
-prawą	p r aa v
-prawą	p r aa f
-burtę	b uu r d
-burtę	b uu r t
+prawą	p r aa . v o w_
+prawą	p r aa . v o w_
+burtę	b uu r . t e
+burtę	b uu r . t e
 i	i
+szczęśliwie	Sz tSz e w_ . si l ii v . j e
+dopłynęliśmy	d o . p w y . n e . l ii si . m y
 do	d o
 brzegu	b rZ ee . g u
 Zmartwychwstanie	z m a r . t f y x . f s t aa . ni e
+Pańskie	p aa j_ . s c j e
 jest	j ee z d
 jest	j ee s t
-podstawą	p oo t . s t a v
-podstawą	p oo t . s t a f
+jest	j ee z d
+jest	j ee s t
+podstawą	p o t . s t aa . v o w_
+podstawą	p o t . s t aa . v o w_
 wiary	v j aa . r y
+chrześcijan	x Sz e si . tsi ii . j a n
+xmmm	k s m m m
 hmmm	x m m m
 Naukowcy	n a . u . k oo f . ts y
-starają	s t aa . r a j
-się	s ii
-odkryć	oo t . k r y
+starają	s t a . r aa . j o w_
+się	si e
+odkryć	oo t . k r y dzi
+odkryć	oo t . k r y tsi
 istnienie	i s . t ni ee . ni e
-życia	yy . tsi a
+życia	rZ yy . tsi a
 pozaziemskiego	p o . z a . zi e m . s c j ee . g o
 we	v e
+wszechświecie	f Sz e x . si f j ee . tsi e
 Niewielu	ni e v . j ee . l u
 ludzi	l uu . dzi i
 przyznaje	p Sz y z . n aa . j e
-że	ee
-są	z
-są	s
+że	rZ e
+są	s oo w_
+są	s oo w_
 wszechstronnie	f Sz e x . s t r oo . ni ni e
 uzdolnieni	u z . d o l . ni ee . ni i
 chtfjorodle	x t f j o . r oo . d l e
 to	t o
 stare	s t aa . r e
+urządzenie	u . rZ o n . dz ee . ni e
 Tata	t aa . t a
+zapisał	z a . p ii . s a w
 syna	s yy . n a
 do	d o
 jachtklubu	j a x t . k l uu . b u
@@ -4869,23 +7471,42 @@ organowa	o r . g a . n oo . v a
 rozbrzmiewa	r o z . b rZ m j ee . v a
 w	v
 w	f
+w	v
+w	f
+całym	ts aa . w y m
+kościele	k o si . tsi ee . l e
+W	v
+W	f
 W	v
 W	f
 tym	t y m
 co	ts oo
+mówisz	m uu . v i rZ
+mówisz	m uu . v i Sz
+mówisz	m uu . v i rZ
+mówisz	m uu . v i Sz
 nie	ni ee
 ma	m aa
 ani	aa . ni i
+źdźbła	zi dzi b w aa
 prawdy	p r aa v . d y
+Spółgłoski	s p u w . g w oo s . c i
 p	b
 p	p
+p	b
+p	p
+t	d
+t	t
 t	d
 t	t
 i	i
 k	g
 k	k
-są	z
-są	s
+k	g
+k	k
+są	s oo w_
+są	s oo w_
+bezdźwięczne	b e z . dzi v j ee n . tSz n e
 pozdglacjalny	p o z d . g l a . ts j aa l . n y
 to	t o
 termin	t ee r . m i n
@@ -4895,34 +7516,55 @@ nocy	n oo . ts y
 niebo	ni ee . b o
 jest	j ee z d
 jest	j ee s t
+jest	j ee z d
+jest	j ee s t
 bezgwiezdne	b e z . g v j ee z . d n e
-przestrzegać	p Sz e s . t Sz ee . g a
+Należy	n a . l ee . rZ y
+bezwzględnie	b e z . v z g l ee n . d ni e
+przestrzegać	p Sz e s . t Sz ee . g a dzi
+przestrzegać	p Sz e s . t Sz ee . g a tsi
 zasad	z aa . s a d
 zasad	z aa . s a t
+zasad	z aa . s a d
+zasad	z aa . s a t
+bezpieczeństwa	b e . s p j e . tSz ee j_ . s t f a
 Udzielam	u . dzi ee . l a m
 ci	tsi i
 bezzwrotnej	b e z . z v r oo . t n e j
+pożyczki	p o . rZ yy . tSz c i
+Bezzwłocznie	b e z . z v w oo . tSz ni e
 udaj	uu . d a j
-się	s ii
+się	si e
 do	d o
 stomatologa	s t o . m a . t o . l oo . g a
 System	s yy s . t e m
+przeciwwstrząsowy	p Sz e . tsi i f . f s t Sz o w_ . s oo . v y
 sprawdza	s p r aa v . dz a
-się	s ii
+się	si e
 doskonale	d o s . k o . n aa . l e
 Nie	ni ee
 znam	z n aa m
-się	s ii
+się	si e
 na	n a
 literaturoznawstwie	l i . t e . r a . t u . r o z . n aa f s . t f j e
 W	v
 W	f
+W	v
+W	f
 tym	t y m
-przeprowadzić	p Sz e . p r o . v aa . dzi i
+państwie	p aa j_ . s t f j e
+należy	n a . l ee . rZ y
+przeprowadzić	p Sz e . p r o . v aa . dzi i dzi
+przeprowadzić	p Sz e . p r o . v aa . dzi i tsi
 reformy	r e . f oo r . m y
+Brałam	b r aa . w a m
+udział	uu . dzi a w
+w	v
+w	f
 w	v
 w	f
 porannym	p o . r aa . n n y m
+nabożeństwie	n a . b o . rZ ee j_ . s t f j e
 Na	n a
 swoim	s f oo . i m
 zuchwalstwie	z u . x f aa l . s t f j e
@@ -4930,25 +7572,44 @@ daleko	d a . l ee . k o
 nie	ni ee
 zajdziesz	z aa j . dzi e rZ
 zajdziesz	z aa j . dzi e Sz
+zajdziesz	z aa j . dzi e rZ
+zajdziesz	z aa j . dzi e Sz
+Nikt	ni ii g d
+Nikt	ni ii k t
 Nikt	ni ii g d
 Nikt	ni ii k t
 nie	ni ee
 chce	x ts ee
+mówić	m uu . v i dzi
+mówić	m uu . v i tsi
 o	o
 tym	t y m
-nadzieję	n aa . dzi e j
+przestępstwie	p Sz e s . t ee m p . s t f j e
+Widział	v ii . dzi a w
+nadzieję	n a . dzi ee . j e
+w	v
+w	f
 w	v
 w	f
 swoim	s f oo . i m
 potomstwie	p o . t oo m . s t f j e
 W	v
 W	f
+W	v
+W	f
+niemowlęctwie	ni e . m o . v l ee n . ts t f j e
+chorował	x o . r oo . v a w
 bardzo	b aa r . dz o
+ciężko	tsi ee w_ . Sz k o
+W	v
+W	f
 W	v
 W	f
 wakacje	v a . k aa . ts j e
 pomagam	p o . m aa . g a m
 rodzicom	r o . dzi ii . ts o m
+w	v
+w	f
 w	v
 w	f
 gospodarstwie	g o s . p o . d aa r . s t f j e
