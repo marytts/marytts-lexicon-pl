@@ -3616,7 +3616,7 @@ Słyszałeś	s w y . Sz aa . w e zi
 Słyszałeś	s w y . Sz aa . w e si
 ten	t ee n
 ciężki	tsi ee w_ . Sz c i
-łomot?Czy	w oo . m o t # tSz yy
+łomot	w oo . m o t
 uprawiałeś	u . p r a v . j aa . w e zi
 uprawiałeś	u . p r a v . j aa . w e si
 uprawiałeś	u . p r a v . j aa . w e zi
@@ -3625,7 +3625,7 @@ kiedyś	c j ee . d y zi
 kiedyś	c j ee . d y si
 kiedyś	c j ee . d y zi
 kiedyś	c j ee . d y si
-dżudo?Ból	drZ uu . d o # b uu l
+dżudo	drZ uu . d o
 łokcia	w oo . k tsi a
 u	u
 dżokeja	drZ o . k ee . j a
@@ -5856,10 +5856,6 @@ zasiał	z aa . si a w
 na	n a
 polu	p oo . l u
 jęczmień	j ee n . tSz m j e ni
-pjen't^s'	p j ee n # t # z
-pjen't^s'	p j ee n # t # s
-pjen't^s'	p j ee n # t # z
-pjen't^s'	p j ee n # t # s
 s	z
 s	s
 s	z
@@ -6142,7 +6138,7 @@ otrzymywać	o . t Sz y . m yy . v a dzi
 otrzymywać	o . t Sz y . m yy . v a tsi
 na	n a
 swój	s f uu j
-e-mail	ee # m ee j l
+email	ee m ee j l
 informacje	i n . f o r . m aa . ts j e
 dotyczące	d o . t y . tSz oo n . ts e
 nowości	n o . v oo si . tsi i
