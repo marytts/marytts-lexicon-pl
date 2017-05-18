@@ -1115,7 +1115,7 @@ z	s
 kamieni	k a m . j ee . ni i
 półszlachetnych	p u w . Sz l a . x ee . t n y x
 takich	t aa . c i x
-jak:	j aa k
+jak	j aa k
 agat	aa . g a d
 agat	aa . g a t
 agat	aa . g a d
@@ -1927,7 +1927,7 @@ Spraw	s p r aa v
 Spraw	s p r aa f
 Spraw	s p r aa v
 Spraw	s p r aa f
-Cudzoziemców:	ts u . dz o . zi ee m . ts u f
+Cudzoziemców	ts u . dz o . zi ee m . ts u f
 ZdsC	s z dz
 ZdsC	s s ts
 ZdsC	s z dz
@@ -2496,7 +2496,7 @@ oszukując	o . Sz u . k uu . j o n ts
 ludzi	l uu . dzi i
 Zapraszam	z a . p r aa . Sz a m
 wszystkich	f Sz yy s . t c i x
-zgromadzonych:	z g r o . m a . dz oo . n y x
+zgromadzonych	z g r o . m a . dz oo . n y x
 koniecznie	k o . ni ee . tSz ni e
 przyjedźcie	p Sz y . j ee . tsi tsi e
 na	n a
@@ -3113,7 +3113,7 @@ w	f
 w	v
 w	f
 komputerach	k o m . p u . t ee . r a x
-to:	t oo
+to	t oo
 gif	gi ii v
 gif	gi ii f
 gif	gi ii v
@@ -5739,7 +5739,6 @@ dzban	dz b aa n
 ma	m aa
 rączkę	r oo n . tSz k e
 rączkę	r oo n . tSz k e
-:	
 W	v
 W	f
 W	v
@@ -5787,7 +5786,6 @@ bank	b aa N_ k
 bank	b aa N_ g
 bank	b aa N_ k
 splajtowal	s p l a j . t oo . v a l
-:	
 Policja	p o . l ii . ts j a
 przymknęła	p Sz y m . k n ee . w a
 przedwczoraj	p Sz e t f . tSz oo . r a j
@@ -6518,8 +6516,8 @@ W	f
 W	v
 W	f
 karczmie	k aa r . tSz m j e
-"Złota	z w oo . t a
-rybka"	r yy . p k a
+Złota	z w oo . t a
+rybka	r yy . p k a
 nieznajomy	ni e z . n a . j oo . m y
 zasztyletował	z a Sz . t y . l e . t oo . v a w
 rybaka	r y . b aa . k a
@@ -7443,7 +7441,7 @@ podstawą	p o t . s t aa . v o w_
 podstawą	p o t . s t aa . v o w_
 wiary	v j aa . r y
 chrześcijan	x Sz e si . tsi ii . j a n
-xmmm:	k s m m m
+xmmm	k s m m m
 hmmm	x m m m
 Naukowcy	n a . u . k oo f . ts y
 starają	s t a . r aa . j o w_
