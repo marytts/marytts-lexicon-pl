@@ -1,22 +1,5 @@
 A	a
-a	a
-a	a
-a	a
-a	a
-a	a
-a	a
-a	a
-a	a
 Absorpcja	a . p s oo r . p ts j a
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
-aby	aa . b y
 aby	aa . b y
 abyś	aa . b y si
 abyś	aa . b y zi
@@ -26,30 +9,17 @@ Adrian	aa . d r j a n
 aferze	a . f ee . rZ e
 agamiczne	a . g a . m ii . tSz n e
 agat	aa . g a d
-agat	aa . g a d
-agat	aa . g a t
 agat	aa . g a t
 agencje	a . g ee n ts . j e
 agenta	a . g ee n . t a
 Agroturystyka	a . g r o . t u . r y s . t yy . k a
 aktywność	a . k t yy v . n o si tsi
-aktywność	a . k t yy v . n o si tsi
-aktywność	a . k t yy v . n o zi dzi
 aktywność	a . k t yy v . n o zi dzi
 albo	aa l . b o
-albo	aa l . b o
 Ale	aa . l e
-Ale	aa . l e
-Ale	aa . l e
-ale	aa . l e
-ale	aa . l e
-ale	aa . l e
-ale	aa . l e
 Aleksander	a . l e . k s aa n . d e r
 alfa	aa l . f a
 algorytm	a l . g oo . r y d m
-algorytm	a l . g oo . r y d m
-algorytm	a l . g oo . r y t m
 algorytm	a l . g oo . r y t m
 Alicji	a . l ii . ts i
 AltmanDo	a l t m a n d o
@@ -61,8 +31,6 @@ anemii	a . n ee . m i
 Anglii	aa N_ . g l i
 Anglię	aa N_ . g l j e
 ani	aa . ni i
-ani	aa . ni i
-ani	aa . ni i
 anorektyczka	a . n o . r e . k t yy . tSz k a
 antenie	a n . t ee . ni e
 Antiga	a n . t ii . g a
@@ -73,82 +41,44 @@ arabski	a . r aa . p s c i
 Archidiecezji	a r . x i d . j e . ts ee . z i
 architektura	a r . x i . t e . k t uu . r a
 arcybiskup	a r . ts y . b ii s . k u b
-arcybiskup	a r . ts y . b ii s . k u b
-arcybiskup	a r . ts y . b ii s . k u p
 arcybiskup	a r . ts y . b ii s . k u p
 arcybiskupstwa	a r . ts y . b i s . k uu p s . t f a
-arcybiskupstwa	a r . ts y . b i s . k uu p s . t f a
-artykułów	a r . t y . k uu . w u f
 artykułów	a r . t y . k uu . w u f
 artykułów	a r . t y . k uu . w u v
-artykułów	a r . t y . k uu . w u v
 astygmatyzm	a s . t y . g m aa . t y s m
-astygmatyzm	a s . t y . g m aa . t y s m
-astygmatyzm	a s . t y . g m aa . t y z m
 astygmatyzm	a s . t y . g m aa . t y z m
 Augsburski	a w g z . b uu r . s c i
 Aukcja	aa w . k ts j a
 austriackiemu	a w s . t r j a . ts c j ee . m u
 Austriaków	a w s . t r j aa . k u f
-Austriaków	a w s . t r j aa . k u f
-Austriaków	a w s . t r j aa . k u v
 Austriaków	a w s . t r j aa . k u v
 austrii	aa w . s t r i
 Austrię	aa w s . t r j e
 auta	aa w . t a
 auto	aa w . t o
 autobus	a w . t oo . b u s
-autobus	a w . t oo . b u s
-autobus	a w . t oo . b u z
 autobus	a w . t oo . b u z
 awanturze	a . v a n . t uu . rZ e
 azerbejdżańskich	a . z e r . b e j . drZ aa j_ . s c i x
 B	b
-B	b
-B	p
 B	p
 Babci	b aa . p tsi i
-babci	b aa . p tsi i
 babć	b aa b dzi
-babć	b aa b dzi
-babć	b aa p tsi
 babć	b aa p tsi
 backhand	b ee . k x e n d
 backhandu	b e . k x ee n . d u
 Badania	b a . d aa . ni a
-badania	b a . d aa . ni a
-badania	b a . d aa . ni a
 bakteriostatycznym	b a . k t e r . j o s . t a . t yy . tSz n y m
 baktrjan	b aa . k t r j a n
 bandyci	b a n . d yy . tsi i
 Bank	b aa N_ g
-Bank	b aa N_ g
-bank	b aa N_ g
-bank	b aa N_ g
-bank	b aa N_ g
-bank	b aa N_ g
 Bank	b aa N_ k
-Bank	b aa N_ k
-bank	b aa N_ k
-bank	b aa N_ k
-bank	b aa N_ k
-bank	b aa N_ k
 banknot	b aa N_ . k n o d
-banknot	b aa N_ . k n o d
-banknot	b aa N_ . k n o t
 banknot	b aa N_ . k n o t
 bankructwie	b a N_ . k r uu . ts t f j e
 bardziej	b aa r . dzi e j
 bardzo	b aa r . dz o
-bardzo	b aa r . dz o
-bardzo	b aa r . dz o
-bardzo	b aa r . dz o
-bardzo	b aa r . dz o
-bardzo	b aa r . dz o
-bardzo	b aa r . dz o
 bartnik	b aa r . t ni i g
-bartnik	b aa r . t ni i g
-bartnik	b aa r . t ni i k
 bartnik	b aa r . t ni i k
 basenu	b a . s ee . n u
 bawełnianej	b a . v e w . ni aa . n e j
@@ -156,21 +86,7 @@ bawiące	b a v . j oo n . ts e
 Beata	b e . aa . t a
 befsztyka	b e . f Sz t yy . k a
 Bez	b ee s
-Bez	b ee s
-bez	b ee s
-bez	b ee s
-bez	b ee s
-bez	b ee s
-bez	b ee s
-bez	b ee s
 Bez	b ee z
-Bez	b ee z
-bez	b ee z
-bez	b ee z
-bez	b ee z
-bez	b ee z
-bez	b ee z
-bez	b ee z
 Bezdomny	b e z . d oo m . n y
 bezdźwięczne	b e z . dzi v j ee n . tSz n e
 bezgwiezdne	b e z . g v j ee z . d n e
@@ -189,12 +105,8 @@ bezwzględnie	b e z . v z g l ee n . d ni e
 bezzwrotnej	b e z . z v r oo . t n e j
 Bezzwłocznie	b e z . z v w oo . tSz ni e
 BełchatówW	b e w . x aa . t u f f
-BełchatówW	b e w . x aa . t u f f
-BełchatówW	b e w . x aa . t u v v
 BełchatówW	b e w . x aa . t u v v
 BHP	b x b
-BHP	b x b
-BHP	p x p
 BHP	p x p
 biatlonie	b j a . t l oo . ni e
 białawą	b j a . w aa . v o w_
@@ -204,43 +116,27 @@ Białostocczyźnie	b j a . w o s . t o . tSz tSz yy zi . ni e
 białą	b j aa . w o w_
 Bibliotekarka	b i . b l j o . t e . k aa r . k a
 bibliotekę	b i . b l j o . t ee . k e
-bibliotekę	b i . b l j o . t ee . k e
 biednego	b j e . d n ee . g o
 biedę	b j ee . d e
 biegnących	b j e . g n oo n . ts y x
 bierze	b j ee . rZ e
 biesiadników	b j e . si a . d ni ii . k u f
-biesiadników	b j e . si a . d ni ii . k u f
-biesiadników	b j e . si a . d ni ii . k u v
 biesiadników	b j e . si a . d ni ii . k u v
 Big	b ii g
-Big	b ii g
-Big	b ii k
 Big	b ii k
 bilety	b i . l ee . t y
 biura	b j uu . r a
 biurku	b j uu r . k u
 biust	b j uu s t
-biust	b j uu s t
-biust	b j uu z d
 biust	b j uu z d
 Biłgoraju	b i w . g o . r aa . j u
 biżuteria	b i . rZ u . t ee r . j a
 bliskiego	b l i s . c j ee . g o
 Blitzkrieg	b l ii d s . k r j e g
-Blitzkrieg	b l ii d s . k r j e g
-Blitzkrieg	b l ii d s . k r j e k
 Blitzkrieg	b l ii d s . k r j e k
 bliżej	b l ii . rZ e j
 Bo	b o
-bo	b o
-bo	b o
-bo	b o
-bo	b o
-bo	b o
 Bogusław	b o . g uu . s w a f
-Bogusław	b o . g uu . s w a f
-Bogusław	b o . g uu . s w a v
 Bogusław	b o . g uu . s w a v
 Bohdana	b o x . d aa . n a
 Boję	b oo . j e
@@ -252,21 +148,14 @@ Bonanza	b o . n aa w_ . z a
 bonsa	b oo w_ . s a
 bonsajami	b o w_ . s a . j aa . m i
 BorkówW	b oo r . k u f f
-BorkówW	b oo r . k u f f
-BorkówW	b oo r . k u v v
 BorkówW	b oo r . k u v v
 bośniackich	b o si . ni aa . ts c i x
 bracia	b r aa . tsi a
 brak	b r aa g
-brak	b r aa g
-brak	b r aa k
 brak	b r aa k
 brata	b r aa . t a
 Brałam	b r aa . w a m
 Bronki	b r oo N_ . c i
-broń	b r oo ni
-broń	b r oo ni
-broń	b r oo ni
 broń	b r oo ni
 Brunszwiku	b r u w_ . Sz f ii . k u
 brwiach	b r v j aa x
@@ -274,23 +163,17 @@ brwiowy	b r v j oo . v y
 bryczce	b r yy . tSz ts e
 brzdąka	b rZ d oo N_ . k a
 brzeg	b rZ ee g
-brzeg	b rZ ee g
-brzeg	b rZ ee k
 brzeg	b rZ ee k
 brzegiem	b rZ ee . gi j e m
 brzegu	b rZ ee . g u
 brzmiało	b rZ m j aa . w o
 brzóz	b rZ uu s
-brzóz	b rZ uu s
-brzóz	b rZ uu z
 brzóz	b rZ uu z
 brązowy	b r o w_ . z oo . v y
 brązu	b r oo w_ . z u
 buciki	b u . tsi ii . c i
 budownictwa	b u . d a w . ni ii . ts t f a
 budynek	b u . d yy . n e g
-budynek	b u . d yy . n e g
-budynek	b u . d yy . n e k
 budynek	b u . d yy . n e k
 budynku	b u . d yy N_ . k u
 budziło	b u . dzi ii . w o
@@ -299,65 +182,29 @@ bulwarem	b u l . v aa . r e m
 bulwaru	b u l . v aa . r u
 bursztynki	b u r . Sz t yy N_ . c i
 burtę	b uu r . t e
-burtę	b uu r . t e
-butów	b uu . t u f
 butów	b uu . t u f
 butów	b uu . t u v
-butów	b uu . t u v
-by	b y
-by	b y
 by	b y
 bydgoskim	b y d . g oo s . c i m
 być	b yy dzi
-być	b yy dzi
-być	b yy dzi
 być	b yy tsi
-być	b yy tsi
-być	b yy tsi
-był	b yy w
-był	b yy w
-był	b yy w
-był	b yy w
-był	b yy w
-był	b yy w
-był	b yy w
-był	b yy w
 był	b yy w
 była	b yy . w a
 byłam	b yy . w a m
-byłam	b yy . w a m
 byłem	b yy . w e m
 było	b yy . w o
-było	b yy . w o
-było	b yy . w o
-było	b yy . w o
-było	b yy . w o
 Bóg	b uu g
-Bóg	b uu g
-bóg	b uu g
-bóg	b uu g
 Bóg	b uu k
-Bóg	b uu k
-bóg	b uu k
-bóg	b uu k
 bądź	b oo ni dzi
-bądź	b oo ni dzi
-bądź	b oo ni tsi
 bądź	b oo ni tsi
 Bądźcie	b oo ni . tsi tsi e
 bębnów	b ee m . b n u f
-bębnów	b ee m . b n u f
 bębnów	b ee m . b n u v
-bębnów	b ee m . b n u v
-będzie	b ee ni . dzi e
-będzie	b ee ni . dzi e
 będzie	b ee ni . dzi e
 będziemy	b e ni . dzi ee . m y
 będą	b ee n . d o w_
 błyskawicznie	b w y s . k a . v ii . tSz ni e
 błąd	b w oo n d
-błąd	b w oo n d
-błąd	b w oo n t
 błąd	b w oo n t
 Caravaggio	ts a . r a . v aa g . gi j o
 castingi	k a s . t ii N_ . g i
@@ -368,18 +215,9 @@ całkowitych	ts a w . k o . v ii . t y x
 cały	ts aa . w y
 całym	ts aa . w y m
 całą	ts aa . w o w_
-całą	ts aa . w o w_
-całą	ts aa . w o w_
 CD	dz d
-CD	dz d
-CD	dz d
-CD	dz d
-CD	dz t
-CD	dz t
-CD	dz t
 CD	dz t
 cechująca	ts e . x u . j oo n . ts a
-cegły	ts ee . g w y
 cegły	ts ee . g w y
 cegłę	ts ee . g w e
 celem	ts ee . l e m
@@ -389,7 +227,6 @@ cenach	ts ee . n a x
 cenie	ts ee . ni e
 centralnej	ts e n . t r aa l . n e j
 Centrum	ts ee n . t r u m
-centrum	ts ee n . t r u m
 ceną	ts ee . n o w_
 cerę	ts ee . r e
 cełmski	ts ee w m . s c i
@@ -397,35 +234,23 @@ charakter	x a . r aa . k t e r
 charakteru	x a . r a . k t ee . r u
 chce	x ts ee
 chcę	x ts ee
-chcę	x ts ee
-chleb	x l ee b
 chleb	x l ee b
 chleb	x l ee p
-chleb	x l ee p
-chleba	x l ee . b a
 chleba	x l ee . b a
 chodził	x oo . dzi i w
 chodź	x oo dzi
-chodź	x oo dzi
-chodź	x oo tsi
 chodź	x oo tsi
 choroba	x o . r oo . b a
 choroby	x o . r oo . b y
 chorował	x o . r oo . v a w
 chorągiew	x o . r oo N_ . gi j e f
-chorągiew	x o . r oo N_ . gi j e f
-chorągiew	x o . r oo N_ . gi j e v
 chorągiew	x o . r oo N_ . gi j e v
 chrzanić	x Sz aa . ni i dzi
-chrzanić	x Sz aa . ni i dzi
-chrzanić	x Sz aa . ni i tsi
 chrzanić	x Sz aa . ni i tsi
 chrześcijan	x Sz e si . tsi ii . j a n
 chrzęstną	x Sz ee w_ . s t n o w_
-chrzęstną	x Sz ee w_ . s t n o w_
 chtfjorodle	x t f j o . r oo . d l e
 chustach	x uu s . t a x
-chusteczkę	x u s . t ee . tSz k e
 chusteczkę	x u s . t ee . tSz k e
 chwilach	x f ii . l a x
 chwili	x f ii . l i
@@ -434,41 +259,20 @@ chytrym	x yy . t r y m
 chęcią	x ee ni . tsi o w_
 Chętnie	x ee n . t ni e
 chęć	x ee ni dzi
-chęć	x ee ni dzi
-chęć	x ee ni tsi
 chęć	x ee ni tsi
 chłodnym	x w oo . d n y m
 Chłopak	x w oo . p a g
-Chłopak	x w oo . p a g
-chłopak	x w oo . p a g
-chłopak	x w oo . p a g
 Chłopak	x w oo . p a k
-Chłopak	x w oo . p a k
-chłopak	x w oo . p a k
-chłopak	x w oo . p a k
 Chłopcy	x w oo . p ts y
 chłopców	x w oo . p ts u f
-chłopców	x w oo . p ts u f
-chłopców	x w oo . p ts u v
 chłopców	x w oo . p ts u v
 chłopski	x w oo . p s c i
 chłopskiego	x w o p s . c j ee . g o
 Ci	tsi i
-ci	tsi i
-ci	tsi i
-ci	tsi i
-ci	tsi i
-ci	tsi i
-ci	tsi i
-ci	tsi i
 Ciasto	tsi aa s . t o
-ciebie	tsi ee . b j e
-ciebie	tsi ee . b j e
-ciebie	tsi ee . b j e
 ciebie	tsi ee . b j e
 ciechocińskim	tsi e . x o . tsi ii j_ . s c i m
 ciekawymi	tsi e . k a . v yy . m i
-ciekłej	tsi ee . k w e j
 ciekłej	tsi ee . k w e j
 ciemną	tsi ee m . n o w_
 cieplnej	tsi ee . p l n e j
@@ -481,71 +285,38 @@ Ciocia	tsi oo . tsi a
 ciuchach	tsi uu . x a x
 ciągle	tsi oo N_ . g l e
 ciągu	tsi oo N_ . g u
-ciągu	tsi oo N_ . g u
 ciągłego	tsi o N_ . g w ee . g o
 ciąży	tsi oo w_ . rZ y
 ciążącego	tsi o w_ . rZ o n . ts ee . g o
-cię	tsi e
-cię	tsi e
-cię	tsi e
 cię	tsi e
 ciężki	tsi ee w_ . Sz c i
 ciężkiego	tsi e w_ . Sz c j ee . g o
 ciężkiej	tsi ee w_ . Sz c j e j
 ciężkim	tsi ee w_ . Sz c i m
 ciężko	tsi ee w_ . Sz k o
-ciężko	tsi ee w_ . Sz k o
 clubbingu	k l u . b b ii N_ . g u
 cmokają	ts m o . k aa . j o w_
 Co	ts oo
-Co	ts oo
-Co	ts oo
-co	ts oo
-co	ts oo
-co	ts oo
-co	ts oo
-co	ts oo
-co	ts oo
-Cokolwiek	ts o . k oo l . v j e g
 Cokolwiek	ts o . k oo l . v j e g
 Cokolwiek	ts o . k oo l . v j e k
-Cokolwiek	ts o . k oo l . v j e k
 coraz	ts oo . r a s
-coraz	ts oo . r a s
-coraz	ts oo . r a z
 coraz	ts oo . r a z
 coroczna	ts o . r oo . tSz n a
 Coś	ts oo si
-coś	ts oo si
-coś	ts oo si
 Coś	ts oo zi
-coś	ts oo zi
-coś	ts oo zi
 Crepidnm	ts r ee . p i d n m
 cudeńka	ts u . d ee ni . k a
 Cudzoziemców	ts u . dz o . zi ee m . ts u f
 cudzych	ts uu . dz y x
 Cyc	ts yy dz
-Cyc	ts yy dz
-Cyc	ts yy ts
 Cyc	ts yy ts
 Cyganka	ts y . g aa N_ . k a
 Cypriana	ts y . p r j aa . n a
 Cyrkowcy	ts y r . k oo f . ts y
 czas	tSz aa s
-czas	tSz aa s
-czas	tSz aa s
-czas	tSz aa s
-czas	tSz aa z
-czas	tSz aa z
-czas	tSz aa z
 czas	tSz aa z
 czasach	tSz aa . s a x
 czasie	tSz aa . si e
-czasie	tSz aa . si e
-czasie	tSz aa . si e
-czasie	tSz aa . si e
-czasu	tSz aa . s u
 czasu	tSz aa . s u
 Czchowskie	tSz x oo f s . c j e
 czekał	tSz ee . k a w
@@ -553,67 +324,37 @@ czekoladki	tSz e . k o . l aa . t c i
 czerwonych	tSz e r . v oo . n y x
 czole	tSz oo . l e
 czosnkiem	tSz oo s N_ . c j e m
-czosnkiem	tSz oo s N_ . c j e m
 Czołgi	tSz oo w . gi i
 Czołowy	tSz o . w oo . v y
 czterdziestych	tSz t e r . dzi ee s . t y x
 czterdzieści	tSz t e r . dzi ee si . tsi i
 cztery	tSz t ee . r y
 czubek	tSz uu . b e g
-czubek	tSz uu . b e g
-czubek	tSz uu . b e k
 czubek	tSz uu . b e k
 czuje	tSz uu . j e
 Czuję	tSz uu . j e
 czworgiem	tSz f oo r . gi j e m
 Czy	tSz yy
-czy	tSz yy
 czyjej	tSz yy . j e j
 czyli	tSz yy . l i
-czyli	tSz yy . l i
-czym	tSz yy m
-czym	tSz yy m
 czym	tSz yy m
 czynszach	tSz yy w_ . Sz a x
 cząstce	tSz oo w_ s . t ts e
 cząstki	tSz oo w_ . s t c i
 często	tSz ee w_ . s t o
-często	tSz ee w_ . s t o
 częstując	tSz e w_ . s t uu . j o n dz
-częstując	tSz e w_ . s t uu . j o n dz
-częstując	tSz e w_ . s t uu . j o n ts
 częstując	tSz e w_ . s t uu . j o n ts
 części	tSz ee w_ . si tsi i
 Część	tSz ee w_ si tsi
-Część	tSz ee w_ si tsi
-część	tSz ee w_ si tsi
-część	tSz ee w_ si tsi
-część	tSz ee w_ si tsi
-część	tSz ee w_ si tsi
 Część	tSz ee w_ zi dzi
-Część	tSz ee w_ zi dzi
-część	tSz ee w_ zi dzi
-część	tSz ee w_ zi dzi
-część	tSz ee w_ zi dzi
-część	tSz ee w_ zi dzi
 członkiem	tSz w oo N_ . c j e m
 członków	tSz w oo N_ . k u f
-członków	tSz w oo N_ . k u f
-członków	tSz w oo N_ . k u v
 członków	tSz w oo N_ . k u v
 człowiek	tSz w oo v . j e g
-człowiek	tSz w oo v . j e g
-człowiek	tSz w oo v . j e g
-człowiek	tSz w oo v . j e g
-człowiek	tSz w oo v . j e k
-człowiek	tSz w oo v . j e k
-człowiek	tSz w oo v . j e k
 człowiek	tSz w oo v . j e k
 człowiekaa	tSz w o v . j e . k aa . a
 człowiekiem	tSz w o v . j ee . c j e m
 Cóż	ts uu rZ
-Cóż	ts uu rZ
-Cóż	ts uu Sz
 Cóż	ts uu Sz
 Cła	ts w aa
 Dalekiego	d a . l e . c j ee . g o
@@ -623,8 +364,6 @@ dam	d aa m
 damach	d aa . m a x
 darmowe	d a r . m oo . v e
 Dawid	d aa . v i d
-Dawid	d aa . v i d
-Dawid	d aa . v i t
 Dawid	d aa . v i t
 degenerowali	d e . g e . n e . r o . v aa . l i
 Deklaracji	d e . k l a . r aa . ts i
@@ -635,90 +374,10 @@ deszczowo	d e Sz . tSz oo . v o
 dietę	d j ee . t e
 dioptrii	d j oo p . t r i
 dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
-dla	d l a
 dlatego	d l a . t ee . g o
-dlatego	d l a . t ee . g o
-dna	d n aa
 dna	d n aa
 dniu	d ni uu
 Do	d o
-Do	d o
-Do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
-do	d o
 dobre	d oo . b r e
 dobrych	d oo . b r y x
 Doceniam	d o . ts ee . ni a m
@@ -726,10 +385,7 @@ dochodzące	d o . x o . dz oo n . ts e
 dodatki	d o . d aa . t c i
 dodatkowego	d o . d a . t k o . v ee . g o
 dodrukowanie	d o . d r u . k o . v aa . ni e
-dodrukowanie	d o . d r u . k o . v aa . ni e
 dojść	d oo j si tsi
-dojść	d oo j si tsi
-dojść	d oo j zi dzi
 dojść	d oo j zi dzi
 dokrewny	d o . k r ee v . n y
 dokumentach	d o . k u . m ee n . t a x
@@ -738,38 +394,22 @@ dolnośląskiego	d o l . n o . si l o w_ . s c j ee . g o
 domagała	d o . m a . g aa . w a
 dominacji	d o . m i . n aa . ts i
 domu	d oo . m u
-domu	d oo . m u
-domu	d oo . m u
-domu	d oo . m u
-domu	d oo . m u
 Don	d oo n
-dopiero	d o . p j ee . r o
 dopiero	d o . p j ee . r o
 dopilnowuje	d o . p i l . n o . v uu . j e
 doprowadzi	d o . p r o . v aa . dzi i
 dopłacać	d o . p w aa . ts a dzi
-dopłacać	d o . p w aa . ts a dzi
-dopłacać	d o . p w aa . ts a tsi
 dopłacać	d o . p w aa . ts a tsi
 dopłynęliśmy	d o . p w y . n e . l ii si . m y
 doradcy	d o . r aa . t ts y
 doskonale	d o s . k o . n aa . l e
 doskonały	d o s . k o . n aa . w y
 Dostał	d oo s . t a w
-dostał	d oo s . t a w
-dostał	d oo s . t a w
-dostał	d oo s . t a w
-dosyć	d oo . s y dzi
 dosyć	d oo . s y dzi
 dosyć	d oo . s y tsi
-dosyć	d oo . s y tsi
-dotyczące	d o . t y . tSz oo n . ts e
-dotyczące	d o . t y . tSz oo n . ts e
 dotyczące	d o . t y . tSz oo n . ts e
 dotyku	d o . t yy . k u
 Dotąd	d oo . t o n d
-Dotąd	d oo . t o n d
-Dotąd	d oo . t o n t
 Dotąd	d oo . t o n t
 dowiedziałam	d o v . j e . dzi aa . w a m
 dowodzą	d o . v oo . dz o w_
@@ -779,11 +419,9 @@ dołączamy	d o . w o n . tSz aa . m y
 drewniane	d r e v . ni aa . n e
 drgnienie	d r g ni ee . ni e
 drgnął	d r g n oo w
-drgnął	d r g n oo w
 drgnęło	d r g n ee . w o
 drobiowego	d r o . b j o . v ee . g o
 drodze	d r oo . dz e
-drugiej	d r uu . gi j e j
 drugiej	d r uu . gi j e j
 drużyna	d r u . rZ yy . n a
 Drwal	d r v aa l
@@ -791,95 +429,52 @@ drwiąco	d r v j oo n . ts o
 Drzazgi	d rZ aa z . gi i
 drzewa	d rZ ee . v a
 drzewek	d rZ ee . v e g
-drzewek	d rZ ee . v e g
-drzewek	d rZ ee . v e k
 drzewek	d rZ ee . v e k
 drzwi	drZ v ii
 drzwiach	drZ v j aa x
 drzwiami	drZ v j aa . m i
-drzwiami	drZ v j aa . m i
 drżeniem	d r rZ ee . ni e m
 dudnienie	d u . d ni ee . ni e
 Dudziak	d uu . dzi a g
-Dudziak	d uu . dzi a g
-Dudziak	d uu . dzi a k
 Dudziak	d uu . dzi a k
 duplikat	d u . p l ii . k a d
-duplikat	d u . p l ii . k a d
-duplikat	d u . p l ii . k a t
 duplikat	d u . p l ii . k a t
 dusze	d uu . Sz e
 dużej	d uu . rZ e j
 dużą	d uu . rZ o w_
-dużą	d uu . rZ o w_
-dwa	d v aa
-dwa	d v aa
 dwa	d v aa
 dwie	d v j ee
-dwieście	d v j ee si . tsi e
 dwieście	d v j ee si . tsi e
 dworskich	d v oo r . s c i x
 dwudziestych	d v u . dzi ee s . t y x
 dwugłowy	d v u . g w oo . v y
 dwuśladów	d v u . si l aa . d u f
-dwuśladów	d v u . si l aa . d u f
 dwuśladów	d v u . si l aa . d u v
-dwuśladów	d v u . si l aa . d u v
-dwóch	d v uu x
-dwóch	d v uu x
 dwóch	d v uu x
 dynastii	d y . n aa s . t i
 dyplomatycznego	d y . p l o . m a . t y . tSz n ee . g o
 dyrektora	d y . r e . k t oo . r a
 dyskotekę	d y s . k o . t ee . k e
-dyskotekę	d y s . k o . t ee . k e
 dyskusji	d y s . k uu . s i
 dyzartja	d y . z aa r . t j a
 dzban	dz b aa n
 Dziadek	dzi aa . d e g
-Dziadek	dzi aa . d e g
-dziadek	dzi aa . d e g
-dziadek	dzi aa . d e g
 Dziadek	dzi aa . d e k
-Dziadek	dzi aa . d e k
-dziadek	dzi aa . d e k
-dziadek	dzi aa . d e k
 działalność	dzi a . w aa l . n o si tsi
-działalność	dzi a . w aa l . n o si tsi
-działalność	dzi a . w aa l . n o zi dzi
 działalność	dzi a . w aa l . n o zi dzi
 działaniaa	dzi a . w a . ni aa . a
 działaniu	dzi a . w aa . ni u
 działać	dzi aa . w a dzi
-działać	dzi aa . w a dzi
-działać	dzi aa . w a tsi
 działać	dzi aa . w a tsi
 Dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
-dzieci	dzi ee . tsi i
 dziedzic	dzi ee . dzi i dz
-dziedzic	dzi ee . dzi i dz
-dziedzic	dzi ee . dzi i ts
 dziedzic	dzi ee . dzi i ts
 dziedziczki	dzi e . dzi ii . tSz c i
 dziedzinie	dzi e . dzi ii . ni e
 dziekańskiej	dzi e . k aa j_ . s c j e j
 dzielnicy	dzi e l . ni ii . ts y
-dzielnicy	dzi e l . ni ii . ts y
 dziennika	dzi e . ni ni ii . k a
 dziesięć	dzi ee . si e ni dzi
-dziesięć	dzi ee . si e ni dzi
-dziesięć	dzi ee . si e ni dzi
-dziesięć	dzi ee . si e ni tsi
-dziesięć	dzi ee . si e ni tsi
 dziesięć	dzi ee . si e ni tsi
 dziewczyna	dzi e f . tSz yy . n a
 dziewczynkami	dzi e f . tSz y N_ . k aa . m i
@@ -887,51 +482,26 @@ dziewczynki	dzi e f . tSz yy N_ . c i
 dziewiątych	dzi e v . j oo n . t y x
 Dziewka	dzi ee f . k a
 Dzień	dzi ee ni
-dzień	dzi ee ni
-dzisiaj	dzi ii . si a j
-dzisiaj	dzi ii . si a j
 dzisiaj	dzi ii . si a j
 dzisiejszy	dzi i . si ee j . Sz y
 dziurawki	dzi u . r aa f . c i
 dziwić	dzi ii . v i dzi
-dziwić	dzi ii . v i dzi
-dziwić	dzi ii . v i tsi
 dziwić	dzi ii . v i tsi
 dziwna	dzi ii v . n a
 dziwnej	dzi ii v . n e j
 Dzięki	dzi ee N_ . c i
-Dzięki	dzi ee N_ . c i
-dzięki	dzi ee N_ . c i
-dzięki	dzi ee N_ . c i
 dziękuję	dzi e N_ . k uu . j e
 dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii si
-dziś	dzi ii zi
-dziś	dzi ii zi
-dziś	dzi ii zi
-dziś	dzi ii zi
-dziś	dzi ii zi
-dziś	dzi ii zi
-dziś	dzi ii zi
 dziś	dzi ii zi
 dzwoni	dz v oo . ni i
 dzwonił	dz v oo . ni i w
 Dzwoniły	dz v o . ni ii . w y
 dzwonka	dz v oo N_ . k a
 dzwonnika	dz v o . ni ni ii . k a
-dzwonnika	dz v o . ni ni ii . k a
 dzwony	dz v oo . n y
 długiej	d w uu . gi j e j
 długości	d w u . g oo si . tsi i
 długów	d w uu . g u f
-długów	d w uu . g u f
-długów	d w uu . g u v
 długów	d w uu . g u v
 dźgnął	dzi g n oo w
 dżdżystej	drZ drZ yy s . t e j
@@ -940,19 +510,12 @@ dżinsach	drZ ii w_ . s a x
 dżokeja	drZ o . k ee . j a
 dżudo	drZ uu . d o
 dżudoW	drZ uu . d o f
-dżudoW	drZ uu . d o f
-dżudoW	drZ uu . d o v
 dżudoW	drZ uu . d o v
 dżuli	drZ uu . l i
 dżungliw	drZ uu N_ . g l i f
-dżungliw	drZ uu N_ . g l i f
-dżungliw	drZ uu N_ . g l i v
 dżungliw	drZ uu N_ . g l i v
 efektywność	e . f e . k t yy v . n o si tsi
-efektywność	e . f e . k t yy v . n o si tsi
 efektywność	e . f e . k t yy v . n o zi dzi
-efektywność	e . f e . k t yy v . n o zi dzi
-egzemplarzy	e . g z e m . p l aa . rZ y
 egzemplarzy	e . g z e m . p l aa . rZ y
 ekranie	e . k r aa . ni e
 ekrany	e . k r aa . n y
@@ -961,8 +524,6 @@ eksperymentalna	e . k s p e . r y . m e n . t aa l . n a
 ekspjacjny	e k s p j a ts j n y
 Eksplozja	e k s . p l oo z . j a
 ekspres	ee k . s p r e s
-ekspres	ee k . s p r e s
-ekspres	ee k . s p r e z
 ekspres	ee k . s p r e z
 Ekspresy	e k . s p r ee . s y
 ekstra	ee k s . t r a
@@ -977,8 +538,6 @@ embrionach	e m . b r j oo . n a x
 energią	e . n ee r . gi j o w_
 Erlangen	e r . l aa N_ . g e n
 Ernst	ee r w_ s t
-Ernst	ee r w_ s t
-Ernst	ee r w_ z d
 Ernst	ee r w_ z d
 Etnograficznego	e . t n o . g r a . f i . tSz n ee . g o
 Europie	e w . r oo . p j e
@@ -986,24 +545,18 @@ Europy	e w . r oo . p y
 Ełckie	ee w ts . c j e
 fal	f aa l
 farbę	f aa r . b e
-farbę	f aa r . b e
 faulkner	f aa w l . k n e r
 fazie	f aa . zi e
 Felicyty	f e . l i . ts yy . t y
 Festiwal	f e s . t ii . v a l
 Festiwalu	f e s . t i . v aa . l u
-festiwalu	f e s . t i . v aa . l u
-festiwalu	f e s . t i . v aa . l u
 Figara	f i . g aa . r a
 film	f ii l m
 filmu	f ii l . m u
 filmów	f ii l . m u f
-filmów	f ii l . m u f
-filmów	f ii l . m u v
 filmów	f ii l . m u v
 firm	f ii r m
 firma	f ii r . m a
-firmy	f ii r . m y
 firmy	f ii r . m y
 fizycznego	f i . z y . tSz n ee . g o
 fizycznie	f i . z yy . tSz ni e
@@ -1014,57 +567,36 @@ formy	f oo r . m y
 forstner	f oo r . s t n e r
 Francję	f r aa n ts . j e
 francuski	f r a n . ts uu s . c i
-francuski	f r a n . ts uu s . c i
 Frankfurtu	f r a N_ . k f uu r . t u
 Fraunhofera	f r a w n . x o . f ee . r a
 frr	f r r
 fryzjera	f r y z . j ee . r a
 funkcje	f uu N_ . k ts j e
-funkcje	f uu N_ . k ts j e
 funkcjonariusz	f u N_ . k ts j o . n aa r . j u rZ
-funkcjonariusz	f u N_ . k ts j o . n aa r . j u rZ
-funkcjonariusz	f u N_ . k ts j o . n aa r . j u Sz
 funkcjonariusz	f u N_ . k ts j o . n aa r . j u Sz
 funkcjonariusza	f u N_ . k ts j o . n a r . j uu . Sz a
 gabinet	g a . b ii . n e d
-gabinet	g a . b ii . n e d
-gabinet	g a . b ii . n e t
 gabinet	g a . b ii . n e t
 gajski	g aa j . s c i
 gamet	g aa . m e d
-gamet	g aa . m e d
-gamet	g aa . m e t
 gamet	g aa . m e t
 gangsterów	g a N_ k . s t ee . r u f
-gangsterów	g a N_ k . s t ee . r u f
-gangsterów	g a N_ k . s t ee . r u v
 gangsterów	g a N_ k . s t ee . r u v
 garnczka	g aa r n . tSz k a
 garnczki	g aa r n . tSz c i
 garnka	g aa r N_ . k a
-garnka	g aa r N_ . k a
 garstka	g aa r . s t k a
 garść	g aa r si tsi
-garść	g aa r si tsi
-garść	g aa r zi dzi
 garść	g aa r zi dzi
 gatunku	g a . t uu N_ . k u
 gazociąg	g a . z oo . tsi o N_ g
-gazociąg	g a . z oo . tsi o N_ g
-gazociąg	g a . z oo . tsi o N_ k
 gazociąg	g a . z oo . tsi o N_ k
 gazowej	g a . z oo . v e j
 Gdańsk	g d aa j_ s k
-Gdańsk	g d aa j_ s k
-Gdańsk	g d aa j_ z g
 Gdańsk	g d aa j_ z g
 Gdy	g d yy
-Gdy	g d yy
-gdy	g d yy
 gdzie	g dzi ee
 gdzieś	g dzi ee si
-gdzieś	g dzi ee si
-gdzieś	g dzi ee zi
 gdzieś	g dzi ee zi
 generatywnych	g e . n e . r a . t yy v . n y x
 generałowi	g e . n e . r a . w oo . v i
@@ -1073,38 +605,23 @@ genetycznej	g e . n e . t yy . tSz n e j
 giermka	gi j ee r m . k a
 Gierzwałdzie	gi j e . rZ v aa w . dzi e
 gif	gi ii f
-gif	gi ii f
-gif	gi ii v
 gif	gi ii v
 Giovanni	gi j o . v aa . ni ni i
 gitarze	gi i . t aa . rZ e
 gliniane	g l i . ni aa . n e
 gniazdka	g ni aa s . t k a
 gniew	g ni ee f
-gniew	g ni ee f
 gniew	g ni ee v
-gniew	g ni ee v
-go	g o
-go	g o
-go	g o
-go	g o
-go	g o
-go	g o
-go	g o
 go	g o
 godzinach	g o . dzi ii . n a x
 godzinnym	g o . dzi ii . n n y m
 GOPR	g oo b r
-GOPR	g oo b r
-GOPR	g oo p r
 GOPR	g oo p r
 gorącej	g o . r oo n . ts e j
 gorąco	g o . r oo n . ts o
 gospodarstwie	g o s . p o . d aa r . s t f j e
 Gospodyni	g o s . p o . d yy . ni i
 Gotfryd	g oo t . f r y d
-Gotfryd	g oo t . f r y d
-Gotfryd	g oo t . f r y t
 Gotfryd	g oo t . f r y t
 gości	g oo si . tsi i
 goście	g oo si . tsi e
@@ -1113,25 +630,14 @@ Gośka	g oo si . k a
 gra	g r aa
 graficzne	g r a . f ii . tSz n e
 grajków	g r aa j . k u f
-grajków	g r aa j . k u f
-grajków	g r aa j . k u v
 grajków	g r aa j . k u v
 granice	g r a . ni ii . ts e
 granicy	g r a . ni ii . ts y
 Granicznej	g r a . ni ii . tSz n e j
 granicą	g r a . ni ii . ts o w_
-granicą	g r a . ni ii . ts o w_
-granicą	g r a . ni ii . ts o w_
 grasowali	g r a . s o . v aa . l i
 grać	g r aa dzi
-grać	g r aa dzi
-grać	g r aa dzi
-grać	g r aa dzi
 grać	g r aa tsi
-grać	g r aa tsi
-grać	g r aa tsi
-grać	g r aa tsi
-grdykę	g r d yy . k e
 grdykę	g r d yy . k e
 grejpfrutowy	g r e j . p f r u . t oo . v y
 gromady	g r o . m aa . d y
@@ -1141,13 +647,9 @@ grupie	g r uu . p j e
 grype	g r yy . p e
 grywanych	g r y . v aa . n y x
 grzbiecie	g rZ b j ee . tsi e
-grzbiecie	g rZ b j ee . tsi e
-grze	g rZ ee
 grze	g rZ ee
 grzebał	g rZ ee . b a w
 grzmot	g rZ m oo d
-grzmot	g rZ m oo d
-grzmot	g rZ m oo t
 grzmot	g rZ m oo t
 grzywnę	g rZ yy v . n e
 gudżarati	g u . drZ a . r aa . t i
@@ -1168,32 +670,20 @@ głosnika	g w o s . ni ii . k a
 głosu	g w oo . s u
 głoszona	g w o . Sz oo . n a
 głosów	g w oo . s u f
-głosów	g w oo . s u f
-głosów	g w oo . s u f
-głosów	g w oo . s u f
-głosów	g w oo . s u v
-głosów	g w oo . s u v
-głosów	g w oo . s u v
 głosów	g w oo . s u v
 głowie	g w oo v . j e
 głowy	g w oo . v y
-głowy	g w oo . v y
 głośnej	g w oo si . n e j
-głupstwo	g w uu p s . t f o
 głupstwo	g w uu p s . t f o
 głównie	g w uu v . ni e
 głównym	g w uu v . n y m
 Habsburgów	x a p . z b uu r . g u f
-Habsburgów	x a p . z b uu r . g u f
-Habsburgów	x a p . z b uu r . g u v
 Habsburgów	x a p . z b uu r . g u v
 Haftka	x aa f . t k a
 haftki	x aa f . t c i
 handlowych	x a n . d l oo . v y x
 harmonijce	x a r . m o . ni ii j . ts e
 hatchback	x ee tSz . b e g
-hatchback	x ee tSz . b e g
-hatchback	x ee tSz . b e k
 hatchback	x ee tSz . b e k
 hałastryObecnie	x a . w a s . t r y . o . b ee . ts ni e
 hałasu	x a . w aa . s u
@@ -1209,121 +699,8 @@ hollywodzkiej	x o . l l y . v oo . ts c j e j
 hormonomJohn	x o r . m o . n oo m . j o x n
 Hufman	x uu f . m a n
 husarska	x u . s aa r . s k a
-husarska	x u . s aa r . s k a
 hutnicze	x u . t ni ii . tSz e
 huzarach	x u . z aa . r a x
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
-i	i
 i	i
 ibn	ii b n
 Ibrahim	i . b r aa . x i m
@@ -1331,24 +708,13 @@ Ich	i x
 idealne	i . d e . aa l . n e
 ideami	i . d e . aa . m i
 idą	ii . d o w_
-idą	ii . d o w_
-Idąc	ii . d o n dz
 Idąc	ii . d o n dz
 Idąc	ii . d o n ts
-Idąc	ii . d o n ts
 Idę	ii . d e
-Idę	ii . d e
-idę	ii . d e
-idę	ii . d e
-Idź	ii dzi
 Idź	ii dzi
 Idź	ii tsi
-Idź	ii tsi
-ile	ii . l e
 ile	ii . l e
 ilość	ii . l o si tsi
-ilość	ii . l o si tsi
-ilość	ii . l o zi dzi
 ilość	ii . l o zi dzi
 imieniny	i m . j e . ni ii . n y
 imię	ii m . j e
@@ -1356,18 +722,13 @@ impreza	i m . p r ee . z a
 inaczej	i . n aa . tSz e j
 Indiach	ii n . d j a x
 informacje	i n . f o r . m aa . ts j e
-informacje	i n . f o r . m aa . ts j e
-informacje	i n . f o r . m aa . ts j e
 informacji	i n . f o r . m aa . ts i
-inne	ii . n n e
 inne	ii . n n e
 inny	ii . n n y
 innych	ii . n n y x
 innym	ii . n n y m
 innymi	i . n n yy . m i
 instrumentów	i w_ . s t r u . m ee n . t u f
-instrumentów	i w_ . s t r u . m ee n . t u f
-instrumentów	i w_ . s t r u . m ee n . t u v
 instrumentów	i w_ . s t r u . m ee n . t u v
 instytucie	i w_ . s t y . t uu . tsi e
 integracyjnych	i n . t e . g r a . ts yy j . n y x
@@ -1381,152 +742,47 @@ istniało	i s . t ni aa . w o
 istnienie	i s . t ni ee . ni e
 istnieniu	i s . t ni ee . ni u
 iłołupków	i . w o . w uu . p k u f
-iłołupków	i . w o . w uu . p k u f
-iłołupków	i . w o . w uu . p k u v
 iłołupków	i . w o . w uu . p k u v
 iść	ii si tsi
 iść	ii zi dzi
 ja	j aa
 jabłko	j aa . p k o
 Jacek	j aa . ts e g
-Jacek	j aa . ts e g
-Jacek	j aa . ts e k
 Jacek	j aa . ts e k
 jachtklubu	j a x t . k l uu . b u
 jachty	j aa x . t y
 Jad	j aa d
-Jad	j aa d
-Jad	j aa t
 Jad	j aa t
 jadła	j aa . d w a
 jadłowstręt	j a . d w oo . f s t r e n d
-jadłowstręt	j a . d w oo . f s t r e n d
-jadłowstręt	j a . d w oo . f s t r e n t
 jadłowstręt	j a . d w oo . f s t r e n t
 Jagiełły	j a . gi j ee . w w y
 Jagoda	j a . g oo . d a
 jagód	j aa . g u d
-jagód	j aa . g u d
-jagód	j aa . g u t
 jagód	j aa . g u t
 jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa g
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
-jak	j aa k
 jak	j aa k
 jakby	j aa g . b y
 jakichś	j aa . c i x si
-jakichś	j aa . c i x si
-jakichś	j aa . c i x si
-jakichś	j aa . c i x si
-jakichś	j aa . c i x zi
-jakichś	j aa . c i x zi
-jakichś	j aa . c i x zi
 jakichś	j aa . c i x zi
 jakie	j aa . c j e
 jakiekolwiek	j a . c j e . k oo l . v j e g
-jakiekolwiek	j a . c j e . k oo l . v j e g
-jakiekolwiek	j a . c j e . k oo l . v j e k
 jakiekolwiek	j a . c j e . k oo l . v j e k
 jakimś	j aa . c i m si
-jakimś	j aa . c i m si
-jakimś	j aa . c i m zi
 jakimś	j aa . c i m zi
 jakiś	j aa . c i si
-jakiś	j aa . c i si
-jakiś	j aa . c i si
-jakiś	j aa . c i si
-jakiś	j aa . c i si
-jakiś	j aa . c i zi
-jakiś	j aa . c i zi
-jakiś	j aa . c i zi
-jakiś	j aa . c i zi
 jakiś	j aa . c i zi
 jako	j aa . k o
 jakość	j aa . k o si tsi
 jakość	j aa . k o zi dzi
 Jakub	j aa . k u b
-Jakub	j aa . k u b
-Jakub	j aa . k u p
 Jakub	j aa . k u p
 jakąś	j aa . k o w_ si
-jakąś	j aa . k o w_ si
-jakąś	j aa . k o w_ zi
 jakąś	j aa . k o w_ zi
 jamą	j aa . m o w_
 Jana	j aa . n a
 Jansen	j aa w_ . s e n
 Jarek	j aa . r e g
-Jarek	j aa . r e g
-Jarek	j aa . r e k
 Jarek	j aa . r e k
 jarzembski	j a . rZ ee m p . s c i
 jarzma	j aa rZ . m a
@@ -1536,7 +792,6 @@ jazzowy	drZ e . z oo . v y
 jeansu	drZ ii n . s u
 jeden	j ee . d e n
 Jedna	j ee . d n a
-Jedna	j ee . d n a
 jednego	j e . d n ee . g o
 Jedno	j ee . d n o
 jednorożca	j e . d n o . r oo Sz . ts a
@@ -1545,228 +800,39 @@ Jednym	j ee . d n y m
 jednymi	j e . d n yy . m i
 Jedynie	j e . d yy . ni e
 jedynkę	j e . d yy N_ . k e
-jedynkę	j e . d yy N_ . k e
 Jego	j ee . g o
-jego	j ee . g o
-jego	j ee . g o
-jego	j ee . g o
-jego	j ee . g o
-jego	j ee . g o
 Jej	j e j
-Jej	j e j
-jej	j e j
-jej	j e j
-jej	j e j
-jej	j e j
 Jesienny	j e . si ee . n n y
 jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee s t
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
-jest	j ee z d
 jest	j ee z d
 Jesteś	j ee s . t e si
-jesteś	j ee s . t e si
 Jesteś	j ee s . t e zi
-jesteś	j ee s . t e zi
 Jeszcze	j ee Sz . tSz e
-jeszcze	j ee Sz . tSz e
 jeziora	j e . zi oo . r a
 Jezioro	j e . zi oo . r o
-Jezioro	j e . zi oo . r o
 Jeśli	j ee . si l i
-jeśli	j ee . si l i
-jeśli	j ee . si l i
 jeść	j ee si tsi
-jeść	j ee si tsi
-jeść	j ee zi dzi
 jeść	j ee zi dzi
 jeździ	j ee zi . dzi i
 jeździć	j ee zi . dzi i dzi
-jeździć	j ee zi . dzi i dzi
-jeździć	j ee zi . dzi i tsi
 jeździć	j ee zi . dzi i tsi
 jogging	drZ oo . gi i N_ g
-jogging	drZ oo . gi i N_ g
-jogging	drZ oo . gi i N_ k
 jogging	drZ oo . gi i N_ k
 joggingu	drZ o . gi ii N_ . g u
 Jolanta	j o . l aa n . t a
 judo	drZ uu . d o
 juwenalia	j u . v e . n aa l . j a
 już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu rZ
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
-już	j uu Sz
 już	j uu Sz
 Józef	j uu . z e f
-Józef	j uu . z e f
-Józef	j uu . z e v
 Józef	j uu . z e v
 Józefa	j u . z ee . f a
-ją	j o w_
-ją	j o w_
-ją	j o w_
-ją	j o w_
-ją	j o w_
-ją	j o w_
 ją	j o w_
 jęczmień	j ee n . tSz m j e ni
 jędrnie	j ee n . d r ni e
 jędrny	j ee n . d r n y
 Językiem	j e w_ . z yy . c j e m
 k	g
-k	g
-k	k
 k	k
 kabrioletem	k a . b r j o . l ee . t e m
 kadzilne	k a . dzi ii l . n e
@@ -1774,12 +840,8 @@ Kalkucie	k a l . k uu . tsi e
 kamieni	k a m . j ee . ni i
 Kamila	k a . m ii . l a
 Kanadyjczyk	k a . n a . d yy j . tSz y g
-Kanadyjczyk	k a . n a . d yy j . tSz y g
-Kanadyjczyk	k a . n a . d yy j . tSz y k
 Kanadyjczyk	k a . n a . d yy j . tSz y k
 kapelusik	k a . p e . l uu . si i g
-kapelusik	k a . p e . l uu . si i g
-kapelusik	k a . p e . l uu . si i k
 kapelusik	k a . p e . l uu . si i k
 Kapelusze	k a . p e . l uu . Sz e
 kapitan	k a . p ii . t a n
@@ -1788,33 +850,19 @@ karbońskich	k a r . b oo j_ . s c i x
 karczmie	k aa r . tSz m j e
 karczmy	k aa r . tSz m y
 kariery	k a r . j ee . r y
-kariery	k a r . j ee . r y
 karierze	k a r . j ee . rZ e
 karlzbadzka	k a r l z . b aa . ts k a
 karrl	k aa r r l
 karę	k aa . r e
 karłów	k aa r . w u f
-karłów	k aa r . w u f
-karłów	k aa r . w u v
 karłów	k aa r . w u v
 kasy	k aa . s y
 Kaszubem	k a . Sz uu . b e m
 Kawalkada	k a . v a l . k aa . d a
 kawałek	k a . v aa . w e g
-kawałek	k a . v aa . w e g
-kawałek	k a . v aa . w e g
-kawałek	k a . v aa . w e g
-kawałek	k a . v aa . w e g
-kawałek	k a . v aa . w e g
-kawałek	k a . v aa . w e k
-kawałek	k a . v aa . w e k
-kawałek	k a . v aa . w e k
-kawałek	k a . v aa . w e k
-kawałek	k a . v aa . w e k
 kawałek	k a . v aa . w e k
 kawałka	k a . v aa w . k a
 kawałki	k a . v aa w . c i
-kawy	k aa . v y
 kawy	k aa . v y
 każda	k aa rZ . d a
 Każde	k aa rZ . d e
@@ -1822,32 +870,11 @@ każdy	k aa rZ . d y
 kickboxera	c i tSz . g b o . k s ee . r a
 kiecce	c j ee . ts ts e
 Kiedy	c j ee . d y
-Kiedy	c j ee . d y
-Kiedy	c j ee . d y
-kiedy	c j ee . d y
-kiedykolwiek	c j e . d y . k oo l . v j e g
 kiedykolwiek	c j e . d y . k oo l . v j e g
 kiedykolwiek	c j e . d y . k oo l . v j e k
-kiedykolwiek	c j e . d y . k oo l . v j e k
 kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y si
-kiedyś	c j ee . d y zi
-kiedyś	c j ee . d y zi
-kiedyś	c j ee . d y zi
-kiedyś	c j ee . d y zi
-kiedyś	c j ee . d y zi
-kiedyś	c j ee . d y zi
-kiedyś	c j ee . d y zi
 kiedyś	c j ee . d y zi
 Kielc	c j ee l dz
-Kielc	c j ee l dz
-Kielc	c j ee l ts
 Kielc	c j ee l ts
 kiepska	c j ee . p s k a
 kierować	c j e . r oo . v a dzi
@@ -1855,54 +882,28 @@ kierować	c j e . r oo . v a tsi
 kierownicy	c j e . r o v . ni ii . ts y
 kierunku	c j e . r uu N_ . k u
 Kilka	c ii l . k a
-kilka	c ii l . k a
-kilkadziesiąt	c i l . k a . dzi ee . si o n d
 kilkadziesiąt	c i l . k a . dzi ee . si o n d
 kilkadziesiąt	c i l . k a . dzi ee . si o n t
-kilkadziesiąt	c i l . k a . dzi ee . si o n t
-kilku	c ii l . k u
 kilku	c ii l . k u
 kilkuset	c i l . k uu . s e d
-kilkuset	c i l . k uu . s e d
-kilkuset	c i l . k uu . s e d
-kilkuset	c i l . k uu . s e d
-kilkuset	c i l . k uu . s e t
-kilkuset	c i l . k uu . s e t
-kilkuset	c i l . k uu . s e t
 kilkuset	c i l . k uu . s e t
 kilogram	c i . l oo . g r a m
 kilometrów	c i . l o . m ee . t r u f
-kilometrów	c i . l o . m ee . t r u f
-kilometrów	c i . l o . m ee . t r u v
 kilometrów	c i . l o . m ee . t r u v
 kina	c ii . n a
 KipSzef	c ii . p Sz e f
-KipSzef	c ii . p Sz e f
-KipSzef	c ii . p Sz e v
 KipSzef	c ii . p Sz e v
 Kiszewskie	c i . Sz ee f s . c j e
 klepią	k l ee . p j o w_
 klientów	k l i . j ee n . t u f
-klientów	k l i . j ee n . t u f
-klientów	k l i . j ee n . t u v
 klientów	k l i . j ee n . t u v
 klimatu	k l i . m aa . t u
 klub	k l uu b
-klub	k l uu b
-klub	k l uu b
-klub	k l uu b
-klub	k l uu p
-klub	k l uu p
-klub	k l uu p
 klub	k l uu p
 klubów	k l uu . b u f
-klubów	k l uu . b u f
-klubów	k l uu . b u v
 klubów	k l uu . b u v
 klęska	k l ee w_ . s k a
 kmiotków	k m j oo . t k u f
-kmiotków	k m j oo . t k u f
-kmiotków	k m j oo . t k u v
 kmiotków	k m j oo . t k u v
 koalicji	k o . a . l ii . ts i
 kobiece	k o . b j ee . ts e
@@ -1913,43 +914,28 @@ kochanka	k o . x aa N_ . k a
 Kochanowskiego	k o . x a . n o f s . c j ee . g o
 kojarzą	k o . j aa . rZ o w_
 kolację	k o . l aa . ts j e
-kolację	k o . l aa . ts j e
 kolega	k o . l ee . g a
 kolegi	k o . l ee . gi i
 kolegów	k o . l ee . g u f
-kolegów	k o . l ee . g u f
 kolegów	k o . l ee . g u v
-kolegów	k o . l ee . g u v
-kolegę	k o . l ee . g e
 kolegę	k o . l ee . g e
 Koleżanka	k o . l e . rZ aa N_ . k a
-koleżanka	k o . l e . rZ aa N_ . k a
 koleżanki	k o . l e . rZ aa N_ . c i
 kolorami	k o . l o . r aa . m i
 kolorowych	k o . l o . r oo . v y x
 kompan	k oo m . p a n
 kompromis	k o m . p r oo . m i s
-kompromis	k o m . p r oo . m i s
-kompromis	k o m . p r oo . m i z
 kompromis	k o m . p r oo . m i z
 komputerach	k o m . p u . t ee . r a x
 komputerowej	k o m . p u . t e . r oo . v e j
 komunię	k o . m uu . ni e
 komórek	k o . m uu . r e g
-komórek	k o . m uu . r e g
-komórek	k o . m uu . r e k
 komórek	k o . m uu . r e k
 komórkowego	k o . m u r . k o . v ee . g o
 koncercie	k o n . ts ee r . tsi e
 koncertowy	k o n . ts e r . t oo . v y
 Konflikt	k oo n . f l i g d
-Konflikt	k oo n . f l i g d
-konflikt	k oo n . f l i g d
-konflikt	k oo n . f l i g d
 Konflikt	k oo n . f l i k t
-Konflikt	k oo n . f l i k t
-konflikt	k oo n . f l i k t
-konflikt	k oo n . f l i k t
 konflikty	k o n . f l ii . k t y
 koniecznie	k o . ni ee . tSz ni e
 koniku	k o . ni ii . k u
@@ -1957,17 +943,11 @@ koniu	k oo . ni u
 konstrukcji	k o w_ . s t r uu . k ts i
 Konsumpcja	k o w_ . s uu m . p ts j a
 kontrchwyt	k oo n t r . x f y d
-kontrchwyt	k oo n t r . x f y d
-kontrchwyt	k oo n t r . x f y t
 kontrchwyt	k oo n t r . x f y t
 kontrewolucyjne	k o n . t r e . v o . l u . ts yy j . n e
 Kontrkandydat	k o n t r . k a n . d yy . d a d
-Kontrkandydat	k o n t r . k a n . d yy . d a d
-Kontrkandydat	k o n t r . k a n . d yy . d a t
 Kontrkandydat	k o n t r . k a n . d yy . d a t
 kontrmanewr	k o n t r . m aa . n e f r
-kontrmanewr	k o n t r . m aa . n e f r
-kontrmanewr	k o n t r . m aa . n e v r
 kontrmanewr	k o n t r . m aa . n e v r
 kontrnatarcie	k o n t r . n a . t aa r . tsi e
 kontrolerzy	k o n . t r o . l ee . rZ y
@@ -1983,37 +963,26 @@ Koreańskie	k o . r e . aa j_ . s c j e
 korzystnie	k o . rZ yy s . t ni e
 korą	k oo . r o w_
 kosztorys	k o Sz . t oo . r y s
-kosztorys	k o Sz . t oo . r y s
-kosztorys	k o Sz . t oo . r y z
 kosztorys	k o Sz . t oo . r y z
 kotem	k oo . t e m
 Kozłowskiego	k o . z w o f s . c j ee . g o
 Koń	k oo ni
-końca	k oo ni . ts a
-końca	k oo ni . ts a
 końca	k oo ni . ts a
 końcowe	k o ni . ts oo . v e
 kościele	k o si . tsi ee . l e
 kościoła	k o si . tsi oo . w a
 kościołach	k o si . tsi oo . w a x
 kościół	k oo si . tsi u w
-kościół	k oo si . tsi u w
 kradzież	k r aa . dzi e rZ
-kradzież	k r aa . dzi e rZ
-kradzież	k r aa . dzi e Sz
 kradzież	k r aa . dzi e Sz
 krainie	k r a . ii . ni e
 krajobraz	k r a . j oo . b r a s
-krajobraz	k r a . j oo . b r a s
-krajobraz	k r a . j oo . b r a z
 krajobraz	k r a . j oo . b r a z
 krajobrazy	k r a . j o . b r aa . z y
-kraju	k r aa . j u
 kraju	k r aa . j u
 Krakowscy	k r a . k oo . f s ts y
 kratówki	k r a . t uu f . c i
 kreacji	k r e . aa . ts i
-krem	k r ee m
 krem	k r ee m
 Kremla	k r ee m . l a
 kremPrzy	k r ee m . p Sz y
@@ -2027,14 +996,11 @@ krwią	k r f j oo w_
 Krystian	k r yy s . t j a n
 krzewy	k Sz ee . v y
 krzyczeć	k Sz yy . tSz e dzi
-krzyczeć	k Sz yy . tSz e dzi
-krzyczeć	k Sz yy . tSz e tsi
 krzyczeć	k Sz yy . tSz e tsi
 krzyknął	k Sz yy . k n o w
 krzywdy	k Sz yy v . d y
 krzywizny	k Sz y . v ii z . n y
 Krzyśkiem	k Sz yy si . c j e m
-Krzyżanowskiego	k Sz y . rZ a . n o f s . c j ee . g o
 Krzyżanowskiego	k Sz y . rZ a . n o f s . c j ee . g o
 królewną	k r u . l ee v . n o w_
 królewska	k r u . l ee . f s k a
@@ -2046,77 +1012,39 @@ krótkowzroczny	k r u . t k o . v z r oo . tSz n y
 krążenia	k r o w_ . rZ ee . ni a
 Kręcielewski	k r e ni . tsi e . l ee . f s c i
 Ksiądz	k si oo n dz
-Ksiądz	k si oo n dz
-ksiądz	k si oo n dz
-ksiądz	k si oo n dz
-ksiądz	k si oo n dz
-ksiądz	k si oo n dz
 Ksiądz	k si oo n ts
-Ksiądz	k si oo n ts
-ksiądz	k si oo n ts
-ksiądz	k si oo n ts
-ksiądz	k si oo n ts
-ksiądz	k si oo n ts
 książka	k si oo w_ . Sz k a
-książki	k si oo w_ . Sz c i
-książki	k si oo w_ . Sz c i
-książki	k si oo w_ . Sz c i
-książki	k si oo w_ . Sz c i
-książki	k si oo w_ . Sz c i
 książki	k si oo w_ . Sz c i
 księdzem	k si ee n . dz e m
 księdzu	k si ee n . dz u
-księdzu	k si ee n . dz u
 księżmi	k si ee w_ . rZ m i
 Księżyc	k si ee w_ . rZ y dz
-Księżyc	k si ee w_ . rZ y dz
-Księżyc	k si ee w_ . rZ y ts
 Księżyc	k si ee w_ . rZ y ts
 kto	k t oo
 ktoś	k t oo si
 ktoś	k t oo zi
 która	k t uu . r a
-która	k t uu . r a
 które	k t uu . r e
 którego	k t u . r ee . g o
 której	k t uu . r e j
-który	k t uu . r y
-który	k t uu . r y
-który	k t uu . r y
-który	k t uu . r y
-który	k t uu . r y
-który	k t uu . r y
 który	k t uu . r y
 których	k t uu . r y x
 którym	k t uu . r y m
 którzy	k t uu . rZ y
 którą	k t uu . r o w_
-którą	k t uu . r o w_
-którą	k t uu . r o w_
 kubek	k uu . b e g
-kubek	k uu . b e g
-kubek	k uu . b e k
 kubek	k uu . b e k
 Kucharka	k u . x aa r . k a
 kultury	k u l . t uu . r y
 kumplowałem	k u m . p l o . v aa . w e m
 kup	k uu b
-kup	k uu b
 kup	k uu p
-kup	k uu p
-kupi	k uu . p i
 kupi	k uu . p i
 kupił	k uu . p i w
 kupiłam	k u . p ii . w a m
 kupnie	k uu . p ni e
 kuriera	k u r . j ee . r a
 kurs	k uu r s
-kurs	k uu r s
-kurs	k uu r s
-kurs	k uu r s
-kurs	k uu r z
-kurs	k uu r z
-kurs	k uu r z
 kurs	k uu r z
 kuśtykającym	k u si . t y . k a . j oo n . ts y m
 kwalifikacji	k f a . l i . f i . k aa . ts i
@@ -2131,14 +1059,7 @@ kłopoty	k w o . p oo . t y
 lalkami	l a l . k aa . m i
 Landstrasse	l a n t s t r a s s e
 lat	l aa d
-lat	l aa d
-lat	l aa d
-lat	l aa d
 lat	l aa t
-lat	l aa t
-lat	l aa t
-lat	l aa t
-latach	l aa . t a x
 latach	l aa . t a x
 latktóre	l a t k t u r e
 lato	l aa . t o
@@ -2147,17 +1068,12 @@ legenda	l e . g ee n . d a
 Legendy	l e . g ee n . d y
 Legitymacje	l e . gi i . t y . m aa . ts j e
 lek	l ee g
-lek	l ee g
-lek	l ee k
 lek	l ee k
 lekarstwa	l e . k aa r . s t f a
 Lekarz	l ee . k a rZ
-Lekarz	l ee . k a rZ
-Lekarz	l ee . k a Sz
 Lekarz	l ee . k a Sz
 lekarza	l e . k aa . rZ a
 lekarze	l e . k aa . rZ e
-lekcji	l ee . k ts i
 lekcji	l ee . k ts i
 lekkie	l ee . c c j e
 lepiej	l ee . p j e j
@@ -2171,12 +1087,6 @@ leń	l ee ni
 leży	l ee . rZ y
 leżącej	l e . rZ oo n . ts e j
 liczb	l ii drZ b
-liczb	l ii drZ b
-liczb	l ii drZ b
-liczb	l ii drZ b
-liczb	l ii tSz p
-liczb	l ii tSz p
-liczb	l ii tSz p
 liczb	l ii tSz p
 liczbie	l ii . drZ b j e
 liczby	l ii . drZ b y
@@ -2194,67 +1104,21 @@ losami	l o . s aa . m i
 losie	l oo . si e
 losy	l oo . s y
 LTVB	l v b
-LTVB	l v b
-LTVB	l v p
 LTVB	l v p
 LTVC	l v dz
-LTVC	l v dz
-LTVC	l v ts
 LTVC	l v ts
 lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu b
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
-lub	l uu p
 lub	l uu p
 lubie	l uu . b j e
 lubić	l uu . b i dzi
-lubić	l uu . b i dzi
-lubić	l uu . b i tsi
 lubić	l uu . b i tsi
 Lubię	l uu . b j e
-ludzi	l uu . dzi i
-ludzi	l uu . dzi i
-ludzi	l uu . dzi i
-ludzi	l uu . dzi i
-ludzi	l uu . dzi i
-ludzi	l uu . dzi i
 ludzi	l uu . dzi i
 ludzie	l uu . dzi e
 ludzkich	l uu . ts c i x
 lędźwie	l ee ni . dzi v j e
 lęku	l ee N_ . k u
 lśnił	l si ni ii w
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
-ma	m aa
 ma	m aa
 macicy	m a . tsi ii . ts y
 Magdzie	m aa g . dzi e
@@ -2267,33 +1131,21 @@ mają	m aa . j o w_
 maksymalnie	m a . k s y . m aa l . ni e
 Maleńkie	m a . l ee ni . c j e
 Mam	m aa m
-Mam	m aa m
-mam	m aa m
-mama	m aa . m a
-mama	m aa . m a
 mama	m aa . m a
 mamią	m aa m . j o w_
 mammograficzne	m a . m m o . g r a . f ii . tSz n e
 mamy	m aa . m y
 mamą	m aa . m o w_
 Management	m e . n ee . dz m e n d
-Management	m e . n ee . dz m e n d
-Management	m e . n ee . dz m e n t
 Management	m e . n ee . dz m e n t
 mandat	m aa n . d a d
-mandat	m aa n . d a d
-mandat	m aa n . d a t
 mandat	m aa n . d a t
 Marceli	m a r . ts ee . l i
 marchwią	m aa r . x f j o w_
 Marcin	m aa r . tsi i n
 Marek	m aa . r e g
-Marek	m aa . r e g
-Marek	m aa . r e k
 Marek	m aa . r e k
 mark	m aa r g
-mark	m aa r g
-mark	m aa r k
 mark	m aa r k
 marki	m aa r . c i
 Markotny	m a r . k oo . t n y
@@ -2306,30 +1158,22 @@ marynarzem	m a . r y . n aa . rZ e m
 marzenia	m a . rZ ee . ni a
 marzył	m aa . rZ y w
 Marzę	m aa . rZ e
-Marzę	m aa . rZ e
 Masz	m aa rZ
-Masz	m aa rZ
-Masz	m aa Sz
 Masz	m aa Sz
 maszyn	m aa . Sz y n
 materiałoznawstwa	m a . t e r . j a . w o z . n aa . f s t f a
 Mateusz	m a . t ee . u rZ
-Mateusz	m a . t ee . u rZ
-Mateusz	m a . t ee . u Sz
 Mateusz	m a . t ee . u Sz
 Matka	m aa . t k a
 Matyldy	m a . t yy l . d y
 mazią	m aa . zi o w_
 mazowieckiego	m a . z o v . j e . ts c j ee . g o
 Mała	m aa . w a
-mała	m aa . w a
 mało	m aa . w o
 małych	m aa . w y x
 małżonką	m a w . rZ oo N_ . k o w_
 mdłościami	m d w o si . tsi aa . m i
 Mec	m ee dz
-Mec	m ee dz
-Mec	m ee ts
 Mec	m ee ts
 medal	m ee . d a l
 mediach	m ee d . j a x
@@ -2340,29 +1184,13 @@ Menedżerzy	m e . n e . drZ ee . rZ y
 menopauzy	m e . n o . p aa w . z y
 metali	m e . t aa . l i
 metrów	m ee . t r u f
-metrów	m ee . t r u f
-metrów	m ee . t r u v
 metrów	m ee . t r u v
 Mi	m i
-mi	m i
-mi	m i
-mi	m i
-mi	m i
-mi	m i
-mi	m i
-mi	m i
-mi	m i
-miasta	m j aa s . t a
-miasta	m j aa s . t a
-miasta	m j aa s . t a
 miasta	m j aa s . t a
 miastami	m j a s . t aa . m i
 miastem	m j aa s . t e m
 miasto	m j aa s . t o
 miał	m j aa w
-miał	m j aa w
-miał	m j aa w
-miała	m j aa . w a
 miała	m j aa . w a
 miałem	m j aa . w e m
 miało	m j aa . w o
@@ -2378,12 +1206,8 @@ mieszaniną	m j e . Sz a . ni ii . n o w_
 mieszany	m j e . Sz aa . n y
 mieszka	m j ee Sz . k a
 mieszkania	m j e Sz . k aa . ni a
-mieszkania	m j e Sz . k aa . ni a
-mieszkała	m j e Sz . k aa . w a
 mieszkała	m j e Sz . k aa . w a
 mieszkańców	m j e Sz . k aa ni . ts u f
-mieszkańców	m j e Sz . k aa ni . ts u f
-mieszkańców	m j e Sz . k aa ni . ts u v
 mieszkańców	m j e Sz . k aa ni . ts u v
 mieć	m j ee dzi
 mieć	m j ee tsi
@@ -2392,84 +1216,49 @@ milczkiem	m ii l . tSz c j e m
 mili	m ii . l i
 miliona	m i l . j oo . n a
 milionów	m i l . j oo . n u f
-milionów	m i l . j oo . n u f
-milionów	m i l . j oo . n u v
 milionów	m i l . j oo . n u v
 miniaturowych	m i . ni a . t u . r oo . v y x
 Ministerstwa	m i . ni i s . t ee r . s t f a
 Ministerstwo	m i . ni i s . t ee r . s t f o
 minstrele	m i w_ . s t r ee . l e
 minus	m ii . n u s
-minus	m ii . n u s
-minus	m ii . n u z
 minus	m ii . n u z
 minut	m ii . n u d
-minut	m ii . n u d
-minut	m ii . n u t
 minut	m ii . n u t
 mistrzostw	m ii s . t Sz o s t f
-mistrzostw	m ii s . t Sz o s t f
-mistrzostw	m ii s . t Sz o z d v
 mistrzostw	m ii s . t Sz o z d v
 miód	m j uu d
-miód	m j uu d
 miód	m j uu t
-miód	m j uu t
-między	m j ee n . dz y
-między	m j ee n . dz y
-między	m j ee n . dz y
 między	m j ee n . dz y
 międzymózgowia	m j e n . dz y . m u z . g oo v . j a
 międzynarodowej	m j e n . dz y . n a . r o . d oo . v e j
 międzynarodowych	m j e n . dz y . n a . r o . d oo . v y x
 międzyuczelniane	m j e n . dz y . u . tSz e l . ni aa . n e
 mięsa	m j ee w_ . s a
-mięsa	m j ee w_ . s a
 mięsień	m j ee j_ . si e ni
 miętowe	m j e n . t oo . v e
 miłość	m ii . w o si tsi
 miłość	m ii . w o zi dzi
 Miś	m ii si
-Miś	m ii si
-Miś	m ii zi
 Miś	m ii zi
 mleko	m l ee . k o
 mnie	m ni ee
-mnie	m ni ee
-mnie	m ni ee
-mnie	m ni ee
-mnie	m ni ee
-mnie	m ni ee
-mnie	m ni ee
 Mnóstwo	m n uu s . t f o
-mnóstwo	m n uu s . t f o
-moc	m oo dz
 moc	m oo dz
 moc	m oo ts
-moc	m oo ts
-mocno	m oo . ts n o
 mocno	m oo . ts n o
 mocnych	m oo . ts n y x
 modele	m o . d ee . l e
-modele	m o . d ee . l e
 mogli	m oo . g l i
 mogę	m oo . g e
-mogę	m oo . g e
 mogła	m oo . g w a
-mogłem	m oo . g w e m
 mogłem	m oo . g w e m
 mogło	m oo . g w o
 mogły	m oo . g w y
 moich	m oo . i x
 moim	m oo . i m
 Moja	m oo . j a
-Moja	m oo . j a
-moja	m oo . j a
 moje	m oo . j e
-moje	m oo . j e
-moje	m oo . j e
-mojego	m o . j ee . g o
-mojego	m o . j ee . g o
 mojego	m o . j ee . g o
 Monako	m o . n aa . k o
 Monarchia	m o . n aa r . x j a
@@ -2480,55 +1269,21 @@ Morskiego	m o r . s c j ee . g o
 mostu	m oo s . t u
 motylkami	m o . t y l . k aa . m i
 Mozarta	m o . z aa r . t a
-Mozarta	m o . z aa r . t a
-może	m oo . rZ e
-może	m oo . rZ e
 może	m oo . rZ e
 możesz	m oo . rZ e rZ
-możesz	m oo . rZ e rZ
-możesz	m oo . rZ e rZ
-możesz	m oo . rZ e rZ
 możesz	m oo . rZ e Sz
-możesz	m oo . rZ e Sz
-możesz	m oo . rZ e Sz
-możesz	m oo . rZ e Sz
-można	m oo rZ . n a
-można	m oo rZ . n a
 można	m oo rZ . n a
 mrozie	m r oo . zi e
 Mu	m u
-mu	m u
-mu	m u
-mu	m u
-mu	m u
 musi	m uu . si i
 musieli	m u . si ee . l i
-musieli	m u . si ee . l i
 Musisz	m uu . si i rZ
-Musisz	m uu . si i rZ
-musisz	m uu . si i rZ
-musisz	m uu . si i rZ
-musisz	m uu . si i rZ
-musisz	m uu . si i rZ
-musisz	m uu . si i rZ
-musisz	m uu . si i rZ
 Musisz	m uu . si i Sz
-Musisz	m uu . si i Sz
-musisz	m uu . si i Sz
-musisz	m uu . si i Sz
-musisz	m uu . si i Sz
-musisz	m uu . si i Sz
-musisz	m uu . si i Sz
-musisz	m uu . si i Sz
 muszą	m uu . Sz o w_
 Muszę	m uu . Sz e
-muszę	m uu . Sz e
-muszę	m uu . Sz e
-muszę	m uu . Sz e
 Muzeum	m u . z ee . u m
 muzycznych	m u . z yy . tSz n y x
 Muzyka	m u . z yy . k a
-muzyka	m u . z yy . k a
 mydlnica	m y . d l ni ii . ts a
 myszka	m yy Sz . k a
 myśl	m yy si l
@@ -2536,17 +1291,7 @@ myśl	m yy zi l
 Módlmy	m uu . d l m y
 mógłże	m uu g w . rZ e
 Mój	m uu j
-Mój	m uu j
-Mój	m uu j
-Mój	m uu j
-Mój	m uu j
-mój	m uu j
-mój	m uu j
-mój	m uu j
-mój	m uu j
 mówisz	m uu . v i rZ
-mówisz	m uu . v i rZ
-mówisz	m uu . v i Sz
 mówisz	m uu . v i Sz
 mówią	m uu v . j o w_
 mówić	m uu . v i dzi
@@ -2555,19 +1300,12 @@ mówiłem	m u . v ii . w e m
 mózgowia	m u z . g oo v . j a
 mózgu	m uu z . g u
 Mąż	m oo w_ rZ
-mąż	m oo w_ rZ
-mąż	m oo w_ rZ
 Mąż	m oo w_ Sz
-mąż	m oo w_ Sz
-mąż	m oo w_ Sz
 Mędrcach	m ee n t r . ts a x
 męskiej	m ee w_ . s c j e j
 mętlikiem	m e n . t l ii . c j e m
 męża	m ee w_ . rZ a
-męża	m ee w_ . rZ a
 mężczyzn	m ee w_ . Sz tSz y s n
-mężczyzn	m ee w_ . Sz tSz y s n
-mężczyzn	m ee w_ . Sz tSz y z n
 mężczyzn	m ee w_ . Sz tSz y z n
 mężczyzna	m e w_ . Sz tSz yy z . n a
 mężowi	m e w_ . rZ oo . v i
@@ -2575,148 +1313,15 @@ młoda	m w oo . d a
 młody	m w oo . d y
 młodych	m w oo . d y x
 młodzieży	m w o . dzi ee . rZ y
-młodzieży	m w o . dzi ee . rZ y
 mżawkę	m rZ aa f . k e
 Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-Na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
-na	n a
 nabili	n a . b ii . l i
 nabożeństwie	n a . b o . rZ ee j_ . s t f j e
 Nad	n a d
-Nad	n a d
-nad	n a d
-nad	n a d
-nad	n a d
-nad	n a d
 Nad	n a t
-Nad	n a t
-nad	n a t
-nad	n a t
-nad	n a t
-nad	n a t
 nadal	n aa . d a l
 nadbrzeżne	n a d . b rZ ee rZ . n e
 Naddruk	n aa d . d r u g
-Naddruk	n aa d . d r u g
-Naddruk	n aa d . d r u g
-Naddruk	n aa d . d r u g
-Naddruk	n aa d . d r u k
-Naddruk	n aa d . d r u k
-Naddruk	n aa d . d r u k
 Naddruk	n aa d . d r u k
 nadmorskie	n a . d m oo r . s c j e
 nadrdzewiałego	n a d . r dz e v . j a . w ee . g o
@@ -2726,7 +1331,6 @@ nadzieję	n a . dzi ee . j e
 nadzmysłowym	n a d . z m y . s w oo . v y m
 nadzorczej	n a . d z oo r . tSz e j
 nadzoruje	n a . d z o . r uu . j e
-nadzoruje	n a . d z o . r uu . j e
 nadzwyczaj	n a d . z v yy . tSz a j
 nadzór	n aa . d z u r
 nagotowała	n a . g o . t o . v aa . w a
@@ -2734,7 +1338,6 @@ nagrał	n aa . g r a w
 Najbardziej	n a j . b aa r . dzi e j
 najciekawszym	n a j . tsi e . k aa . f Sz y m
 Najciekawszą	n a j . tsi e . k aa . f Sz o w_
-najczęściej	n a j . tSz ee w_ . si tsi e j
 najczęściej	n a j . tSz ee w_ . si tsi e j
 najdojrzalsze	n a j . d o j . rZ aa l . Sz e
 najeźdźcy	n a . j ee si . ts y
@@ -2747,11 +1350,7 @@ najlepszy	n a j . l ee . p Sz y
 najmroczniejszych	n a j . m r o . tSz ni ee j . Sz y x
 najmroźniejszym	n a j . m r o zi . ni ee j . Sz y m
 Najnowsze	n a j . n oo . f Sz e
-Najnowsze	n a j . n oo . f Sz e
-Najnowsze	n a j . n oo . f Sz e
 Najpierw	n aa j . p j e r f
-Najpierw	n aa j . p j e r f
-Najpierw	n aa j . p j e r v
 Najpierw	n aa j . p j e r v
 najpiękniejsze	n a j . p j e N_ . k ni ee j . Sz e
 najpowszechniejsze	n a j . p o . f Sz e x . ni ee j . Sz e
@@ -2774,19 +1373,10 @@ najświeższe	n a j . si f j ee . Sz Sz e
 nakrycie	n a . k r yy . tsi e
 należał	n a . l ee . rZ a w
 Należy	n a . l ee . rZ y
-należy	n a . l ee . rZ y
-należy	n a . l ee . rZ y
-należy	n a . l ee . rZ y
-należy	n a . l ee . rZ y
-należy	n a . l ee . rZ y
 naparstnica	n a . p a r . s t ni ii . ts a
 naparstnik	n a . p aa r . s t ni i g
-naparstnik	n a . p aa r . s t ni i g
-naparstnik	n a . p aa r . s t ni i k
 naparstnik	n a . p aa r . s t ni i k
 Napastnik	n a . p aa s . t ni i g
-Napastnik	n a . p aa s . t ni i g
-Napastnik	n a . p aa s . t ni i k
 Napastnik	n a . p aa s . t ni i k
 Napisał	n a . p ii . s a w
 Napiszcie	n a . p ii Sz . tsi e
@@ -2796,30 +1386,17 @@ narasta	n a . r aa s . t a
 narodu	n a . r oo . d u
 narzekają	n a . rZ e . k aa . j o w_
 narządów	n a . rZ oo n . d u f
-narządów	n a . rZ oo n . d u f
-narządów	n a . rZ oo n . d u v
 narządów	n a . rZ oo n . d u v
 naród	n aa . r u d
-naród	n aa . r u d
-naród	n aa . r u t
 naród	n aa . r u t
 nas	n aa s
-nas	n aa s
-nas	n aa z
 nas	n aa z
 Nastąpił	n a s . t oo m . p i w
 następnym	n a s . t ee m . p n y m
 nasz	n a rZ
-nasz	n a rZ
-nasz	n a rZ
-nasz	n a rZ
-nasz	n a Sz
-nasz	n a Sz
-nasz	n a Sz
 nasz	n a Sz
 naszego	n a . Sz ee . g o
 naszej	n aa . Sz e j
-naszym	n aa . Sz y m
 naszym	n aa . Sz y m
 naturalnych	n a . t u . r aa l . n y x
 nauczenie	n a . u . tSz ee . ni e
@@ -2831,122 +1408,23 @@ Naukowcy	n a . u . k oo f . ts y
 naukoznawstwa	n a . u . k o z . n aa . f s t f a
 nauką	n a . uu . k o w_
 Nawet	n aa . v e d
-Nawet	n aa . v e d
-Nawet	n aa . v e d
-Nawet	n aa . v e d
-nawet	n aa . v e d
-nawet	n aa . v e d
 Nawet	n aa . v e t
-Nawet	n aa . v e t
-Nawet	n aa . v e t
-Nawet	n aa . v e t
-nawet	n aa . v e t
-nawet	n aa . v e t
 nawilżone	n a . v i l . rZ oo . n e
 nawyk	n aa . v y g
-nawyk	n aa . v y g
-nawyk	n aa . v y k
 nawyk	n aa . v y k
 Nazbierałem	n a z . b j e . r aa . w e m
 nazywano	n a . z y . v aa . n o
 nałożeniem	n a . w o . rZ ee . ni e m
 nałożyć	n a . w oo . rZ y dzi
-nałożyć	n a . w oo . rZ y dzi
-nałożyć	n a . w oo . rZ y tsi
 nałożyć	n a . w oo . rZ y tsi
 nerki	n ee r . c i
 niby	ni ii . b y
 Nic	ni ii dz
-Nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
-nic	ni ii dz
 Nic	ni ii ts
-Nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
-nic	ni ii ts
 nich	ni ii x
 nici	ni ii . tsi i
 nicponia	ni i . ts p oo . ni a
 Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-Nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
-nie	ni ee
 niebezpiecznie	ni e . b e . s p j ee . tSz ni e
 niebezpieczny	ni e . b e . s p j ee . tSz n y
 niebezpieczną	ni e . b e . s p j ee . tSz n o w_
@@ -2956,12 +1434,7 @@ niebo	ni ee . b o
 niechby	ni ee x . b y
 niedaleko	ni e . d a . l ee . k o
 Niedźwiedź	ni ee . dzi v j e dzi
-Niedźwiedź	ni ee . dzi v j e dzi
 Niedźwiedź	ni ee . dzi v j e tsi
-Niedźwiedź	ni ee . dzi v j e tsi
-niego	ni ee . g o
-niego	ni ee . g o
-niego	ni ee . g o
 niego	ni ee . g o
 niegospodarny	ni e . g o s . p o . d aa r . n y
 niej	ni ee j
@@ -2969,15 +1442,11 @@ nielegalnie	ni e . l e . g aa l . ni e
 niemal	ni ee . m a l
 Niemczech	ni ee m . tSz e x
 Niemiec	ni ee m . j e dz
-Niemiec	ni ee m . j e dz
-Niemiec	ni ee m . j e ts
 Niemiec	ni ee m . j e ts
 niemoralny	ni e . m o . r aa l . n y
 niemowlęctwa	ni e . m o . v l ee n . ts t f a
 niemowlęctwie	ni e . m o . v l ee n . ts t f j e
 niemożność	ni e . m oo rZ . n o si tsi
-niemożność	ni e . m oo rZ . n o si tsi
-niemożność	ni e . m oo rZ . n o zi dzi
 niemożność	ni e . m oo rZ . n o zi dzi
 nienaumyślnie	ni e . n a . u . m yy si . l ni e
 nieoczekiwanie	ni e . o . tSz e . c i . v aa . ni e
@@ -2998,54 +1467,17 @@ nieznane	ni e z . n aa . n e
 niezwykle	ni e . z v yy . k l e
 niezły	ni ee . z w y
 nigdy	ni ii g . d y
-nigdy	ni ii g . d y
 Nikt	ni ii g d
-Nikt	ni ii g d
-Nikt	ni ii g d
-Nikt	ni ii g d
-nikt	ni ii g d
-nikt	ni ii g d
 Nikt	ni ii k t
-Nikt	ni ii k t
-Nikt	ni ii k t
-Nikt	ni ii k t
-nikt	ni ii k t
-nikt	ni ii k t
-nim	ni ii m
-nim	ni ii m
-nim	ni ii m
 nim	ni ii m
 nirwany	ni i r . v aa . n y
 nią	ni oo w_
-nią	ni oo w_
 niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii rZ
-niż	ni ii Sz
-niż	ni ii Sz
-niż	ni ii Sz
-niż	ni ii Sz
-niż	ni ii Sz
-niż	ni ii Sz
-niż	ni ii Sz
 niż	ni ii Sz
 niższych	ni ii . Sz Sz y x
 noc	n oo dz
-noc	n oo dz
-noc	n oo dz
-noc	n oo dz
-noc	n oo ts
-noc	n oo ts
-noc	n oo ts
 noc	n oo ts
 nocy	n oo . ts y
-nocy	n oo . ts y
-nocą	n oo . ts o w_
 nocą	n oo . ts o w_
 nogi	n oo . gi i
 Norwida	n o r . v ii . d a
@@ -3053,11 +1485,8 @@ nosem	n oo . s e m
 nostalgiczną	n o s . t a l . gi ii . tSz n o w_
 noszono	n o . Sz oo . n o
 nowe	n oo . v e
-nowe	n oo . v e
-nowej	n oo . v e j
 nowej	n oo . v e j
 nowelę	n o . v ee . l e
-nowości	n o . v oo si . tsi i
 nowości	n o . v oo si . tsi i
 nowy	n oo . v y
 Nową	n oo . v o w_
@@ -3066,193 +1495,62 @@ nubijskim	n u . b ii j . s c i m
 nuklearną	n u . k l e . aa r . n o w_
 numeru	n u . m ee . r u
 O	o
-O	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-o	o
-obce	oo . p ts e
 obce	oo . p ts e
 obdrapał	o b . d r aa . p a w
 obdzwaniają	o b . dz v a . ni aa . j o w_
 obdzwoniła	o b . dz v o . ni ii . w a
 Obecnie	o . b ee . ts ni e
-obecnie	o . b ee . ts ni e
 obecność	o . b ee . ts n o si tsi
 obecność	o . b ee . ts n o zi dzi
 obejmuje	o . b e j . m uu . j e
 obfitą	o . p f ii . t o w_
 obgotować	o b . g o . t oo . v a dzi
-obgotować	o b . g o . t oo . v a dzi
-obgotować	o b . g o . t oo . v a tsi
 obgotować	o b . g o . t oo . v a tsi
 obiad	oo . b j a d
-obiad	oo . b j a d
-obiad	oo . b j a t
 obiad	oo . b j a t
 Obiecuję	o . b j e . ts uu . j e
 obiektyw	o . b j ee . k t y f
-obiektyw	o . b j ee . k t y f
-obiektyw	o . b j ee . k t y v
 obiektyw	o . b j ee . k t y v
 objętość	o . b j ee n . t o si tsi
-objętość	o . b j ee n . t o si tsi
-objętość	o . b j ee n . t o zi dzi
 objętość	o . b j ee n . t o zi dzi
 obliczeń	o . b l ii . tSz e ni
 obmierzlych	o b . m j ee r . z l y x
 obozu	o . b oo . z u
 obraz	oo . b r a s
-obraz	oo . b r a s
-obraz	oo . b r a z
 obraz	oo . b r a z
 obrazu	o . b r aa . z u
 obrazów	o . b r aa . z u f
-obrazów	o . b r aa . z u f
-obrazów	o . b r aa . z u v
 obrazów	o . b r aa . z u v
 obrus	oo . b r u s
-obrus	oo . b r u s
-obrus	oo . b r u z
 obrus	oo . b r u z
 obróbki	o . b r uu . p c i
 obrębie	o . b r ee m . b j e
 obstrzyc	oo p s . t Sz y dz
-obstrzyc	oo p s . t Sz y dz
-obstrzyc	oo p s . t Sz y ts
 obstrzyc	oo p s . t Sz y ts
 obwieszczając	o b . v j e Sz . tSz aa . j o n dz
-obwieszczając	o b . v j e Sz . tSz aa . j o n dz
-obwieszczając	o b . v j e Sz . tSz aa . j o n ts
 obwieszczając	o b . v j e Sz . tSz aa . j o n ts
 obwieszona	o b . v j e . Sz oo . n a
 obywateli	o . b y . v a . t ee . l i
 Obznajmil	o b . z n aa j . m i l
 obśmiewali	o p . si m j e . v aa . l i
 ochotę	o . x oo . t e
-ochotę	o . x oo . t e
-ochraniacz	o . x r aa . ni a drZ
 ochraniacz	o . x r aa . ni a drZ
 ochraniacz	o . x r aa . ni a tSz
-ochraniacz	o . x r aa . ni a tSz
-ochronnego	o . x r o . n n ee . g o
 ochronnego	o . x r o . n n ee . g o
 oczekuje	o . tSz e . k uu . j e
 Oczekując	o . tSz e . k uu . j o n dz
-Oczekując	o . tSz e . k uu . j o n dz
-Oczekując	o . tSz e . k uu . j o n ts
 Oczekując	o . tSz e . k uu . j o n ts
 oczyszczacza	o . tSz y Sz . tSz aa . tSz a
 od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o d
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
-od	o t
 od	o t
 odbiornik	o d . b j oo r . ni i g
-odbiornik	o d . b j oo r . ni i g
-odbiornik	o d . b j oo r . ni i k
 odbiornik	o d . b j oo r . ni i k
 Odbiorę	o d . b j oo . r e
 odblask	oo d . b l a s k
-odblask	oo d . b l a s k
-odblask	oo d . b l a z g
 odblask	oo d . b l a z g
 odbłysk	oo d . b w y s k
-odbłysk	oo d . b w y s k
-odbłysk	oo d . b w y z g
 odbłysk	oo d . b w y z g
 odcinków	o . t tsi ii N_ . k u f
-odcinków	o . t tsi ii N_ . k u f
-odcinków	o . t tsi ii N_ . k u v
 odcinków	o . t tsi ii N_ . k u v
 Oddziel	oo d . dzi e l
 oddzielić	o d . dzi ee . l i dzi
@@ -3260,24 +1558,17 @@ oddzielić	o d . dzi ee . l i tsi
 Oddzwonię	o d . dz v oo . ni e
 Oddłubałem	o d . d w u . b aa . w e m
 odgięta	o d . gi j ee n . t a
-odgięta	o d . gi j ee n . t a
 Odgnieciony	o d . g ni e . tsi oo . n y
 odgrywała	o d . g r y . v aa . w a
 odgrzać	oo d . g rZ a dzi
 odgrzać	oo d . g rZ a tsi
 odgłos	oo d . g w o s
-odgłos	oo d . g w o s
-odgłos	oo d . g w o z
 odgłos	oo d . g w o z
 odjeżdża	o d . j ee rZ . drZ a
 odkryć	oo t . k r y dzi
 odkryć	oo t . k r y tsi
 odkształcił	o t . k Sz t aa w . tsi i w
 odmieniać	o d . m j ee . ni a dzi
-odmieniać	o d . m j ee . ni a dzi
-odmieniać	o d . m j ee . ni a dzi
-odmieniać	o d . m j ee . ni a tsi
-odmieniać	o d . m j ee . ni a tsi
 odmieniać	o d . m j ee . ni a tsi
 odmroził	o d . m r oo . zi i w
 odmłodzi	o d . m w oo . dzi i
@@ -3286,46 +1577,27 @@ odpadł	oo . t p a t
 odpowiedzialnym	o . t p o v . j e . dzi aa l . n y m
 odrzutowca	o . d rZ u . t oo f . ts a
 odrzutowców	o . d rZ u . t oo f . ts u f
-odrzutowców	o . d rZ u . t oo f . ts u f
-odrzutowców	o . d rZ u . t oo f . ts u v
 odrzutowców	o . d rZ u . t oo f . ts u v
 odskrobać	o t . s k r oo . b a dzi
-odskrobać	o t . s k r oo . b a dzi
-odskrobać	o t . s k r oo . b a dzi
-odskrobać	o t . s k r oo . b a tsi
-odskrobać	o t . s k r oo . b a tsi
 odskrobać	o t . s k r oo . b a tsi
 Odstraszyła	o t . s t r a . Sz yy . w a
 odszedł	oo . t Sz e d
-odszedł	oo . t Sz e d
-odszedł	oo . t Sz e d
-odszedł	oo . t Sz e t
-odszedł	oo . t Sz e t
 odszedł	oo . t Sz e t
 odtwarzacz	o t . t f aa . rZ a drZ
-odtwarzacz	o t . t f aa . rZ a drZ
 odtwarzacz	o t . t f aa . rZ a tSz
-odtwarzacz	o t . t f aa . rZ a tSz
-odtwarzaczy	o t . t f a . rZ aa . tSz y
 odtwarzaczy	o t . t f a . rZ aa . tSz y
 oduczyć	o . d uu . tSz y dzi
 oduczyć	o . d uu . tSz y tsi
 odwagę	o . d v aa . g e
-odwagę	o . d v aa . g e
 odważnym	o . d v aa rZ . n y m
 odwdzięczę	o d . v dzi ee n . tSz e
-odwdzięczę	o d . v dzi ee n . tSz e
 odwiedziła	o d . v j e . dzi ii . w a
-odwiedzę	o d . v j ee . dz e
 odwiedzę	o d . v j ee . dz e
 odwlecze	o d . v l ee . tSz e
 odwołany	o . d v o . w aa . n y
 odwrzasnął	o d . v rZ aa s . n o w
 odwrócił	o d . v r uu . tsi i w
-odwrócił	o d . v r uu . tsi i w
 Odwróć	oo d . v r u dzi
-Odwróć	oo d . v r u dzi
-Odwróć	oo d . v r u tsi
 Odwróć	oo d . v r u tsi
 odwzajemnił	o d . v z a . j ee m . ni i w
 odzieży	o . dzi ee . rZ y
@@ -3337,7 +1609,6 @@ odświeżyć	o t . si f j ee . rZ y tsi
 odświętne	o t . si f j ee n . t n e
 odźwierny	o . dzi v j ee r . n y
 oferowanych	o . f e . r o . v aa . n y x
-oferowanych	o . f e . r o . v aa . n y x
 oferuje	o . f e . r uu . j e
 ofiar	oo . f j a r
 ofiarę	o . f j aa . r e
@@ -3346,13 +1617,10 @@ ogarnia	o . g aa r . ni a
 ogradzały	o . g r a . dz aa . w y
 ograniczoną	o . g r a . ni i . tSz oo . n o w_
 ogrodzie	o . g r oo . dzi e
-ogrodzie	o . g r oo . dzi e
 ogromne	o . g r oo m . n e
 ogromny	o . g r oo m . n y
 ogromną	o . g r oo m . n o w_
 ogrzać	oo . g rZ a dzi
-ogrzać	oo . g rZ a dzi
-ogrzać	oo . g rZ a tsi
 ogrzać	oo . g rZ a tsi
 Ogólnopolski	o . g u l . n o . p oo l . s c i
 ojca	oo j . ts a
@@ -3360,14 +1628,11 @@ Oka	oo . k a
 okazał	o . k aa . z a w
 okazało	o . k a . z aa . w o
 okazji	o . k aa . z i
-okazji	o . k aa . z i
 okna	oo . k n a
-około	o . k oo . w o
 około	o . k oo . w o
 okresie	o . k r ee . si e
 okrrropnie	o . k r r r oo . p ni e
 okręcie	o . k r ee ni . tsi e
-oku	oo . k u
 oku	oo . k u
 okularach	o . k u . l aa . r a x
 olchy	oo l . x y
@@ -3376,13 +1641,7 @@ olejkiem	o . l ee j . c j e m
 olksfagena	o l k s . f a . g ee . n a
 Olzą	oo l . z o w_
 olśniewająco	o l . si ni e . v a . j oo n . ts o
-olśniewająco	o l . si ni e . v a . j oo n . ts o
 On	oo n
-on	oo n
-on	oo n
-on	oo n
-on	oo n
-ona	oo . n a
 ona	oo . n a
 opady	o . p aa . d y
 opakowania	o . p a . k o . v aa . ni a
@@ -3394,52 +1653,16 @@ opisać	o . p ii . s a dzi
 opisać	o . p ii . s a tsi
 opisała	o . p i . s aa . w a
 oportunistów	o . p o r . t u . ni ii s . t u f
-oportunistów	o . p o r . t u . ni ii s . t u f
-oportunistów	o . p o r . t u . ni ii s . t u v
 oportunistów	o . p o r . t u . ni ii s . t u v
 opowiadanku	o . p o v . j a . d aa N_ . k u
 Opowiedzcie	o . p o v . j ee . ts tsi e
 opuściła	o . p u si . tsi ii . w a
-opuściła	o . p u si . tsi ii . w a
 or	oo r
 oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a s
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
-oraz	oo . r a z
 oraz	oo . r a z
 organizacji	o r . g a . ni i . z aa . ts i
 organizmu	o r . g a . ni ii z . m u
-organizmu	o r . g a . ni ii z . m u
 organizmów	o r . g a . ni ii z . m u f
-organizmów	o r . g a . ni ii z . m u f
-organizmów	o r . g a . ni ii z . m u v
 organizmów	o r . g a . ni ii z . m u v
 organizowana	o r . g a . ni i . z o . v aa . n a
 organowa	o r . g a . n oo . v a
@@ -3451,46 +1674,29 @@ osiem	oo . si e m
 osiemnastym	o . si e m . n aa s . t y m
 Oskarżyli	o s . k a r . rZ yy . l i
 Osmanów	o s . m aa . n u f
-Osmanów	o s . m aa . n u f
-Osmanów	o s . m aa . n u v
 Osmanów	o s . m aa . n u v
 osobniczym	o . s o . b ni ii . tSz y m
 ostatniej	o s . t aa . t ni e j
-ostatniej	o s . t aa . t ni e j
 ostrożniej	o s . t r oo rZ . ni e j
 oszukując	o . Sz u . k uu . j o n dz
-oszukując	o . Sz u . k uu . j o n dz
-oszukując	o . Sz u . k uu . j o n ts
 oszukując	o . Sz u . k uu . j o n ts
 osłabienia	o . s w a . b j ee . ni a
 otrzymywać	o . t Sz y . m yy . v a dzi
-otrzymywać	o . t Sz y . m yy . v a dzi
-otrzymywać	o . t Sz y . m yy . v a dzi
-otrzymywać	o . t Sz y . m yy . v a tsi
-otrzymywać	o . t Sz y . m yy . v a tsi
 otrzymywać	o . t Sz y . m yy . v a tsi
 otwartych	o . t f aa r . t y x
 otworzyła	o . t f o . rZ yy . w a
 Owady	o . v aa . d y
 owadów	o . v aa . d u f
-owadów	o . v aa . d u f
-owadów	o . v aa . d u v
 owadów	o . v aa . d u v
 owiń	oo . v i ni
 owoc	oo . v o dz
-owoc	oo . v o dz
-owoc	oo . v o ts
 owoc	oo . v o ts
 ołówkiem	o . w uu f . c j e m
 oślepiał	o . si l ee . p j a w
 p	b
-p	b
-p	p
 p	p
 pachniał	p aa x . ni a w
 Pacjent	p aa . ts j e n d
-Pacjent	p aa . ts j e n d
-Pacjent	p aa . ts j e n t
 Pacjent	p aa . ts j e n t
 pacjentowi	p a . ts j e n . t oo . v i
 palce	p aa l . ts e
@@ -3498,23 +1704,17 @@ palenia	p a . l ee . ni a
 paleoantropologa	p a . l e . o . a n . t r o . p o . l oo . g a
 paliwa	p a . l ii . v a
 palnąłem	p a l . n oo . w e m
-palnąłem	p a l . n oo . w e m
 Pamiętaj	p a m . j ee n . t a j
 Pan	p aa n
-Pan	p aa n
-pan	p aa n
 pana	p aa . n a
 Pani	p aa . ni i
 Pannę	p aa . n n e
 papieru	p a . p j ee . r u
 Papież	p aa . p j e rZ
-Papież	p aa . p j e rZ
-Papież	p aa . p j e Sz
 Papież	p aa . p j e Sz
 parsknięcie	p a r . s k ni ee ni . tsi e
 parsknął	p aa r . s k n o w
 Partia	p aa r . t j a
-partia	p aa r . t j a
 partnera	p a r . t n ee . r a
 patelni	p a . t ee l . ni i
 Patriotycznej	p a . t r i . j o . t yy . tSz n e j
@@ -3535,76 +1735,49 @@ perfumami	p e r . f u . m aa . m i
 permski	p ee r m . s c i
 personalnych	p e r . s o . n aa l . n y x
 petentów	p e . t ee n . t u f
-petentów	p e . t ee n . t u f
 petentów	p e . t ee n . t u v
-petentów	p e . t ee n . t u v
-pewno	p ee v . n o
 pewno	p ee v . n o
 pełną	p ee w . n o w_
 PGWP	b k f p
-PGWP	b k f p
-PGWP	b k v b
 PGWP	b k v b
 piaskownicy	p j a s . k o v . ni ii . ts y
 Picie	p ii . tsi e
 pieczeń	p j ee . tSz e ni
 pieczywo	p j e . tSz yy . v o
 pieców	p j ee . ts u f
-pieców	p j ee . ts u f
-pieców	p j ee . ts u v
 pieców	p j ee . ts u v
 pielgrzymka	p j e l . g rZ yy m . k a
 Pielęgniarka	p j e . l e N_ . g ni aa r . k a
 pielęgniarki	p j e . l e N_ . g ni aa r . c i
-pieniądze	p j e . ni oo n . dz e
 pieniądze	p j e . ni oo n . dz e
 pieprzmy	p j ee . p rZ m y
 piersi	p j ee r . si i
 pierwsza	p j ee r . f Sz a
 pierwszego	p j e r . f Sz ee . g o
 pierwszy	p j ee r . f Sz y
-pierwszy	p j ee r . f Sz y
-pierwszy	p j ee r . f Sz y
-pierwszą	p j ee r . f Sz o w_
-pierwszą	p j ee r . f Sz o w_
 pierwszą	p j ee r . f Sz o w_
 pierzgiale	p j e rZ . gi j aa . l e
 pierścionek	p j e r . si tsi oo . n e g
-pierścionek	p j e r . si tsi oo . n e g
-pierścionek	p j e r . si tsi oo . n e k
 pierścionek	p j e r . si tsi oo . n e k
 Pies	p j ee s
-Pies	p j ee s
-pies	p j ee s
-pies	p j ee s
 Pies	p j ee z
-Pies	p j ee z
-pies	p j ee z
-pies	p j ee z
 Pietrkiem	p j ee t r . c j e m
 Pieśni	p j ee si . ni i
 piorun	p j oo . r u n
 Piosenki	p j o . s ee N_ . c i
 pisania	p i . s aa . ni a
-pisania	p i . s aa . ni a
 pisanie	p i . s aa . ni e
 pisarz	p ii . s a rZ
-pisarz	p ii . s a rZ
-pisarz	p ii . s a Sz
 pisarz	p ii . s a Sz
 piwa	p ii . v a
 piąstki	p j oo w_ . s t c i
-pięciu	p j ee ni . tsi u
 pięciu	p j ee ni . tsi u
 pięciusetzłotowy	p j e ni . tsi u . s e d . z w o . t oo . v y
 piętra	p j ee n . t r a
 Pięćktroć	p j e ni tsi k t r o dzi
 Pięćktroć	p j e ni tsi k t r o tsi
 pięćset	p j ee ni . tsi s e d
-pięćset	p j ee ni . tsi s e d
 pięćset	p j ee ni . tsi s e t
-pięćset	p j ee ni . tsi s e t
-Piłsudskiego	p i w . s u . t s c j ee . g o
 Piłsudskiego	p i w . s u . t s c j ee . g o
 Placu	p l aa . ts u
 planetarnymi	p l a . n e . t a r . n yy . m i
@@ -3612,27 +1785,12 @@ planowanych	p l a . n o . v aa . n y x
 plastiku	p l a s . t ii . k u
 plaży	p l aa . rZ y
 plażę	p l aa . rZ e
-plażę	p l aa . rZ e
-pluszaków	p l u . Sz aa . k u f
 pluszaków	p l u . Sz aa . k u f
 pluszaków	p l u . Sz aa . k u v
-pluszaków	p l u . Sz aa . k u v
 Po	p o
-Po	p o
-po	p o
-po	p o
-po	p o
-po	p o
-po	p o
-po	p o
-po	p o
-po	p o
-po	p o
-po	p o
 pobicie	p o . b ii . tsi e
 Pobiegnij	p o . b j ee . g ni i j
 pobudzająca	p o . b u . dz a . j oo n . ts a
-pochlebstwa	p o . x l ee p s . t f a
 pochlebstwa	p o . x l ee p s . t f a
 pochłaniania	p o . x w a . ni aa . ni a
 pociągu	p o . tsi oo N_ . g u
@@ -3642,33 +1800,7 @@ początkiem	p o . tSz oo n t . c j e m
 początku	p o . tSz oo n . t k u
 poczęstowała	p o . tSz e w_ . s t o . v aa . w a
 Pod	p o d
-Pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
-pod	p o d
 Pod	p o t
-Pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
-pod	p o t
 podarowałam	p o . d a . r o . v aa . w a m
 podatku	p o . d aa . t k u
 podawać	p o . d aa . v a dzi
@@ -3677,18 +1809,10 @@ podała	p o . d aa . w a
 podbramkowej	p o d . b r a m . k oo . v e j
 podchmielony	p o t . x m j e . l oo . n y
 Podczas	p oo . t tSz a s
-Podczas	p oo . t tSz a s
-podczas	p oo . t tSz a s
-podczas	p oo . t tSz a s
 Podczas	p oo . t tSz a z
-Podczas	p oo . t tSz a z
-podczas	p oo . t tSz a z
-podczas	p oo . t tSz a z
 poddania	p o d . d aa . ni a
 podejrzewa	p o . d e j . rZ ee . v a
 podejść	p oo . d e j si tsi
-podejść	p oo . d e j si tsi
-podejść	p oo . d e j zi dzi
 podejść	p oo . d e j zi dzi
 podglądali	p o d . g l o n . d aa . l i
 podgromada	p o d . g r o . m aa . d a
@@ -3701,27 +1825,20 @@ podobne	p o . d oo . b n e
 podobnej	p o . d oo . b n e j
 podrobionymi	p o . d r o . b j o . n yy . m i
 Podróżnik	p o . d r uu rZ . ni i g
-Podróżnik	p o . d r uu rZ . ni i g
-Podróżnik	p o . d r uu rZ . ni i k
 Podróżnik	p o . d r uu rZ . ni i k
 podstawowy	p o t . s t a . v oo . v y
 podstawówce	p o t . s t a . v uu f . ts e
 podstawą	p o t . s t aa . v o w_
-podstawą	p o t . s t aa . v o w_
 Podstrzygłem	p o t . s t Sz yy . g w e m
 podszedł	p oo . t Sz e d
-podszedł	p oo . t Sz e d
-podszedł	p oo . t Sz e t
 podszedł	p oo . t Sz e t
 poduszce	p o . d uu Sz . ts e
-podwiozę	p o d . v j oo . z e
 podwiozę	p o d . v j oo . z e
 Podwzgórze	p o d . v z g uu . rZ e
 podwórko	p o . d v uu r . k o
 podwładnego	p o d . v w a . d n ee . g o
 Podwładny	p o d . v w aa . d n y
 Podzbiorem	p o d . z b j oo . r e m
-podzbiorem	p o d . z b j oo . r e m
 podziel	p oo . dzi e l
 podzielcie	p o . dzi ee l . tsi e
 podziemi	p o . d zi ee . m i
@@ -3730,8 +1847,6 @@ podzwrotnikowego	p o d . z v r o . t ni i . k o . v ee . g o
 podłodze	p o . d w oo . dz e
 podłożu	p o . d w oo . rZ u
 Podłącz	p oo . d w o n drZ
-Podłącz	p oo . d w o n drZ
-Podłącz	p oo . d w o n tSz
 Podłącz	p oo . d w o n tSz
 podśmiechiwał	p o t . si m j e . x ii . v a w
 podśpiewuje	p o t . si p j e . v uu . j e
@@ -3749,7 +1864,6 @@ pojedynki	p o . j e . d yy N_ . c i
 pojęcia	p o . j ee ni . tsi a
 pojęciowe	p o . j e ni . tsi oo . v e
 pokoju	p o . k oo . j u
-pokoju	p o . k oo . j u
 pokrewieństwa	p o . k r e v . j ee j_ . s t f a
 pokryte	p o . k r yy . t e
 polega	p o . l ee . g a
@@ -3761,24 +1875,17 @@ policmajstrzy	p o . l i . ts m aa j . s t Sz y
 policyjny	p o . l i . ts yy j . n y
 policzki	p o . l ii . tSz c i
 policzyć	p o . l ii . tSz y dzi
-policzyć	p o . l ii . tSz y dzi
-policzyć	p o . l ii . tSz y tsi
 policzyć	p o . l ii . tSz y tsi
 Politycy	p o . l i . t yy . ts y
 polityki	p o . l i . t yy . c i
 politykiem	p o . l i . t yy . c j e m
 polityków	p o . l i . t yy . k u f
-polityków	p o . l i . t yy . k u f
 polityków	p o . l i . t yy . k u v
-polityków	p o . l i . t yy . k u v
-Polsce	p oo l . s ts e
 Polsce	p oo l . s ts e
 Polska	p oo l . s k a
 Polski	p oo l . s c i
 polskiej	p oo l . s c j e j
 polu	p oo . l u
-polu	p oo . l u
-polędwicę	p o . l e n . d v ii . ts e
 polędwicę	p o . l e n . d v ii . ts e
 pomaga	p o . m aa . g a
 pomagam	p o . m aa . g a m
@@ -3786,15 +1893,8 @@ pomieszczenia	p o m . j e Sz . tSz ee . ni a
 pomieszczenie	p o m . j e Sz . tSz ee . ni e
 pomieszczeń	p o m . j ee Sz . tSz e ni
 Pomimo	p o . m ii . m o
-Pomimo	p o . m ii . m o
 pomiędzy	p o m . j ee n . dz y
 pomoc	p oo . m o dz
-pomoc	p oo . m o dz
-pomoc	p oo . m o dz
-pomoc	p oo . m o dz
-pomoc	p oo . m o ts
-pomoc	p oo . m o ts
-pomoc	p oo . m o ts
 pomoc	p oo . m o ts
 pomocy	p o . m oo . ts y
 pomogli	p o . m oo . g l i
@@ -3803,44 +1903,23 @@ pomruki	p o m . r uu . c i
 pomylić	p o . m yy . l i dzi
 pomylić	p o . m yy . l i tsi
 pomysł	p oo . m y s w
-pomysł	p oo . m y s w
-pomysł	p oo . m y z w
 pomysł	p oo . m y z w
 ponad	p oo . n a d
-ponad	p oo . n a d
-ponad	p oo . n a d
-ponad	p oo . n a d
-ponad	p oo . n a t
-ponad	p oo . n a t
-ponad	p oo . n a t
 ponad	p oo . n a t
 ponaddźwiękowego	p o . n a d . dzi v j e N_ . k o . v ee . g o
 ponaddźwiękowych	p o . n a d . dzi v j e N_ . k oo . v y x
 ponieważ	p o . ni ee . v a rZ
-ponieważ	p o . ni ee . v a rZ
-ponieważ	p o . ni ee . v a rZ
-ponieważ	p o . ni ee . v a rZ
-ponieważ	p o . ni ee . v a rZ
-ponieważ	p o . ni ee . v a rZ
-ponieważ	p o . ni ee . v a Sz
-ponieważ	p o . ni ee . v a Sz
-ponieważ	p o . ni ee . v a Sz
-ponieważ	p o . ni ee . v a Sz
-ponieważ	p o . ni ee . v a Sz
 ponieważ	p o . ni ee . v a Sz
 poniósł	p oo . ni u s
 poniósł	p oo . ni u z
 poobgryzane	p o . o b . g r y . z aa . n e
 pooglądałbym	p o . o . g l o n . d aa w . b y m
 pop	p oo b
-pop	p oo b
-pop	p oo p
 pop	p oo p
 popchnij	p oo . p x ni i j
 popełnione	p o . p e w . ni oo . n e
 popełnił	p o . p ee w . ni i w
 popołudniu	p o . p o . w uu . d ni u
-Poproszę	p o . p r oo . Sz e
 Poproszę	p o . p r oo . Sz e
 poprzedniego	p o . p Sz e . d ni ee . g o
 poranny	p o . r aa . n n y
@@ -3850,17 +1929,12 @@ porozumienia	p o . r o . z u m . j ee . ni a
 porośniętą	p o . r o si . ni ee n . t o w_
 portmonetki	p o r . t m o . n ee . t c i
 porządek	p o . rZ oo n . d e g
-porządek	p o . rZ oo n . d e g
-porządek	p o . rZ oo n . d e k
 porządek	p o . rZ oo n . d e k
 posadzek	p o . s aa . dz e g
-posadzek	p o . s aa . dz e g
-posadzek	p o . s aa . dz e k
 posadzek	p o . s aa . dz e k
 posadził	p o . s aa . dzi i w
 poselstwa	p o . s ee l . s t f a
 posiada	p o . si aa . d a
-posiadają	p o . si a . d aa . j o w_
 posiadają	p o . si a . d aa . j o w_
 posiadaniu	p o . si a . d aa . ni u
 posmutniała	p o s . m u . t ni aa . w a
@@ -3870,8 +1944,6 @@ postanowili	p o s . t a . n o . v ii . l i
 postawienia	p o s . t a v . j ee . ni a
 postawnym	p o s . t aa v . n y m
 postać	p oo s . t a dzi
-postać	p oo s . t a dzi
-postać	p oo s . t a tsi
 postać	p oo s . t a tsi
 postscriptum	p o s t . s ts r ii . p t u m
 postąpić	p o s . t oo m . p i dzi
@@ -3879,62 +1951,39 @@ postąpić	p o s . t oo m . p i tsi
 postępować	p o s . t e m . p oo . v a dzi
 postępować	p o s . t e m . p oo . v a tsi
 poszedł	p oo . Sz e d
-poszedł	p oo . Sz e d
-poszedł	p oo . Sz e d
-poszedł	p oo . Sz e d
-poszedł	p oo . Sz e t
-poszedł	p oo . Sz e t
-poszedł	p oo . Sz e t
 poszedł	p oo . Sz e t
 poszerzyć	p o . Sz ee . rZ y dzi
 poszerzyć	p o . Sz ee . rZ y tsi
 poszli	p oo . Sz l i
 poszliśmy	p o . Sz l ii si . m y
 poszukiwaniu	p o . Sz u . c i . v aa . ni u
-poszukiwaniu	p o . Sz u . c i . v aa . ni u
 poszła	p oo . Sz w a
 posła	p oo . s w a
 posługiwanie	p o . s w u . gi i . v aa . ni e
 posługuje	p o . s w u . g uu . j e
 potem	p oo . t e m
-potem	p oo . t e m
-potem	p oo . t e m
 potomstwie	p o . t oo m . s t f j e
 potrafisz	p o . t r aa . f i rZ
-potrafisz	p o . t r aa . f i rZ
-potrafisz	p o . t r aa . f i Sz
 potrafisz	p o . t r aa . f i Sz
 potrafiło	p o . t r a . f ii . w o
-potrafiło	p o . t r a . f ii . w o
-potrawę	p o . t r aa . v e
 potrawę	p o . t r aa . v e
 potrzeb	p oo . t Sz e b
-potrzeb	p oo . t Sz e b
-potrzeb	p oo . t Sz e p
 potrzeb	p oo . t Sz e p
 potrzeba	p o . t Sz ee . b a
 potrzebuje	p o . t Sz e . b uu . j e
 potwierdził	p o . t f j ee r . dzi i w
 potworów	p o . t f oo . r u f
-potworów	p o . t f oo . r u f
-potworów	p o . t f oo . r u v
 potworów	p o . t f oo . r u v
 pouczająca	p o . u . tSz a . j oo n . ts a
 poużywać	p o . u . rZ yy . v a dzi
-poużywać	p o . u . rZ yy . v a dzi
-poużywać	p o . u . rZ yy . v a tsi
 poużywać	p o . u . rZ yy . v a tsi
 powiecie	p o v . j ee . tsi e
 powiedzenia	p o v . j e . dz ee . ni a
 powiedziała	p o v . j e . dzi aa . w a
 powiedzieć	p o v . j ee . dzi e dzi
-powiedzieć	p o v . j ee . dzi e dzi
-powiedzieć	p o v . j ee . dzi e tsi
 powiedzieć	p o v . j ee . dzi e tsi
 powietrze	p o v . j ee . t Sz e
 powieś	p oo v . j e si
-powieś	p oo v . j e si
-powieś	p oo v . j e zi
 powieś	p oo v . j e zi
 powinni	p o . v ii . ni ni i
 powodzenie	p o . v o . dz ee . ni e
@@ -3954,8 +2003,6 @@ Poznania	p o z . n aa . ni a
 poznałam	p o z . n aa . w a m
 pozostają	p o . z o s . t aa . j o w_
 pozostać	p o . z oo s . t a dzi
-pozostać	p o . z oo s . t a dzi
-pozostać	p o . z oo s . t a tsi
 pozostać	p o . z oo s . t a tsi
 pozycji	p o . z yy . ts i
 położony	p o . w o . rZ oo . n y
@@ -3963,8 +2010,6 @@ położyła	p o . w o . rZ yy . w a
 południe	p o . w uu . d ni e
 południowych	p o . w u . d ni oo . v y x
 Połóż	p oo . w u rZ
-Połóż	p oo . w u rZ
-Połóż	p oo . w u Sz
 Połóż	p oo . w u Sz
 połączenie	p o . w o n . tSz ee . ni e
 pośladki	p o . si l aa . t c i
@@ -3983,34 +2028,20 @@ prawa	p r aa . v a
 prawda	p r aa v . d a
 prawdy	p r aa v . d y
 prawdę	p r aa v . d e
-prawdę	p r aa v . d e
 prawidłowego	p r a . v i . d w o . v ee . g o
 prawie	p r aa v . j e
 prawo	p r aa . v o
 prawą	p r aa . v o w_
-prawą	p r aa . v o w_
 prezesa	p r e . z ee . s a
 Prezydent	p r e . z yy . d e n d
-Prezydent	p r e . z yy . d e n d
-Prezydent	p r e . z yy . d e n t
 Prezydent	p r e . z yy . d e n t
 prezydium	p r e . z yy d . j u m
 proamerykańskiej	p r o . a . m e . r y . k aa j_ . s c j e j
 procent	p r oo . ts e n d
-procent	p r oo . ts e n d
-procent	p r oo . ts e n d
-procent	p r oo . ts e n d
-procent	p r oo . ts e n t
-procent	p r oo . ts e n t
-procent	p r oo . ts e n t
 procent	p r oo . ts e n t
 proces	p r oo . ts e s
-proces	p r oo . ts e s
-proces	p r oo . ts e z
 proces	p r oo . ts e z
 procesów	p r o . ts ee . s u f
-procesów	p r o . ts ee . s u f
-procesów	p r o . ts ee . s u v
 procesów	p r o . ts ee . s u v
 produkcji	p r o . d uu . k ts i
 produkowała	p r o . d u . k o . v aa . w a
@@ -4029,80 +2060,31 @@ prosić	p r oo . si i dzi
 prosić	p r oo . si i tsi
 Prosiłam	p r o . si ii . w a m
 Proszę	p r oo . Sz e
-Proszę	p r oo . Sz e
-proszę	p r oo . Sz e
-proszę	p r oo . Sz e
-proszę	p r oo . Sz e
-proszę	p r oo . Sz e
-protest	p r oo . t e s t
 protest	p r oo . t e s t
 protest	p r oo . t e z d
-protest	p r oo . t e z d
-prośbą	p r oo zi . b o w_
 prośbą	p r oo zi . b o w_
 Prrr	p r r r
 przebieg	p Sz ee . b j e g
-przebieg	p Sz ee . b j e g
-przebieg	p Sz ee . b j e k
 przebieg	p Sz ee . b j e k
 przebiśniegi	p Sz e . b i si . ni ee . gi i
 Przechadzam	p Sz e . x aa . dz a m
 Przechwycenie	p Sz e . x f y . ts ee . ni e
 przeciw	p Sz ee . tsi i f
-przeciw	p Sz ee . tsi i f
-przeciw	p Sz ee . tsi i v
 przeciw	p Sz ee . tsi i v
 przeciwchemicznej	p Sz e . tsi i . f x e . m ii . tSz n e j
 przeciwdźwiękowe	p Sz e . tsi i v . dzi v j e N_ . k oo . v e
 przeciwkrwotoczny	p Sz e . tsi i f . k r f o . t oo . tSz n y
 przeciwkrzepliwy	p Sz e . tsi i f . k Sz e . p l ii . v y
 przeciwmgielne	p Sz e . tsi i v . m gi j ee l . n e
-przeciwmgielne	p Sz e . tsi i v . m gi j ee l . n e
 przeciwmgłowe	p Sz e . tsi i v . m g w oo . v e
 przeciwsztormowych	p Sz e . tsi i . f Sz t o r . m oo . v y x
 przeciwwskazania	p Sz e . tsi i f . f s k a . z aa . ni a
 przeciwwskazań	p Sz e . tsi i f . f s k aa . z a ni
 przeciwwstrząsowy	p Sz e . tsi i f . f s t Sz o w_ . s oo . v y
-przeciwwstrząsowy	p Sz e . tsi i f . f s t Sz o w_ . s oo . v y
-przeciwwstrząsowy	p Sz e . tsi i f . f s t Sz o w_ . s oo . v y
 Przeczytaj	p Sz e . tSz yy . t a j
 Przecławska	p Sz e . ts w aa . f s k a
 Przed	p Sz e d
-Przed	p Sz e d
-Przed	p Sz e d
-Przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
-przed	p Sz e d
 Przed	p Sz e t
-Przed	p Sz e t
-Przed	p Sz e t
-Przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
-przed	p Sz e t
 przede	p Sz ee . d e
 przedgwiazdkowe	p Sz e d . g v j a s . t k oo . v e
 przedgwiazdkowy	p Sz e d . g v j a s . t k oo . v y
@@ -4128,14 +2110,10 @@ przekreśliłeś	p Sz e . k r e . si l ii . w e zi
 przekroczyło	p Sz e . k r o . tSz yy . w o
 przekupienia	p Sz e . k u . p j ee . ni a
 Przenajświętszą	p Sz e . n a j . si f j ee n . t Sz o w_
-Przenajświętszą	p Sz e . n a j . si f j ee n . t Sz o w_
-przenośnych	p Sz e . n oo si . n y x
 przenośnych	p Sz e . n oo si . n y x
 przeobrażenia	p Sz e . o . b r a . rZ ee . ni a
 przepaską	p Sz e . p aa s . k o w_
 przepisów	p Sz e . p ii . s u f
-przepisów	p Sz e . p ii . s u f
-przepisów	p Sz e . p ii . s u v
 przepisów	p Sz e . p ii . s u v
 przepoconym	p Sz e . p o . ts oo . n y m
 przeprosił	p Sz e . p r oo . si i w
@@ -4146,11 +2124,7 @@ przerwały	p Sz e r . v aa . w y
 przerwie	p Sz ee r . v j e
 przeróżnych	p Sz e . r uu rZ . n y x
 przestać	p Sz ee s . t a dzi
-przestać	p Sz ee s . t a dzi
 przestać	p Sz ee s . t a tsi
-przestać	p Sz ee s . t a tsi
-Przestań	p Sz ee s . t a ni
-Przestań	p Sz ee s . t a ni
 Przestań	p Sz ee s . t a ni
 przestraszony	p Sz e s . t r a . Sz oo . n y
 przestrzegać	p Sz e s . t Sz ee . g a dzi
@@ -4159,52 +2133,13 @@ przestrzeń	p Sz ee s . t Sz e ni
 przestępstwie	p Sz e s . t ee m p . s t f j e
 przestępstwo	p Sz e s . t ee m p . s t f o
 przeszła	p Sz ee . Sz w a
-przeszła	p Sz ee . Sz w a
 przeważnie	p Sz e . v aa rZ . ni e
 Przewozili	p Sz e . v o . zi ii . l i
 przewozowych	p Sz e . v o . z oo . v y x
 przewoźnicy	p Sz e . v o zi . ni ii . ts y
 Przez	p Sz e s
-Przez	p Sz e s
-Przez	p Sz e s
-Przez	p Sz e s
-Przez	p Sz e s
-Przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
-przez	p Sz e s
 Przez	p Sz e z
-Przez	p Sz e z
-Przez	p Sz e z
-Przez	p Sz e z
-Przez	p Sz e z
-Przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
-przez	p Sz e z
 przezabawna	p Sz e . z a . b aa v . n a
-przy	p Sz y
-przy	p Sz y
-przy	p Sz y
-przy	p Sz y
 przy	p Sz y
 przybywa	p Sz y . b yy . v a
 przyciąga	p Sz y . tsi oo N_ . g a
@@ -4222,20 +2157,15 @@ przyjrzeć	p Sz yy j . rZ e dzi
 przyjrzeć	p Sz yy j . rZ e tsi
 Przyjście	p Sz yy j . si tsi e
 przyjść	p Sz yy j si tsi
-przyjść	p Sz yy j si tsi
-przyjść	p Sz yy j zi dzi
 przyjść	p Sz yy j zi dzi
 przykro	p Sz yy . k r o
 przymknęła	p Sz y m . k n ee . w a
 przyniosła	p Sz y . ni oo . s w a
 przypadku	p Sz y . p aa . t k u
 przypalonej	p Sz y . p a . l oo . n e j
-przypalonej	p Sz y . p a . l oo . n e j
 przypomniano	p Sz y . p o m . ni aa . n o
 przypłynął	p Sz y . p w yy . n o w
 przyrzec	p Sz yy . rZ e dz
-przyrzec	p Sz yy . rZ e dz
-przyrzec	p Sz yy . rZ e ts
 przyrzec	p Sz yy . rZ e ts
 przysiągł	p Sz yy . si o N_ g
 przysiągł	p Sz yy . si o N_ k
@@ -4243,26 +2173,19 @@ przyszłego	p Sz y . Sz w ee . g o
 przyszłości	p Sz y . Sz w oo si . tsi i
 przyszłym	p Sz yy . Sz w y m
 przywiózł	p Sz yy v . j u s
-przywiózł	p Sz yy v . j u s
-przywiózł	p Sz yy v . j u z
 przywiózł	p Sz yy v . j u z
 przywrócą	p Sz y . v r uu . ts o w_
 przyznaje	p Sz y z . n aa . j e
 przyznał	p Sz yy z . n a w
 przyśle	p Sz yy . si l e
 przód	p Sz uu d
-przód	p Sz uu d
-przód	p Sz uu t
 przód	p Sz uu t
 próbowali	p r u . b o . v aa . l i
 próbowały	p r u . b o . v aa . w y
 próbuję	p r u . b uu . j e
 próbę	p r uu . b e
 prócz	p r uu drZ
-prócz	p r uu drZ
 prócz	p r uu tSz
-prócz	p r uu tSz
-psa	p s aa
 psa	p s aa
 psem	p s ee m
 pstrokatymi	p s t r o . k a . t yy . m i
@@ -4270,8 +2193,6 @@ pstrągi	p s t r oo N_ . gi i
 psychicznego	p s y . x i . tSz n ee . g o
 psychogennym	p s y . x o . g ee . n n y m
 psów	p s uu f
-psów	p s uu f
-psów	p s uu v
 psów	p s uu v
 ptaki	p t aa . c i
 publicznych	p u . b l ii . tSz n y x
@@ -4287,16 +2208,11 @@ półroczu	p u w . r oo . tSz u
 półszlachetnych	p u w . Sz l a . x ee . t n y x
 Półwiejskiej	p u w . v j ee j . s c j e j
 Półzbroja	p u w . z b r oo . j a
-Półzbroja	p u w . z b r oo . j a
 półzmierzchem	p u w . z m j ee . Sz x e m
 półzmrok	p uu w . z m r o g
-półzmrok	p uu w . z m r o g
-półzmrok	p uu w . z m r o k
 półzmrok	p uu w . z m r o k
 półzwierzęce	p u w . z v j e . rZ ee n . ts e
 półzwrot	p uu w . z v r o d
-półzwrot	p uu w . z v r o d
-półzwrot	p uu w . z v r o t
 półzwrot	p uu w . z v r o t
 półświetle	p u w . si f j ee . t l e
 późniejsze	p u zi . ni ee j . Sz e
@@ -4309,45 +2225,32 @@ płyńmy	p w yy ni . m y
 płótno	p w uu . t n o
 quizie	k w ii . zi e
 rac	r aa dz
-rac	r aa dz
-rac	r aa ts
 rac	r aa ts
 radio	r aa d . j o
 radioaktywne	r a d . j o . a . k t yy v . n e
 Rady	r aa . d y
-rady	r aa . d y
 radzę	r aa . dz e
-radę	r aa . d e
 radę	r aa . d e
 Rajmundy	r a j . m uu n . d y
 rajskiej	r aa j . s c j e j
 rajzbret	r aa j z . b r e d
-rajzbret	r aa j z . b r e d
-rajzbret	r aa j z . b r e t
 rajzbret	r aa j z . b r e t
 raka	r aa . k a
 Rambo	r aa m . b o
 ramienia	r a m . j ee . ni a
 rana	r aa . n a
 randkę	r aa n . t k e
-randkę	r aa n . t k e
 rankingach	r a N_ . c ii N_ . g a x
 raporcie	r a . p oo r . tsi e
 ratownika	r a . t o v . ni ii . k a
 ratusz	r aa . t u rZ
-ratusz	r aa . t u rZ
-ratusz	r aa . t u Sz
 ratusz	r aa . t u Sz
 raz	r aa s
-raz	r aa s
-raz	r aa z
 raz	r aa z
 razem	r aa . z e m
 razy	r aa . z y
 Rańtuchem	r a ni . t uu . x e m
 reagować	r e . a . g oo . v a dzi
-reagować	r e . a . g oo . v a dzi
-reagować	r e . a . g oo . v a tsi
 reagować	r e . a . g oo . v a tsi
 reakcje	r e . aa . k ts j e
 Recepta	r e . ts ee . p t a
@@ -4358,7 +2261,6 @@ regulujących	r e . g u . l u . j oo n . ts y x
 reguły	r e . g uu . w y
 rejestracyjnego	r e . j e s . t r a . ts y j . n ee . g o
 rejonie	r e . j oo . ni e
-rejonie	r e . j oo . ni e
 reklamy	r e . k l aa . m y
 religijne	r e . l i . gi ii j . n e
 religią	r e . l ii . gi j o w_
@@ -4368,18 +2270,10 @@ reprymenda	r e . p r y . m ee n . d a
 restauracji	r e s . t a w . r aa . ts i
 restrykcyjnej	r e s . t r y . k ts yy j . n e j
 resztek	r ee Sz . t e g
-resztek	r ee Sz . t e g
-resztek	r ee Sz . t e g
-resztek	r ee Sz . t e g
-resztek	r ee Sz . t e k
-resztek	r ee Sz . t e k
-resztek	r ee Sz . t e k
 resztek	r ee Sz . t e k
 rewelacjami	r e . v e . l a . ts j aa . m i
 rezydencji	r e . z y . d ee n . ts i
 Robert	r oo . b e r d
-Robert	r oo . b e r d
-Robert	r oo . b e r t
 Robert	r oo . b e r t
 robotnikiem	r o . b o . t ni ii . c j e m
 rocznicy	r o . tSz ni ii . ts y
@@ -4387,44 +2281,28 @@ rodu	r oo . d u
 Rodzice	r o . dzi ii . ts e
 rodzicom	r o . dzi ii . ts o m
 rodziców	r o . dzi ii . ts u f
-rodziców	r o . dzi ii . ts u f
 rodziców	r o . dzi ii . ts u v
-rodziców	r o . dzi ii . ts u v
-Rodzina	r o . dzi ii . n a
 Rodzina	r o . dzi ii . n a
 rogówki	r o . g uu f . c i
 rok	r oo g
-rok	r oo g
 rok	r oo k
-rok	r oo k
-roku	r oo . k u
-roku	r oo . k u
-roku	r oo . k u
 roku	r oo . k u
 roli	r oo . l i
 rolnicy	r o l . ni ii . ts y
 Rolnik	r oo l . ni i g
-Rolnik	r oo l . ni i g
 Rolnik	r oo l . ni i k
-Rolnik	r oo l . ni i k
-romantyczną	r o . m a n . t yy . tSz n o w_
 romantyczną	r o . m a n . t yy . tSz n o w_
 Rosjanie	r o . s j aa . ni e
 rosną	r oo s . n o w_
 rosnące	r o s . n oo n . ts e
 rosołek	r o . s oo . w e g
-rosołek	r o . s oo . w e g
-rosołek	r o . s oo . w e k
 rosołek	r o . s oo . w e k
 rosyjskim	r o . s yy j . s c i m
 roszad	r oo . Sz a d
-roszad	r oo . Sz a d
-roszad	r oo . Sz a t
 roszad	r oo . Sz a t
 rottweilera	r o t . v a j . l ee . r a
 rowerkiem	r o . v ee r . c j e m
 Rowerzysta	r o . v e . rZ yy s . t a
-rozbrzmiewa	r o z . b rZ m j ee . v a
 rozbrzmiewa	r o z . b rZ m j ee . v a
 rozchwiewał	r o s . x f j ee . v a w
 rozcięty	r o s . tsi ee n . t y
@@ -4435,7 +2313,6 @@ rozmawiał	r o z . m aa v . j a w
 rozmiękczę	r o z . m j ee N_ . k tSz e
 rozmnażania	r o z . m n a . rZ aa . ni a
 Rozmnażanie	r o z . m n a . rZ aa . ni e
-rozmowę	r o z . m oo . v e
 rozmowę	r o z . m oo . v e
 rozochoconej	r o . z o . x o . ts oo . n e j
 rozpaczliwą	r o s . p a . tSz l ii . v o w_
@@ -4464,51 +2341,32 @@ rybaka	r y . b aa . k a
 rybka	r yy . p k a
 rydzy	r yy . dz y
 Rydzyk	r yy . dz y g
-Rydzyk	r yy . dz y g
-Rydzyk	r yy . dz y k
 Rydzyk	r yy . dz y k
 Rydzykiem	r y . dz yy . c j e m
 rynek	r yy . n e g
-rynek	r yy . n e g
-rynek	r yy . n e k
 rynek	r yy . n e k
 rynku	r yy N_ . k u
 rysować	r y . s oo . v a dzi
 rysować	r y . s oo . v a tsi
 rytuały	r y . t u . aa . w y
 rzecz	rZ ee drZ
-rzecz	rZ ee drZ
-rzecz	rZ ee drZ
-rzecz	rZ ee drZ
 rzecz	rZ ee tSz
-rzecz	rZ ee tSz
-rzecz	rZ ee tSz
-rzecz	rZ ee tSz
-rzeczowniki	rZ e . tSz o v . ni ii . c i
 rzeczowniki	rZ e . tSz o v . ni ii . c i
 Rzeczpospolita	rZ e . tSz p o s . p o . l ii . t a
 rzeczy	rZ ee . tSz y
 rzeki	rZ ee . c i
-rzeką	rZ ee . k o w_
 rzeką	rZ ee . k o w_
 rządowi	rZ o n . d oo . v i
 różnego	r u rZ . n ee . g o
 różnorodne	r u rZ . n o . r oo . d n e
 różnych	r uu rZ . n y x
 różyczkę	r u . rZ yy . tSz k e
-różyczkę	r u . rZ yy . tSz k e
-różyczkę	r u . rZ yy . tSz k e
-rączkę	r oo n . tSz k e
 rączkę	r oo n . tSz k e
 ręce	r ee n . ts e
 ręcznie	r ee n . tSz ni e
 s	s
-s	s
-s	z
 s	z
 sadowników	s a . d a w . ni ii . k u f
-sadowników	s a . d a w . ni ii . k u f
-sadowników	s a . d a w . ni ii . k u v
 sadowników	s a . d a w . ni ii . k u v
 salę	s aa . l e
 sam	s aa m
@@ -4517,25 +2375,18 @@ samo	s aa . m o
 samobójstwo	s a . m o . b uu j . s t f o
 samochodzie	s a . m o . x oo . dzi e
 samochodów	s a . m o . x oo . d u f
-samochodów	s a . m o . x oo . d u f
-samochodów	s a . m o . x oo . d u v
 samochodów	s a . m o . x oo . d u v
 samoczynnego	s a . m o . tSz y . n n ee . g o
 Samoobrony	s a . m o . o . b r oo . n y
 samych	s aa . m y x
 samym	s aa . m y m
 sanatoriumW	s a . n a . t oo r . j u w_ f
-sanatoriumW	s a . n a . t oo r . j u w_ f
-sanatoriumW	s a . n a . t oo r . j u w_ v
 sanatoriumW	s a . n a . t oo r . j u w_ v
 saper	s aa . p e r
 Sarny	s aa r . n y
 satelit	s a . t ee . l i d
-satelit	s a . t ee . l i d
-satelit	s a . t ee . l i t
 satelit	s a . t ee . l i t
 scena	s ts ee . n a
-sceny	s ts ee . n y
 sceny	s ts ee . n y
 schorzenia	s x o . rZ ee . ni a
 schorzeniem	s x o . rZ ee . ni e m
@@ -4547,164 +2398,33 @@ sen	s ee n
 seniorami	s e . ni o . r aa . m i
 ser	s ee r
 serbską	s ee r . p s k o w_
-serbską	s ee r . p s k o w_
-serialu	s e r . j aa . l u
 serialu	s e r . j aa . l u
 serie	s ee r . j e
-serwisie	s e r . v ii . si e
 serwisie	s e r . v ii . si e
 seryjny	s e . r yy j . n y
 sezonu	s e . z oo . n u
 siatkarz	si aa . t k a rZ
-siatkarz	si aa . t k a rZ
-siatkarz	si aa . t k a Sz
 siatkarz	si aa . t k a Sz
 siedemnastego	si e . d e m . n a s . t ee . g o
 siedemnasty	si e . d e m . n aa s . t y
 siedemnaście	si e . d e m . n aa si . tsi e
 siedmioletnich	si e d . m j o . l ee . t ni i x
-siedmioletnich	si e d . m j o . l ee . t ni i x
-Siedmioro	si e d . m j oo . r o
 Siedmioro	si e d . m j oo . r o
 siedzi	si ee . dzi i
 siedzibę	si e . dzi ii . b e
-siedzibę	si e . dzi ii . b e
 siedząc	si ee . dz o n dz
-siedząc	si ee . dz o n dz
-siedząc	si ee . dz o n dz
-siedząc	si ee . dz o n dz
-siedząc	si ee . dz o n ts
-siedząc	si ee . dz o n ts
-siedząc	si ee . dz o n ts
 siedząc	si ee . dz o n ts
 sielanką	si e . l aa N_ . k o w_
-sielanką	si e . l aa N_ . k o w_
 Siergiejewicz	si e r . gi j e . j ee . v i drZ
-Siergiejewicz	si e r . gi j e . j ee . v i drZ
-Siergiejewicz	si e r . gi j e . j ee . v i tSz
 Siergiejewicz	si e r . gi j e . j ee . v i tSz
 sikhijski	si i . k x ii j . s c i
 sile	s ii . l e
 silników	si i l . ni ii . k u f
-silników	si i l . ni ii . k u f
-silników	si i l . ni ii . k u v
 silników	si i l . ni ii . k u v
 Silvy	si ii l . v y
 siniaki	si i . ni aa . c i
 siostry	si oo s . t r y
 się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-się	si e
-siły	si ii . w y
 siły	si ii . w y
 skandalu	s k a n . d aa . l u
 Skarbu	s k aa r . b u
@@ -4712,21 +2432,13 @@ skazał	s k aa . z a w
 skazie	s k aa . zi e
 skierowana	s c j e . r o . v aa . n a
 skierował	s c j e . r oo . v a w
-skierował	s c j e . r oo . v a w
-sklep	s k l ee b
 sklep	s k l ee b
 sklep	s k l ee p
-sklep	s k l ee p
-sklepu	s k l ee . p u
 sklepu	s k l ee . p u
 sklepów	s k l ee . p u f
-sklepów	s k l ee . p u f
-sklepów	s k l ee . p u v
 sklepów	s k l ee . p u v
 skoku	s k oo . k u
 skończ	s k oo ni drZ
-skończ	s k oo ni drZ
-skończ	s k oo ni tSz
 skończ	s k oo ni tSz
 skończyć	s k oo ni . tSz y dzi
 skończyć	s k oo ni . tSz y tsi
@@ -4736,65 +2448,38 @@ Skry	s k r yy
 skrzynki	s k Sz yy N_ . c i
 skunksa	s k uu N_ . k s a
 skurcz	s k uu r drZ
-skurcz	s k uu r drZ
-skurcz	s k uu r tSz
 skurcz	s k uu r tSz
 skutkiem	s k uu . t c j e m
 skwierczał	s k f j ee r . tSz a w
 skórą	s k uu . r o w_
-skórą	s k uu . r o w_
 składniki	s k w a . d ni ii . c i
 Slajd	s l aa j d
-Slajd	s l aa j d
-Slajd	s l aa j t
 Slajd	s l aa j t
 slowo	s l oo . v o
-slowo	s l oo . v o
-smakuje	s m a . k uu . j e
 smakuje	s m a . k uu . j e
 smażeniem	s m a . rZ ee . ni e m
 Smerfetka	s m e r . f ee . t k a
 smerfne	s m ee r . f n e
 smoków	s m oo . k u f
-smoków	s m oo . k u f
-smoków	s m oo . k u v
 smoków	s m oo . k u v
 snach	s n aa x
 sobie	s oo . b j e
-sobie	s oo . b j e
-sobie	s oo . b j e
-sobie	s oo . b j e
-sobie	s oo . b j e
-sobie	s oo . b j e
-sobie	s oo . b j e
-sobie	s oo . b j e
-sobą	s oo . b o w_
 sobą	s oo . b o w_
 socjalnych	s o . ts j aa l . n y x
 softball	s oo f d . b a l
 sok	s oo g
-sok	s oo g
-sok	s oo k
 sok	s oo k
 soków	s oo . k u f
-soków	s oo . k u f
-soków	s oo . k u v
 soków	s oo . k u v
 solidnego	s o . l i . d n ee . g o
 sondami	s o n . d aa . m i
 sondażach	s o n . d aa . rZ a x
 Sopot	s oo . p o d
-Sopot	s oo . p o d
-Sopot	s oo . p o t
 Sopot	s oo . p o t
 sos	s oo s
-sos	s oo s
-sos	s oo z
 sos	s oo z
 sosy	s oo . s y
 sołectw	s oo . w e dz d v
-sołectw	s oo . w e dz d v
-sołectw	s oo . w e ts t f
 sołectw	s oo . w e ts t f
 spacer	s p aa . ts e r
 spaceruje	s p a . ts e . r uu . j e
@@ -4812,31 +2497,13 @@ sportsmenki	s p o r t s . m ee N_ . c i
 sposobem	s p o . s oo . b e m
 spostrzegłam	s p o s . t Sz ee . g w a m
 sposób	s p oo . s u b
-sposób	s p oo . s u b
-sposób	s p oo . s u b
-sposób	s p oo . s u b
-sposób	s p oo . s u b
-sposób	s p oo . s u b
-sposób	s p oo . s u p
-sposób	s p oo . s u p
-sposób	s p oo . s u p
-sposób	s p oo . s u p
-sposób	s p oo . s u p
 sposób	s p oo . s u p
 spotkał	s p oo . t k a w
 spotkała	s p o . t k aa . w a
 Spośród	s p oo . si r u d
-Spośród	s p oo . si r u d
-spośród	s p oo . si r u d
-spośród	s p oo . si r u d
 Spośród	s p oo . si r u t
-Spośród	s p oo . si r u t
-spośród	s p oo . si r u t
-spośród	s p oo . si r u t
 spożywanie	s p o . rZ y . v aa . ni e
 Spraw	s p r aa f
-Spraw	s p r aa f
-Spraw	s p r aa v
 Spraw	s p r aa v
 Sprawcy	s p r aa f . ts y
 sprawdza	s p r aa v . dz a
@@ -4845,27 +2512,16 @@ sprawdzianu	s p r a v . dzi aa . n u
 sprawdził	s p r aa v . dzi i w
 sprawiają	s p r a v . j aa . j o w_
 sprawy	s p r aa . v y
-sprawy	s p r aa . v y
-sprawy	s p r aa . v y
 sprzecznych	s p Sz ee . tSz n y x
 sprzedają	s p Sz e . d aa . j o w_
 sprzedawane	s p Sz e . d a . v aa . n e
 sprzedawanych	s p Sz e . d a . v aa . n y x
 sprzedał	s p Sz ee . d a w
-sprzedał	s p Sz ee . d a w
 sprzątania	s p Sz o n . t aa . ni a
 sprzęt	s p Sz ee n d
-sprzęt	s p Sz ee n d
-sprzęt	s p Sz ee n d
-sprzęt	s p Sz ee n d
-sprzęt	s p Sz ee n t
-sprzęt	s p Sz ee n t
-sprzęt	s p Sz ee n t
 sprzęt	s p Sz ee n t
 Spróbuj	s p r uu . b u j
-spróbuj	s p r uu . b u j
 Spór	s p uu r
-spór	s p uu r
 Spółgłoski	s p u w . g w oo s . c i
 spółka	s p uu w . k a
 spędził	s p ee ni . dzi i w
@@ -4878,16 +2534,12 @@ stadium	s t aa d . j u m
 stan	s t aa n
 stanach	s t aa . n a x
 Stanisław	s t a . ni ii . s w a f
-Stanisław	s t a . ni ii . s w a f
-Stanisław	s t a . ni ii . s w a v
 Stanisław	s t a . ni ii . s w a v
 stanął	s t aa . n o w
 Staraj	s t aa . r a j
 starają	s t a . r aa . j o w_
 starał	s t aa . r a w
 starcow	s t aa r . ts o f
-starcow	s t aa r . ts o f
-starcow	s t aa r . ts o v
 starcow	s t aa r . ts o v
 stare	s t aa . r e
 staroświeccy	s t a . r o . si f j ee . ts ts y
@@ -4899,11 +2551,8 @@ statku	s t aa . t k u
 stawiał	s t aa v . j a w
 stawu	s t aa . v u
 stał	s t aa w
-stał	s t aa w
 stała	s t aa . w a
 stałej	s t aa . w e j
-stałej	s t aa . w e j
-stało	s t aa . w o
 stało	s t aa . w o
 stały	s t aa . w y
 Stephane	s t e . p x aa . n e
@@ -4913,12 +2562,8 @@ stopień	s t oo . p j e ni
 stopnia	s t oo . p ni a
 stopy	s t oo . p y
 stopów	s t oo . p u f
-stopów	s t oo . p u f
-stopów	s t oo . p u v
 stopów	s t oo . p u v
 stormtrap	s t oo r m . t r a b
-stormtrap	s t oo r m . t r a b
-stormtrap	s t oo r m . t r a p
 stormtrap	s t oo r m . t r a p
 strachu	s t r aa . x u
 straszną	s t r aa Sz . n o w_
@@ -4927,11 +2572,8 @@ strategicznej	s t r a . t e . gi ii . tSz n e j
 Straży	s t r aa . rZ y
 strefie	s t r ee . f j e
 strmberk	s t r m b ee r g
-strmberk	s t r m b ee r g
-strmberk	s t r m b ee r k
 strmberk	s t r m b ee r k
 stron	s t r oo n
-strona	s t r oo . n a
 strona	s t r oo . n a
 stronie	s t r oo . ni e
 stronniczy	s t r o . ni ni ii . tSz y
@@ -4943,8 +2585,6 @@ studenckie	s t u . d ee n . ts c j e
 studentki	s t u . d ee n . t c i
 studiach	s t uu d . j a x
 studiów	s t uu d . j u f
-studiów	s t uu d . j u f
-studiów	s t uu d . j u v
 studiów	s t uu d . j u v
 Stuttgardzkiej	s t u t d . g aa r ts . c j e j
 stworzenia	s t f o . rZ ee . ni a
@@ -4953,22 +2593,14 @@ stworzył	s t f oo . rZ y w
 stylach	s t yy . l a x
 stymulacji	s t y . m u . l aa . ts i
 stąd	s t oo n d
-stąd	s t oo n d
-stąd	s t oo n t
 stąd	s t oo n t
 Subdiakon	s u b . d j aa . k o n
 subskrypcji	s u p s . k r yy . p ts i
-subskrypcji	s u p s . k r yy . p ts i
-substancji	s u . p s t aa n . ts i
-substancji	s u . p s t aa n . ts i
-substancji	s u . p s t aa n . ts i
 substancji	s u . p s t aa n . ts i
 suchy	s uu . x y
 sucre	s uu . ts r e
 sufitowego	s u . f i . t o . v ee . g o
 sugerując	s u . g e . r uu . j o n dz
-sugerując	s u . g e . r uu . j o n dz
-sugerując	s u . g e . r uu . j o n ts
 sugerując	s u . g e . r uu . j o n ts
 sukience	s u . c j ee n . ts e
 sulfonamidy	s u l . f o . n a . m ii . d y
@@ -4977,35 +2609,18 @@ superkrótkoogniskowy	s u . p e r . k r u . t k o . o . g ni i s . k oo . v y
 swiatowej	s f j a . t oo . v e j
 swobodnie	s f o . b oo . d ni e
 swoich	s f oo . i x
-swoich	s f oo . i x
-swoich	s f oo . i x
-swoich	s f oo . i x
 Swoim	s f oo . i m
-swoim	s f oo . i m
-swoim	s f oo . i m
-swoim	s f oo . i m
 swoimi	s f o . ii . m i
 swoje	s f oo . j e
 swojego	s f o . j ee . g o
-swojego	s f o . j ee . g o
-swojego	s f o . j ee . g o
-swojego	s f o . j ee . g o
 swojej	s f oo . j e j
-swojej	s f oo . j e j
-swoją	s f oo . j o w_
 swoją	s f oo . j o w_
 swym	s f yy m
-swój	s f uu j
-swój	s f uu j
-swój	s f uu j
 swój	s f uu j
 syberyjskiej	s y . b e . r yy j . s c j e j
 syczże	s yy . drZ rZ e
 syna	s yy . n a
-syna	s yy . n a
 System	s yy s . t e m
-system	s yy s . t e m
-system	s yy s . t e m
 systemie	s y s . t ee m . j e
 systemu	s y s . t ee . m u
 sytuacji	s y . t u . aa . ts i
@@ -5014,24 +2629,18 @@ szal	Sz aa l
 szampańskiej	Sz a m . p aa j_ . s c j e j
 szansy	Sz aa w_ . s y
 szansę	Sz aa w_ . s e
-szansę	Sz aa w_ . s e
 szantowa	Sz a n . t oo . v a
 Szare	Sz aa . r e
-szarą	Sz aa . r o w_
 szarą	Sz aa . r o w_
 szał	Sz aa w
 szczeblach	Sz tSz ee . b l a x
 szczerze	Sz tSz ee . rZ e
-szczęśliwie	Sz tSz e w_ . si l ii v . j e
-szczęśliwie	Sz tSz e w_ . si l ii v . j e
 szczęśliwie	Sz tSz e w_ . si l ii v . j e
 szefa	Sz ee . f a
 szersze	Sz ee r . Sz e
 szesnastym	Sz e s . n aa s . t y m
 szesnaście	Sz e s . n aa si . tsi e
 sześć	Sz ee si tsi
-sześć	Sz ee si tsi
-sześć	Sz ee zi dzi
 sześć	Sz ee zi dzi
 sześćdziesiątych	Sz e zi . dzi e . si oo n . t y x
 sześćkroć	Sz ee si tsi . k r o dzi
@@ -5043,8 +2652,6 @@ szkoły	Sz k oo . w y
 szmal	Sz m aa l
 szorstkie	Sz oo r s . t c j e
 szparkę	Sz p aa r . k e
-szparkę	Sz p aa r . k e
-szpulkę	Sz p uu l . k e
 szpulkę	Sz p uu l . k e
 szranki	Sz r aa N_ . c i
 sztokholmskim	Sz t o . k x oo l m . s c i m
@@ -5055,37 +2662,14 @@ sztumski	Sz t uu m . s c i
 szturchnął	Sz t uu r . x n o w
 szum	Sz uu m
 szwoleżerów	Sz f o . l e . rZ ee . r u f
-szwoleżerów	Sz f o . l e . rZ ee . r u f
-szwoleżerów	Sz f o . l e . rZ ee . r u v
 szwoleżerów	Sz f o . l e . rZ ee . r u v
 szybko	Sz yy . p k o
 szykowało	Sz y . k o . v aa . w o
 szyć	Sz yy dzi
-szyć	Sz yy dzi
-szyć	Sz yy tsi
 szyć	Sz yy tsi
 szóstego	Sz u s . t ee . g o
 są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
-są	s oo w_
 sąd	s oo n d
-sąd	s oo n d
-sąd	s oo n t
 sąd	s oo n t
 sąsiada	s o w_ . si aa . d a
 sąsiadami	s o w_ . si a . d aa . m i
@@ -5095,233 +2679,79 @@ słonecznych	s w o . n ee . tSz n y x
 słonko	s w oo N_ . k o
 słowa	s w oo . v a
 słowo	s w oo . v o
-słowo	s w oo . v o
 słońca	s w oo ni . ts a
 słuchacza	s w u . x aa . tSz a
 służbie	s w uu rZ . b j e
 służby	s w uu rZ . b y
 służbę	s w uu rZ . b e
-służbę	s w uu rZ . b e
 słychać	s w yy . x a dzi
-słychać	s w yy . x a dzi
-słychać	s w yy . x a tsi
 słychać	s w yy . x a tsi
 Słyszałam	s w y . Sz aa . w a m
 słyszałem	s w y . Sz aa . w e m
 Słyszałeś	s w y . Sz aa . w e si
-Słyszałeś	s w y . Sz aa . w e si
-Słyszałeś	s w y . Sz aa . w e zi
 Słyszałeś	s w y . Sz aa . w e zi
 słyszymy	s w y . Sz yy . m y
 t	d
-t	d
 t	t
-t	t
-Ta	t aa
 Ta	t aa
 tabelce	t a . b ee l . ts e
 tajdze	t aa j . dz e
 tajgi	t aa . j gi i
 tak	t aa g
-tak	t aa g
-tak	t aa g
-tak	t aa g
-tak	t aa g
-tak	t aa g
-tak	t aa g
-tak	t aa g
-tak	t aa k
-tak	t aa k
-tak	t aa k
-tak	t aa k
-tak	t aa k
-tak	t aa k
-tak	t aa k
 tak	t aa k
 takich	t aa . c i x
-takie	t aa . c j e
 takie	t aa . c j e
 takiego	t a . c j ee . g o
 takiej	t aa . c j e j
 taksiarz	t aa . k si a rZ
-taksiarz	t aa . k si a rZ
-taksiarz	t aa . k si a Sz
 taksiarz	t aa . k si a Sz
 taktycznymi	t a . k t y . tSz n yy . m i
 także	t aa . g rZ e
 talent	t aa . l e n d
-talent	t aa . l e n d
 talent	t aa . l e n t
-talent	t aa . l e n t
-tam	t aa m
-tam	t aa m
 tam	t aa m
 tamtego	t a m . t ee . g o
 tamtych	t aa m . t y x
 tarcz	t aa r drZ
-tarcz	t aa r drZ
-tarcz	t aa r tSz
 tarcz	t aa r tSz
 Tata	t aa . t a
 tańszej	t aa j_ . Sz e j
 tchórzNa	t x uu rZ . n a
 Te	t ee
-te	t ee
-te	t ee
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
-tego	t ee . g o
 tego	t ee . g o
 Teheranu	t e . x e . r aa . n u
 Tej	t e j
-tej	t e j
-tej	t e j
-tej	t e j
-tej	t e j
-tej	t e j
-tej	t e j
-tej	t e j
 telefonu	t e . l e . f oo . n u
 Telemarketerka	t e . l e . m a r . k e . t ee r . k a
-telewizji	t e . l e . v ii . z i
 telewizji	t e . l e . v ii . z i
 telewizję	t e . l e . v ii z . j e
 telewizyjnym	t e . l e . v i . z yy j . n y m
 temat	t ee . m a d
-temat	t ee . m a d
-temat	t ee . m a d
-temat	t ee . m a d
-temat	t ee . m a t
-temat	t ee . m a t
-temat	t ee . m a t
 temat	t ee . m a t
 temu	t ee . m u
-temu	t ee . m u
 Ten	t ee n
-Ten	t ee n
-Ten	t ee n
-Ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
-ten	t ee n
 tenis	t ee . ni i s
-tenis	t ee . ni i s
-tenis	t ee . ni i z
 tenis	t ee . ni i z
 teorią	t e . oo r . j o w_
 teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a s
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
-teraz	t ee . r a z
 teraz	t ee . r a z
 termin	t ee r . m i n
 terytorialną	t e . r y . t o r . j aa l . n o w_
 teściową	t e si . tsi oo . v o w_
-teściową	t e si . tsi oo . v o w_
 też	t e rZ
-też	t e rZ
-też	t e rZ
-też	t e rZ
-też	t e rZ
-też	t e rZ
-też	t e rZ
-też	t e Sz
-też	t e Sz
-też	t e Sz
-też	t e Sz
-też	t e Sz
-też	t e Sz
 też	t e Sz
 tkaniny	t k a . ni ii . n y
 tkankę	t k aa N_ . k e
-tkankę	t k aa N_ . k e
 tkwią	t k f j oo w_
 To	t o
-To	t o
-To	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
-to	t o
 to	t oo
 toalecie	t o . a . l ee . tsi e
 tobie	t oo . b j e
 todze	t oo . dz e
 toksyn	t oo . k s y n
 Tomasz	t oo . m a rZ
-Tomasz	t oo . m a rZ
-Tomasz	t oo . m a Sz
 Tomasz	t oo . m a Sz
 Tomek	t oo . m e g
-Tomek	t oo . m e g
-Tomek	t oo . m e k
 Tomek	t oo . m e k
 tortu	t oo r . t u
 toruniu	t o . r uu . ni u
@@ -5337,12 +2767,8 @@ trawie	t r aa v . j e
 tresurze	t r e . s uu . rZ e
 triumfie	t r i . j uu w_ . f j e
 trubadurów	t r u . b a . d uu . r u f
-trubadurów	t r u . b a . d uu . r u f
-trubadurów	t r u . b a . d uu . r u v
 trubadurów	t r u . b a . d uu . r u v
 Trudno	t r uu . d n o
-trudno	t r uu . d n o
-trudno	t r uu . d n o
 TRWAM	t r f aa m
 trzaskajacym	t Sz a s . k a . j aa . ts y m
 trzasnął	t Sz aa s . n o w
@@ -5350,8 +2776,6 @@ Trzeba	t Sz ee . b a
 Trzecim	t Sz ee . tsi i m
 trzydniowy	t Sz y . d ni oo . v y
 trójdźwięk	t r uu j . dzi v j e N_ g
-trójdźwięk	t r uu j . dzi v j e N_ g
-trójdźwięk	t r uu j . dzi v j e N_ k
 trójdźwięk	t r uu j . dzi v j e N_ k
 trójki	t r uu j . c i
 trójzmianowym	t r u j . z m j a . n oo . v y m
@@ -5360,56 +2784,23 @@ tundry	t uu n . d r y
 turystycznego	t u . r y s . t y . tSz n ee . g o
 tutaj	t uu . t a j
 twarz	t f aa rZ
-twarz	t f aa rZ
-twarz	t f aa rZ
-twarz	t f aa rZ
-twarz	t f aa Sz
-twarz	t f aa Sz
-twarz	t f aa Sz
 twarz	t f aa Sz
 twarzy	t f aa . rZ y
-twarzy	t f aa . rZ y
 twierdząc	t f j ee r . dz o n dz
-twierdząc	t f j ee r . dz o n dz
-twierdząc	t f j ee r . dz o n ts
 twierdząc	t f j ee r . dz o n ts
 twoich	t f oo . i x
 Twoja	t f oo . j a
 Twoje	t f oo . j e
-Twoje	t f oo . j e
 twórczością	t f u r . tSz oo si . tsi o w_
 tych	t y x
 tydzień	t yy . dzi e ni
-tydzień	t yy . dzi e ni
 tygodnie	t y . g oo . d ni e
 tylko	t yy l . k o
-tylko	t yy l . k o
-tylko	t yy l . k o
-tylko	t yy l . k o
-tylko	t yy l . k o
-tylko	t yy l . k o
-tylko	t yy l . k o
-tym	t y m
-tym	t y m
-tym	t y m
-tym	t y m
-tym	t y m
-tym	t y m
-tym	t y m
 tym	t y m
 typ	t yy b
-typ	t yy b
-typ	t yy b
-typ	t yy b
 typ	t yy p
-typ	t yy p
-typ	t yy p
-typ	t yy p
-typu	t yy . p u
-typu	t yy . p u
 typu	t yy . p u
 typuA	t y . p uu . a
-tysiące	t y . si oo n . ts e
 tysiące	t y . si oo n . ts e
 tysiączłotowe	t y . si o n ts . z w o . t oo . v e
 tysiączłotówkach	t y . si o n ts . z w o . t uu f . k a x
@@ -5420,16 +2811,9 @@ tą	t oo w_
 tęskliwa	t e w_ . s k l ii . v a
 tęsknoty	t e w_ . s k n oo . t y
 tęsknotę	t e w_ . s k n oo . t e
-tęsknotę	t e w_ . s k n oo . t e
-tęsknotę	t e w_ . s k n oo . t e
-tęsknotę	t e w_ . s k n oo . t e
 tłumaczą	t w u . m aa . tSz o w_
 tłuszcz	t w uu rZ drZ
-tłuszcz	t w uu rZ drZ
 tłuszcz	t w uu Sz tSz
-tłuszcz	t w uu Sz tSz
-u	u
-u	u
 u	u
 ubiegłego	u . b j e . g w ee . g o
 ubrana	u . b r aa . n a
@@ -5441,8 +2825,6 @@ uchodzi	u . x oo . dzi i
 uchodźcy	u . x oo . tsi ts y
 uchodźstwo	u . x oo . tsi s t f o
 uchwyt	uu . x f y d
-uchwyt	uu . x f y d
-uchwyt	uu . x f y t
 uchwyt	uu . x f y t
 uciecze	u . tsi ee . tSz e
 uciekać	u . tsi ee . k a dzi
@@ -5450,46 +2832,31 @@ uciekać	u . tsi ee . k a tsi
 uczciwym	u . tSz tsi ii . v y m
 uczucia	u . tSz uu . tsi a
 uczynić	u . tSz yy . ni i dzi
-uczynić	u . tSz yy . ni i dzi
-uczynić	u . tSz yy . ni i tsi
 uczynić	u . tSz yy . ni i tsi
 uczęszczanych	u . tSz e w_ . Sz tSz aa . n y x
 udaj	uu . d a j
 udało	u . d aa . w o
-udało	u . d aa . w o
-udało	u . d aa . w o
-udział	uu . dzi a w
-udział	uu . dzi a w
 udział	uu . dzi a w
 Udzielam	u . dzi ee . l a m
 udławił	u . d w aa . v i w
 UE	uu . e
 Ujeżdżacz	u . j ee rZ . drZ a drZ
-Ujeżdżacz	u . j ee rZ . drZ a drZ
-Ujeżdżacz	u . j ee rZ . drZ a tSz
 Ujeżdżacz	u . j ee rZ . drZ a tSz
 ukazała	u . k a . z aa . w a
 ukradła	u . k r aa . d w a
 ukryćTysiąckrotnie	u k r y tsi t y si o n ts k r o t ni e
 Układ	uu . k w a d
-Układ	uu . k w a d
-Układ	uu . k w a t
 Układ	uu . k w a t
 układu	u . k w aa . d u
 ulamka	u . l aa m . k a
 ulegali	u . l e . g aa . l i
 ulicami	u . l i . ts aa . m i
 ulicy	u . l ii . ts y
-ulicy	u . l ii . ts y
-ulicy	u . l ii . ts y
-ulicą	u . l ii . ts o w_
 ulicą	u . l ii . ts o w_
 ulotce	u . l oo . t ts e
 ulubiona	u . l u . b j oo . n a
 Umazał	u . m aa . z a w
 umiejętność	u m . j e . j ee n . t n o si tsi
-umiejętność	u m . j e . j ee n . t n o si tsi
-umiejętność	u m . j e . j ee n . t n o zi dzi
 umiejętność	u m . j e . j ee n . t n o zi dzi
 Umierała	u m . j e . r aa . w a
 umożliwiło	u . m o . rZ l i . v ii . w o
@@ -5504,734 +2871,57 @@ uprawiają	u . p r a v . j aa . j o w_
 uprawiających	u . p r a v . j a . j oo n . ts y x
 uprawiam	u . p r aa v . j a m
 uprawiałeś	u . p r a v . j aa . w e si
-uprawiałeś	u . p r a v . j aa . w e si
-uprawiałeś	u . p r a v . j aa . w e zi
 uprawiałeś	u . p r a v . j aa . w e zi
 uprawnieniem	u . p r a v . ni ee . ni e m
 uratowało	u . r a . t o . v aa . w o
 urlop	uu r . l o b
-urlop	uu r . l o b
 urlop	uu r . l o p
-urlop	uu r . l o p
-urodzin	u . r oo . dzi i n
 urodzin	u . r oo . dzi i n
 urodził	u . r oo . dzi i w
 urządzenia	u . rZ o n . dz ee . ni a
 urządzenie	u . rZ o n . dz ee . ni e
 urzędnik	u . rZ ee n . d ni i g
-urzędnik	u . rZ ee n . d ni i g
-urzędnik	u . rZ ee n . d ni i k
 urzędnik	u . rZ ee n . d ni i k
 urzędnikom	u . rZ e n . d ni ii . k o m
 urzędzie	u . rZ ee ni . dzi e
 ustawy	u s . t aa . v y
 ustępuje	u s . t e m . p uu . j e
 uszatek	u . Sz aa . t e g
-uszatek	u . Sz aa . t e g
-uszatek	u . Sz aa . t e k
 uszatek	u . Sz aa . t e k
 uszczkniesz	uu Sz tSz . k ni e rZ
-uszczkniesz	uu Sz tSz . k ni e rZ
-uszczkniesz	uu Sz tSz . k ni e Sz
 uszczkniesz	uu Sz tSz . k ni e Sz
 uszczknąć	uu Sz tSz . k n o ni dzi
 uszczknąć	uu Sz tSz . k n o ni tsi
 usług	uu . s w u g
-usług	uu . s w u g
-usług	uu . s w u g
-usług	uu . s w u g
-usług	uu . s w u k
-usług	uu . s w u k
-usług	uu . s w u k
 usług	uu . s w u k
 usłyszał	u . s w yy . Sz a w
 usłyszałem	u . s w y . Sz aa . w e m
-usłyszałem	u . s w y . Sz aa . w e m
-usłyszałem	u . s w y . Sz aa . w e m
-usłyszą	u . s w yy . Sz o w_
 usłyszą	u . s w yy . Sz o w_
 Utrecht	uu . t r e x d
-Utrecht	uu . t r e x d
-Utrecht	uu . t r e x t
 Utrecht	uu . t r e x t
 utrzymania	u . t Sz y . m aa ni . j a
 utęsknieniem	u . t e w_ . s k ni ee . ni e m
 uwagi	u . v aa . gi i
 uwagę	u . v aa . g e
-uwagę	u . v aa . g e
 uwielbiają	u v . j e l . b j aa . j o w_
 uwięził	u v . j ee j_ . zi i w
 uwzględniono	u . v z g l e n . d ni oo . n o
 uzbrojenia	u z . b r o . j ee . ni a
-uzbrojenia	u z . b r o . j ee . ni a
 uzdolnieni	u z . d o l . ni ee . ni i
 uznaje	u z . n aa . j e
 uzyskał	u . z yy s . k a w
-uzyskał	u . z yy s . k a w
-uzyskał	u . z yy s . k a w
-użytkowego	u . rZ y . t k o . v ee . g o
 użytkowego	u . rZ y . t k o . v ee . g o
 użytkowników	u . rZ y . t k o v . ni ii . k u f
-użytkowników	u . rZ y . t k o v . ni ii . k u f
-użytkowników	u . rZ y . t k o v . ni ii . k u v
 użytkowników	u . rZ y . t k o v . ni ii . k u v
 używane	u . rZ y . v aa . n e
 vrrr	v r r r
 W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-W	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
-w	f
 W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-W	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-w	v
-wadę	v aa . d e
 wadę	v aa . d e
 wakacje	v a . k aa . ts j e
-wakacje	v a . k aa . ts j e
-walczyć	v aa l . tSz y dzi
 walczyć	v aa l . tSz y dzi
 walczyć	v aa l . tSz y tsi
-walczyć	v aa l . tSz y tsi
 walki	v aa l . c i
-walki	v aa l . c i
-walkę	v aa l . k e
 walkę	v aa l . k e
 walutą	v a . l uu . t o w_
 wam	v aa m
@@ -6240,17 +2930,11 @@ warczy	v aa r . tSz y
 warstwa	v aa r . s t f a
 warta	v aa r . t a
 Warwick	v aa r . v i dz g
-Warwick	v aa r . v i dz g
-Warwick	v aa r . v i ts k
 Warwick	v aa r . v i ts k
 wasz	v a rZ
-wasz	v a rZ
-wasz	v a Sz
 wasz	v a Sz
 waszymi	v a . Sz yy . m i
 wałów	v aa . w u f
-wałów	v aa . w u f
-wałów	v aa . w u v
 wałów	v aa . w u v
 ważne	v aa rZ . n e
 ważnością	v a rZ . n oo si . tsi o w_
@@ -6260,22 +2944,10 @@ wcale	f ts aa . l e
 wchłania	f x w aa . ni a
 wcześniej	f tSz ee si . ni e j
 Wczoraj	f tSz oo . r a j
-Wczoraj	f tSz oo . r a j
-wczoraj	f tSz oo . r a j
-wczoraj	f tSz oo . r a j
-wczoraj	f tSz oo . r a j
-wczoraj	f tSz oo . r a j
-wczoraj	f tSz oo . r a j
 wdrożyło	v d r o . rZ yy . w o
 Wdzydze	v dz yy . dz e
 we	v e
-we	v e
-we	v e
-we	v e
-we	v e
 według	v ee . d w u g
-według	v ee . d w u g
-według	v ee . d w u k
 według	v ee . d w u k
 wegetatywne	v e . g e . t a . t yy v . n e
 Wejście	v ee j . si tsi e
@@ -6286,8 +2958,6 @@ westchną	v ee s . t x n o w_
 westchnęła	v e s . t x n ee . w a
 weterynarzem	v e . t e . r y . n aa . rZ e m
 wewnątrz	v ee v . n o n drZ
-wewnątrz	v ee v . n o n drZ
-wewnątrz	v ee v . n o n tSz
 wewnątrz	v ee v . n o n tSz
 wewnątrzkrajowych	v e v . n o n tSz . k r a . j oo . v y x
 Wewnątrzsieciowe	v e v . n o n tSz . si e . tsi oo . v e
@@ -6299,12 +2969,8 @@ wewnętrzny	v e v . n ee n . tSz n y
 wełniane	v e w . ni aa . n e
 wiary	v j aa . r y
 wiatr	v j aa d r
-wiatr	v j aa d r
-wiatr	v j aa t r
 wiatr	v j aa t r
 widać	v ii . d a dzi
-widać	v ii . d a dzi
-widać	v ii . d a tsi
 widać	v ii . d a tsi
 widoczność	v i . d oo . tSz n o si tsi
 widoczność	v i . d oo . tSz n o zi dzi
@@ -6312,28 +2978,15 @@ widze	v ii . dz e
 Widział	v ii . dzi a w
 Widziałam	v i . dzi aa . w a m
 widziałaś	v i . dzi aa . w a si
-widziałaś	v i . dzi aa . w a si
-widziałaś	v i . dzi aa . w a zi
 widziałaś	v i . dzi aa . w a zi
 Widziałeś	v i . dzi aa . w e si
-Widziałeś	v i . dzi aa . w e si
-Widziałeś	v i . dzi aa . w e zi
 Widziałeś	v i . dzi aa . w e zi
 Widząc	v ii . dz o n dz
-Widząc	v ii . dz o n dz
-widząc	v ii . dz o n dz
-widząc	v ii . dz o n dz
 Widząc	v ii . dz o n ts
-Widząc	v ii . dz o n ts
-widząc	v ii . dz o n ts
-widząc	v ii . dz o n ts
-widzę	v ii . dz e
 widzę	v ii . dz e
 wieczną	v j ee . tSz n o w_
 wieczorami	v j e . tSz o . r aa . m i
 wieczorek	v j e . tSz oo . r e g
-wieczorek	v j e . tSz oo . r e g
-wieczorek	v j e . tSz oo . r e k
 wieczorek	v j e . tSz oo . r e k
 wieczór	v j ee . tSz u r
 wiedziała	v j e . dzi aa . w a
@@ -6341,42 +2994,24 @@ Wiejskie	v j ee j . s c j e
 wiejskiej	v j ee j . s c j e j
 wiekiem	v j ee . c j e m
 wieku	v j ee . k u
-wieku	v j ee . k u
-wieku	v j ee . k u
-wieku	v j ee . k u
-wiele	v j ee . l e
 wiele	v j ee . l e
 wielkiej	v j ee l . c j e j
 Wielkopolskie	v j e l . k o . p oo l . s c j e
 wielkości	v j e l . k oo si . tsi i
 wielotomowych	v j e . l o . t o . m oo . v y x
 wielu	v j ee . l u
-wielu	v j ee . l u
-wielu	v j ee . l u
 wiem	v j ee m
 Wierni	v j ee r . ni i
 wierz	v j ee rZ
-wierz	v j ee rZ
-wierz	v j ee Sz
 wierz	v j ee Sz
 Wietnamu	v j e . t n aa . m u
 wieść	v j ee si tsi
-wieść	v j ee si tsi
-wieść	v j ee zi dzi
 wieść	v j ee zi dzi
 wilkołaki	v i l . k o . w aa . c i
 Wizy	v ii . z y
 więc	v j ee n dz
-więc	v j ee n dz
-więc	v j ee n dz
-więc	v j ee n dz
-więc	v j ee n ts
-więc	v j ee n ts
-więc	v j ee n ts
 więc	v j ee n ts
 większość	v j ee N_ . k Sz o si tsi
-większość	v j ee N_ . k Sz o si tsi
-większość	v j ee N_ . k Sz o zi dzi
 większość	v j ee N_ . k Sz o zi dzi
 większą	v j ee N_ . k Sz o w_
 Więzień	v j ee j_ . zi e ni
@@ -6390,36 +3025,21 @@ wkładać	f k w aa . d a tsi
 wkładki	f k w aa . t c i
 Wlałam	v l aa . w a m
 wniosek	v ni oo . s e g
-wniosek	v ni oo . s e g
 wniosek	v ni oo . s e k
-wniosek	v ni oo . s e k
-wnęką	v n ee N_ . k o w_
-wnęką	v n ee N_ . k o w_
 wnęką	v n ee N_ . k o w_
 Wnętrze	v n ee n . t Sz e
 wobec	v oo . b e dz
-wobec	v oo . b e dz
-wobec	v oo . b e ts
 wobec	v oo . b e ts
 woda	v oo . d a
-woda	v oo . d a
-wody	v oo . d y
 wody	v oo . d y
 wodzie	v oo . dzi e
 wodą	v oo . d o w_
-wodą	v oo . d o w_
-wodą	v oo . d o w_
 wojennych	v o . j ee . n n y x
-województwa	v o . j e . v uu . ts t f a
 województwa	v o . j e . v uu . ts t f a
 wojnie	v oo j . ni e
 wojny	v oo j . n y
-wojny	v oo j . n y
-wojsk	v oo j s k
 wojsk	v oo j s k
 wojsk	v oo j z g
-wojsk	v oo j z g
-Wojsko	v oo j . s k o
 Wojsko	v oo j . s k o
 wojskowych	v o j . s k oo . v y x
 Wokalista	v o . k a . l ii s . t a
@@ -6432,46 +3052,27 @@ wolności	v o l . n oo si . tsi i
 wonie	v oo . ni e
 wołdze	v oo w . dz e
 wołową	v o . w oo . v o w_
-wołową	v o . w oo . v o w_
-Woź	v oo si
 Woź	v oo si
 Woź	v oo zi
-Woź	v oo zi
 Wpierw	f p j ee r f
-Wpierw	f p j ee r f
-wpierw	f p j ee r f
-wpierw	f p j ee r f
 Wpierw	f p j ee r v
-Wpierw	f p j ee r v
-wpierw	f p j ee r v
-wpierw	f p j ee r v
 wpiętymi	f p j e n . t yy . m i
 Wplątałam	f p l o n . t aa . w a m
-Wpnę	f p n ee
 Wpnę	f p n ee
 Wprawdzie	f p r aa v . dzi e
 wprawił	f p r aa . v i w
 wprost	f p r oo s t
-wprost	f p r oo s t
-wprost	f p r oo z d
 wprost	f p r oo z d
 wprowadzania	f p r o . v a . dz aa . ni a
 wprowadził	f p r o . v aa . dzi i w
 wpływa	f p w yy . v a
 wpływem	f p w yy . v e m
-wpływem	f p w yy . v e m
-wraz	v r aa s
 wraz	v r aa s
 wraz	v r aa z
-wraz	v r aa z
 wrażeńwięc	v r a rZ e ni v j e n dz
-wrażeńwięc	v r a rZ e ni v j e n dz
-wrażeńwięc	v r a rZ e ni v j e n ts
 wrażeńwięc	v r a rZ e ni v j e n ts
 wreszcie	v r ee Sz . tsi e
 Wrocławskiej	v r o . ts w aa f s . c j e j
-Wrocławskiej	v r o . ts w aa f s . c j e j
-wroga	v r oo . g a
 wroga	v r oo . g a
 wrzeszczeć	v rZ ee Sz . tSz e dzi
 wrzeszczeć	v rZ ee Sz . tSz e tsi
@@ -6479,8 +3080,6 @@ wrzącej	v rZ oo n . ts e j
 wróci	v r uu . tsi i
 wrócił	v r uu . tsi i w
 wręcz	v r ee n drZ
-wręcz	v r ee n drZ
-wręcz	v r ee n tSz
 wręcz	v r ee n tSz
 wschodem	f s x oo . d e m
 wschodniej	f s x oo . d ni e j
@@ -6489,20 +3088,12 @@ wskazała	f s k a . z aa . w a
 wskazuje	f s k a . z uu . j e
 wskazywał	f s k a . z yy . v a w
 wskroś	f s k r oo si
-wskroś	f s k r oo si
-wskroś	f s k r oo si
-wskroś	f s k r oo zi
-wskroś	f s k r oo zi
 wskroś	f s k r oo zi
 wskrzesi	f s k Sz ee . si i
 wsmarować	f s m a . r oo . v a dzi
-wsmarować	f s m a . r oo . v a dzi
-wsmarować	f s m a . r oo . v a tsi
 wsmarować	f s m a . r oo . v a tsi
 wsparciu	f s p aa r . tsi u
 wspinać	f s p ii . n a dzi
-wspinać	f s p ii . n a dzi
-wspinać	f s p ii . n a tsi
 wspinać	f s p ii . n a tsi
 wspiął	f s p j oo w
 wspomaganiem	f s p o . m a . g aa . ni e m
@@ -6510,14 +3101,9 @@ wspomnienie	f s p o m . ni ee . ni e
 wspólnie	f s p uu l . ni e
 Współbrzmienie	f s p u w . b rZ m j ee . ni e
 Współgospodarz	f s p u w . g o s . p oo . d a rZ
-Współgospodarz	f s p u w . g o s . p oo . d a rZ
-Współgospodarz	f s p u w . g o s . p oo . d a Sz
 Współgospodarz	f s p u w . g o s . p oo . d a Sz
 współkształtować	f s p u w . k Sz t a w . t oo . v a dzi
-współkształtować	f s p u w . k Sz t a w . t oo . v a dzi
 współkształtować	f s p u w . k Sz t a w . t oo . v a tsi
-współkształtować	f s p u w . k Sz t a w . t oo . v a tsi
-współsprawcą	f s p u w . s p r aa f . ts o w_
 współsprawcą	f s p u w . s p r aa f . ts o w_
 współśmierci	f s p u w . si m j ee r . tsi i
 wstawała	f s t a . v aa . w a
@@ -6525,30 +3111,18 @@ Wstałem	f s t aa . w e m
 wstrząsnęło	f s t Sz o w_ . s n ee . w o
 Wstrętny	f s t r ee n . t n y
 wstęp	f s t ee m b
-wstęp	f s t ee m b
-wstęp	f s t ee m p
 wstęp	f s t ee m p
 wszczęli	f Sz tSz ee . l i
 wszechstronnie	f Sz e x . s t r oo . ni ni e
 wszechświecie	f Sz e x . si f j ee . tsi e
 wszedł	f Sz ee d
-wszedł	f Sz ee d
-wszedł	f Sz ee t
 wszedł	f Sz ee t
 Wszedłszy	f Sz ee . t Sz y
 wszelkie	f Sz ee l . c j e
 wszem	f Sz ee m
 Wszyscy	f Sz yy s . ts y
 wszystkich	f Sz yy s . t c i x
-wszystkich	f Sz yy s . t c i x
-wszystkich	f Sz yy s . t c i x
 Wszystkie	f Sz yy s . t c j e
-Wszystkie	f Sz yy s . t c j e
-wszystkie	f Sz yy s . t c j e
-wszystkie	f Sz yy s . t c j e
-wszystkie	f Sz yy s . t c j e
-wszystkim	f Sz yy s . t c i m
-wszystkim	f Sz yy s . t c i m
 wszystkim	f Sz yy s . t c i m
 wszystkimi	f Sz y s . t c ii . m i
 wsłuchaną	f s w u . x aa . n o w_
@@ -6557,13 +3131,10 @@ wtrącał	f t r oo n . ts a w
 wtłoczyć	f t w oo . tSz y dzi
 wtłoczyć	f t w oo . tSz y tsi
 wujek	v uu . j e g
-wujek	v uu . j e g
-wujek	v uu . j e k
 wujek	v uu . j e k
 wybiera	v y . b j ee . r a
 wybieraliśmy	v y . b j e . r a . l ii si . m y
 wybierała	v y . b j e . r aa . w a
-wybitnie	v y . b ii . t ni e
 wybitnie	v y . b ii . t ni e
 wyborach	v y . b oo . r a x
 Wybrałem	v y . b r aa . w e m
@@ -6574,8 +3145,6 @@ Wychowawczyni	v y . x o . v a f . tSz yy . ni i
 wycieczkę	v y . tsi ee . tSz k e
 wyciekła	v y . tsi ee . k w a
 wyciągnąć	v y . tsi oo N_ . g n o ni dzi
-wyciągnąć	v y . tsi oo N_ . g n o ni dzi
-wyciągnąć	v y . tsi oo N_ . g n o ni tsi
 wyciągnąć	v y . tsi oo N_ . g n o ni tsi
 wyciąć	v yy . tsi o ni dzi
 wyciąć	v yy . tsi o ni tsi
@@ -6584,36 +3153,23 @@ wydanie	v y . d aa . ni e
 wydarzenia	v y . d a . rZ ee . ni a
 wydarzeniem	v y . d a . rZ ee . ni e m
 wydawca	v y . d aa f . ts a
-wydawca	v y . d aa f . ts a
-wydał	v yy . d a w
 wydał	v yy . d a w
 wydzielanym	v y . dzi e . l aa . n y m
 wygibasy	v y . gi i . b aa . s y
 wyglądają	v y . g l o n . d aa . j o w_
 Wyglądasz	v y . g l oo n . d a rZ
-Wyglądasz	v y . g l oo n . d a rZ
-Wyglądasz	v y . g l oo n . d a rZ
-Wyglądasz	v y . g l oo n . d a rZ
-Wyglądasz	v y . g l oo n . d a Sz
-Wyglądasz	v y . g l oo n . d a Sz
-Wyglądasz	v y . g l oo n . d a Sz
 Wyglądasz	v y . g l oo n . d a Sz
 wyglądać	v y . g l oo n . d a dzi
 wyglądać	v y . g l oo n . d a tsi
 wyglądał	v y . g l oo n . d a w
-wyglądał	v y . g l oo n . d a w
 wyglądało	v y . g l o n . d aa . w o
-wygrał	v yy . g r a w
 wygrał	v yy . g r a w
 wygrała	v y . g r aa . w a
 wygłasza	v y . g w aa . Sz a
 wyidealizowała	v y . i . d e . a . l i . z o . v aa . w a
 wyjazdu	v y . j aa z . d u
 wyjdą	v yy j . d o w_
-wyjdą	v yy j . d o w_
 wykazać	v y . k aa . z a dzi
-wykazać	v y . k aa . z a dzi
-wykazać	v y . k aa . z a tsi
 wykazać	v y . k aa . z a tsi
 Wykonaliśmy	v y . k o . n a . l ii si . m y
 wykonana	v y . k o . n aa . n a
@@ -6625,8 +3181,6 @@ wyniku	v y . ni ii . k u
 wynędzniała	v y . n e n . dz ni aa . w a
 wypadła	v y . p aa . d w a
 Wypowiedź	v y . p oo v . j e dzi
-Wypowiedź	v y . p oo v . j e dzi
-Wypowiedź	v y . p oo v . j e tsi
 Wypowiedź	v y . p oo v . j e tsi
 wyprowadzić	v y . p r o . v aa . dzi i dzi
 wyprowadzić	v y . p r o . v aa . dzi i tsi
@@ -6635,36 +3189,24 @@ wypłacić	v y . p w aa . tsi i tsi
 wypłacił	v y . p w aa . tsi i w
 wyrabia	v y . r aa . b j a
 Wyraz	v yy . r a s
-Wyraz	v yy . r a s
-Wyraz	v yy . r a z
 Wyraz	v yy . r a z
 wyraźnie	v y . r aa zi . ni e
 wyreżyserował	v y . r e . rZ y . s e . r oo . v a w
 wyroby	v y . r oo . b y
 wyrzuć	v yy . rZ u dzi
-wyrzuć	v yy . rZ u dzi
-wyrzuć	v yy . rZ u tsi
 wyrzuć	v yy . rZ u tsi
 wyróżniamy	v y . r u rZ . ni aa . m y
 wyschnięcia	v y . s x ni ee ni . tsi a
 wystawała	v y s . t a . v aa . w a
-wystawała	v y s . t a . v aa . w a
 wystąpiły	v y s . t o m . p ii . w y
 występ	v yy s . t e m b
-występ	v yy s . t e m b
-występ	v yy s . t e m p
 występ	v yy s . t e m p
 występkiem	v y s . t ee m p . c j e m
 występował	v y s . t e m . p oo . v a w
 występuje	v y s . t e m . p uu . j e
 występują	v y s . t e m . p uu . j o w_
-występują	v y s . t e m . p uu . j o w_
 wysunięcia	v y . s u . ni ee ni . tsi a
 wyszedł	v yy . Sz e d
-wyszedł	v yy . Sz e d
-wyszedł	v yy . Sz e d
-wyszedł	v yy . Sz e t
-wyszedł	v yy . Sz e t
 wyszedł	v yy . Sz e t
 Wyszłam	v yy . Sz w a m
 wytartych	v y . t aa r . t y x
@@ -6684,17 +3226,13 @@ Wzdrygnął	v z d r yy . g n o w
 wzdłuż	v z d w uu rZ
 wzdłuż	v z d w uu Sz
 względu	v z g l ee n . d u
-względu	v z g l ee n . d u
 względów	v z g l ee n . d u f
-względów	v z g l ee n . d u f
-względów	v z g l ee n . d u v
 względów	v z g l ee n . d u v
 wzięli	v zi ee . l i
 wzmianka	v z m j aa N_ . k a
 wzroku	v z r oo . k u
 Wzruszającą	v z r u . Sz a . j oo n . ts o w_
 wędliny	v e n . d l ii . n y
-władze	v w aa . dz e
 władze	v w aa . dz e
 własne	v w aa s . n e
 właściciel	v w a si . tsi ii . tsi e l
@@ -6705,361 +3243,19 @@ włodarze	v w o . d aa . rZ e
 włosach	v w oo . s a x
 włoskie	v w oo s . c j e
 włosy	v w oo . s y
-włosy	v w oo . s y
-włosy	v w oo . s y
-Włóż	v w uu rZ
 Włóż	v w uu rZ
 Włóż	v w uu Sz
-Włóż	v w uu Sz
-Włączyłam	v w o n . tSz yy . w a m
 Włączyłam	v w o n . tSz yy . w a m
 wścibskimi	f si tsi i . p s c ii . m i
 wścibską	f si tsi ii . p s k o w_
-wścibską	f si tsi ii . p s k o w_
 wślizgnęła	f si l i z . g n ee . w a
 Wśród	f si r uu d
-Wśród	f si r uu d
-wśród	f si r uu d
-wśród	f si r uu d
 Wśród	f si r uu t
-Wśród	f si r uu t
-wśród	f si r uu t
-wśród	f si r uu t
 xmmm	k s m m m
 XVII	k s v ii
-XVII	k s v ii
 Z	s
-Z	s
-Z	s
-Z	s
-Z	s
-Z	s
-Z	s
-Z	s
-Z	s
-Z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
-z	s
 Z	z
-Z	z
-Z	z
-Z	z
-Z	z
-Z	z
-Z	z
-Z	z
-Z	z
-Z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
-z	z
 Za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
-za	z a
 zaatakuje	z a . a . t a . k uu . j e
 zabawie	z a . b aa v . j e
 zabawy	z a . b aa . v y
@@ -7070,8 +3266,6 @@ zabrał	z aa . b r a w
 zabrzmiała	z a . b rZ m j aa . w a
 zachowuje	z a . x o . v uu . j e
 Zachowujesz	z a . x o . v uu . j e rZ
-Zachowujesz	z a . x o . v uu . j e rZ
-Zachowujesz	z a . x o . v uu . j e Sz
 Zachowujesz	z a . x o . v uu . j e Sz
 zachwytem	z a . x f yy . t e m
 Zacisnął	z a . tsi ii s . n o w
@@ -7079,14 +3273,10 @@ zacniej	z aa . ts ni e j
 zacytował	z a . ts y . t oo . v a w
 zacznie	z aa . tSz ni e
 Zaczną	z aa . tSz n o w_
-zaczną	z aa . tSz n o w_
-zaczął	z aa . tSz o w
 zaczął	z aa . tSz o w
 zadania	z a . d aa . ni a
 zadeklarowano	z a . d e . k l a . r o . v aa . n o
 zadowalając	z a . d o . v a . l aa . j o n dz
-zadowalając	z a . d o . v a . l aa . j o n dz
-zadowalając	z a . d o . v a . l aa . j o n ts
 zadowalając	z a . d o . v a . l aa . j o n ts
 zadrwił	z aa . d r v i w
 zaflegmienie	z a . f l e g . m j ee . ni e
@@ -7096,8 +3286,6 @@ Zagrzmiało	z a . g rZ m j aa . w o
 zahaczyli	z a . x a . tSz yy . l i
 zainteresowanie	z a . i n . t e . r e . s o . v aa . ni e
 zajdziesz	z aa j . dzi e rZ
-zajdziesz	z aa j . dzi e rZ
-zajdziesz	z aa j . dzi e Sz
 zajdziesz	z aa j . dzi e Sz
 zajmuje	z a j . m uu . j e
 zakazane	z a . k a . z aa . n e
@@ -7105,21 +3293,16 @@ zakonni	z a . k oo . ni ni i
 zakończenie	z a . k o ni . tSz ee . ni e
 zakupy	z a . k uu . p y
 zakupów	z a . k uu . p u f
-zakupów	z a . k uu . p u f
-zakupów	z a . k uu . p u v
 zakupów	z a . k uu . p u v
 zakątkach	z a . k oo n . t k a x
 zaleca	z a . l ee . ts a
 zaledwie	z a . l ee d . v j e
 zależności	z a . l e rZ . n oo si . tsi i
 zaliczana	z a . l i . tSz aa . n a
-zaliczana	z a . l i . tSz aa . n a
 zaliczeniem	z a . l i . tSz ee . ni e m
 zamarznięte	z a . m a r . z ni ee n . t e
 zamarzła	z a . m aa r . z w a
 zamiast	z aa m . j a s t
-zamiast	z aa m . j a s t
-zamiast	z aa m . j a z d
 zamiast	z aa m . j a z d
 zamieszkałymi	z a m . j e Sz . k a . w yy . m i
 zamknął	z aa m . k n o w
@@ -7133,8 +3316,6 @@ zamówiliśmy	z a . m u . v i . l ii si . m y
 Zanim	z aa . ni i m
 Zaolzia	z a . oo l . zi a
 Zaoszczędź	z a . oo Sz . tSz e ni dzi
-Zaoszczędź	z a . oo Sz . tSz e ni dzi
-Zaoszczędź	z a . oo Sz . tSz e ni tsi
 Zaoszczędź	z a . oo Sz . tSz e ni tsi
 zapachu	z a . p aa . x u
 zapada	z a . p aa . d a
@@ -7143,8 +3324,6 @@ zapalenia	z a . p a . l ee . ni a
 zaparkowanym	z a . p a r . k o . v aa . n y m
 zapisał	z a . p ii . s a w
 zapisz	z aa . p i rZ
-zapisz	z aa . p i rZ
-zapisz	z aa . p i Sz
 zapisz	z aa . p i Sz
 zapnij	z aa . p ni i j
 Zapomniałam	z a . p o m . ni aa . w a m
@@ -7152,40 +3331,18 @@ zapoznawczy	z a . p o z . n aa f . tSz y
 Zapraszam	z a . p r aa . Sz a m
 zaprosił	z a . p r oo . si i w
 zaprowadzić	z a . p r o . v aa . dzi i dzi
-zaprowadzić	z a . p r o . v aa . dzi i dzi
-zaprowadzić	z a . p r o . v aa . dzi i tsi
 zaprowadzić	z a . p r o . v aa . dzi i tsi
 zaraz	z aa . r a s
-zaraz	z aa . r a s
-zaraz	z aa . r a s
-zaraz	z aa . r a s
-zaraz	z aa . r a s
-zaraz	z aa . r a s
-zaraz	z aa . r a z
-zaraz	z aa . r a z
-zaraz	z aa . r a z
-zaraz	z aa . r a z
-zaraz	z aa . r a z
 zaraz	z aa . r a z
 zarodka	z a . r oo . t k a
 zarośla	z a . r oo . si l a
 zarzucają	z a . rZ u . ts aa . j o w_
 Zarząd	z aa . rZ o n d
-Zarząd	z aa . rZ o n d
-Zarząd	z aa . rZ o n t
 Zarząd	z aa . rZ o n t
 zasad	z aa . s a d
-zasad	z aa . s a d
-zasad	z aa . s a d
-zasad	z aa . s a d
-zasad	z aa . s a t
-zasad	z aa . s a t
-zasad	z aa . s a t
 zasad	z aa . s a t
 zasiał	z aa . si a w
 zasilacz	z a . si ii . l a drZ
-zasilacz	z a . si ii . l a drZ
-zasilacz	z a . si ii . l a tSz
 zasilacz	z a . si ii . l a tSz
 zastosowanie	z a s . t o . s o . v aa . ni e
 zastosować	z a s . t o . s oo . v a dzi
@@ -7200,37 +3357,15 @@ zauważyłem	z a . u . v a . rZ yy . w e m
 zawiodł	z aa v . j o d
 zawiodł	z aa v . j o t
 Zawodnik	z a . v oo . d ni i g
-Zawodnik	z a . v oo . d ni i g
-zawodnik	z a . v oo . d ni i g
-zawodnik	z a . v oo . d ni i g
 Zawodnik	z a . v oo . d ni i k
-Zawodnik	z a . v oo . d ni i k
-zawodnik	z a . v oo . d ni i k
-zawodnik	z a . v oo . d ni i k
 zawodnikiem	z a . v o . d ni ii . c j e m
 zawołała	z a . v o . w aa . w a
 zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zawsze	z aa . f Sz e
-zaznajomić	z a z . n a . j oo . m i dzi
 zaznajomić	z a z . n a . j oo . m i dzi
 zaznajomić	z a z . n a . j oo . m i tsi
-zaznajomić	z a z . n a . j oo . m i tsi
-załagodzą	z a . w a . g oo . dz o w_
-załagodzą	z a . w a . g oo . dz o w_
 załagodzą	z a . w a . g oo . dz o w_
 załatwieniu	z a . w a . t f j ee . ni u
 załogiW	z a . w oo . gi i f
-załogiW	z a . w oo . gi i f
-załogiW	z a . w oo . gi i v
 załogiW	z a . w oo . gi i v
 założeń	z a . w oo . rZ e ni
 założone	z a . w o . rZ oo . n e
@@ -7238,22 +3373,16 @@ założonych	z a . w o . rZ oo . n y x
 założyć	z a . w oo . rZ y dzi
 założyć	z a . w oo . rZ y tsi
 zaś	z aa si
-zaś	z aa si
-zaś	z aa zi
 zaś	z aa zi
 zażyciem	z a . rZ yy . tsi e m
 zbeształ	z b ee Sz . t a w
 zbierają	z b j e . r aa . j o w_
 zbiornik	z b j oo r . ni i g
-zbiornik	z b j oo r . ni i g
-zbiornik	z b j oo r . ni i k
 zbiornik	z b j oo r . ni i k
 zbioru	z b j oo . r u
 Zbiór	z b j uu r
-zbiór	z b j uu r
 zbliżającego	z b l i . rZ a . j o n . ts ee . g o
 zboża	z b oo . rZ a
-zbudowany	z b u . d o . v aa . n y
 zbudowany	z b u . d o . v aa . n y
 zbuntowali	z b u n . t o . v aa . l i
 zbzikowana	z b zi i . k o . v aa . n a
@@ -7266,36 +3395,17 @@ zdobędzie	z d o . b ee ni . dzi e
 zdolnościami	z d o l . n o si . tsi aa . m i
 zdrajca	z d r aa j . ts a
 zdrowia	z d r oo v . j a
-zdrowia	z d r oo v . j a
-zdrowia	z d r oo v . j a
 zdrowie	z d r oo v . j e
 Zdrętwiały	z d r e n . t f j aa . w y
 ZdsC	s s ts
-ZdsC	s s ts
-ZdsC	s z dz
 ZdsC	s z dz
 zdumiewało	z d u m . j e . v aa . w o
 Zdzisława	z dzi i . s w aa . v a
-Zdzisława	z dzi i . s w aa . v a
 Ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
-ze	z e
 zebrania	z e . b r aa . ni a
 ZefiryW	z e . f ii . r y f
-ZefiryW	z e . f ii . r y f
-ZefiryW	z e . f ii . r y v
 ZefiryW	z e . f ii . r y v
 zejść	z ee j si tsi
-zejść	z ee j si tsi
-zejść	z ee j zi dzi
 zejść	z ee j zi dzi
 zerwać	z ee r . v a dzi
 zerwać	z ee r . v a tsi
@@ -7304,8 +3414,6 @@ zespołu	z e s . p oo . w u
 Zespół	z ee s . p u w
 zeszycie	z e . Sz yy . tsi e
 zewnątrz	z ee v . n o n drZ
-zewnątrz	z ee v . n o n drZ
-zewnątrz	z ee v . n o n tSz
 zewnątrz	z ee v . n o n tSz
 zeznania	z e z . n aa . ni a
 zgody	z g oo . d y
@@ -7313,8 +3421,6 @@ zgromadzonych	z g r o . m a . dz oo . n y x
 zguby	z g uu . b y
 zgęstnieje	z g e w_ . s t ni ee . j e
 zidentyfikować	z i . d e n . t y . f i . k oo . v a dzi
-zidentyfikować	z i . d e n . t y . f i . k oo . v a dzi
-zidentyfikować	z i . d e n . t y . f i . k oo . v a tsi
 zidentyfikować	z i . d e n . t y . f i . k oo . v a tsi
 zielonej	zi e . l oo . n e j
 zielonkawą	zi e . l o N_ . k aa . v o w_
@@ -7325,28 +3431,20 @@ ziemniakam	zi e m . ni aa . k a m
 ziemniaki	zi e m . ni aa . c i
 Ziemskie	zi ee m . s c j e
 zimno	zi ii m . n o
-zimno	zi ii m . n o
-zimno	zi ii m . n o
 zimowy	zi i . m oo . v y
 zinterpretowaćDaniel	z i n t e r p r e t o v a dzi d a ni e l
 zięć	zi ee ni dzi
-zięć	zi ee ni dzi
-zięć	zi ee ni tsi
 zięć	zi ee ni tsi
 zjawisko	z j a . v ii s . k o
 zjechało	z j e . x aa . w o
 zjedzonej	z j e . dz oo . n e j
 zjesz	z j ee rZ
-zjesz	z j ee rZ
 zjesz	z j ee Sz
-zjesz	z j ee Sz
-zlecił	z l ee . tsi i w
 zlecił	z l ee . tsi i w
 zlewem	z l ee . v e m
 zmajstrować	z m a j . s t r oo . v a dzi
 zmajstrować	z m a j . s t r oo . v a tsi
 zmarszczki	z m aa r . Sz tSz c i
-zmarszczkę	z m aa r . Sz tSz k e
 zmarszczkę	z m aa r . Sz tSz k e
 Zmartwychwstanie	z m a r . t f y x . f s t aa . ni e
 Zmartwychwstaniu	z m a r . t f y x . f s t aa . ni u
@@ -7354,58 +3452,35 @@ zmarł	z m aa r
 zmarłego	z m a r . w ee . g o
 zmarłych	z m aa r . w y x
 zmian	z m j aa n
-zmian	z m j aa n
 zmianach	z m j aa . n a x
 zmieniają	z m j e . ni aa . j o w_
 znaczącym	z n a . tSz oo n . ts y m
 znajduje	z n a j . d uu . j e
 znajdujemy	z n a j . d u . j ee . m y
 znak	z n aa g
-znak	z n aa g
-znak	z n aa k
 znak	z n aa k
 znalazł	z n aa . l a s
-znalazł	z n aa . l a s
-znalazł	z n aa . l a z
 znalazł	z n aa . l a z
 Znalazłam	z n a . l aa . z w a m
 Znalazłeś	z n a . l aa . z w e si
-Znalazłeś	z n a . l aa . z w e si
-Znalazłeś	z n a . l aa . z w e zi
 Znalazłeś	z n a . l aa . z w e zi
 znaleziono	z n a . l e . zi oo . n o
 znaleźli	z n a . l ee . zi l i
 Znam	z n aa m
-znam	z n aa m
-znam	z n aa m
-znam	z n aa m
 znana	z n aa . n a
 znany	z n aa . n y
 zniechęcenie	z ni e . x e n . ts ee . ni e
 zniszczone	z ni i Sz . tSz oo . n e
 Znowu	z n oo . v u
-Znowu	z n oo . v u
-znowu	z n oo . v u
-znowu	z n oo . v u
-znowuż	z n oo . v u rZ
 znowuż	z n oo . v u rZ
 znowuż	z n oo . v u Sz
-znowuż	z n oo . v u Sz
-zobaczyć	z o . b aa . tSz y dzi
 zobaczyć	z o . b aa . tSz y dzi
 zobaczyć	z o . b aa . tSz y tsi
-zobaczyć	z o . b aa . tSz y tsi
-zobaczył	z o . b aa . tSz y w
 zobaczył	z o . b aa . tSz y w
 zombie	z oo m . b i
 zorganizowano	z o r . g a . ni i . z o . v aa . n o
 zorganizowanym	z o r . g a . ni i . z o . v aa . n y m
 zostanę	z o s . t aa . n e
-został	z oo s . t a w
-został	z oo s . t a w
-został	z oo s . t a w
-został	z oo s . t a w
-został	z oo s . t a w
 został	z oo s . t a w
 została	z o s . t aa . w a
 zostały	z o s . t aa . w y
@@ -7414,8 +3489,6 @@ Zośka	z oo si . k a
 zrezygnujemy	z r e . z y . g n u . j ee . m y
 zrobienie	z r o . b j ee . ni e
 zrobić	z r oo . b i dzi
-zrobić	z r oo . b i dzi
-zrobić	z r oo . b i tsi
 zrobić	z r oo . b i tsi
 zrobićMałgorzata	z r o . b i . tsi m a w . g o . rZ aa . t a
 zrobię	z r oo . b j e
@@ -7426,19 +3499,12 @@ zrzucenie	z rZ u . ts ee . ni e
 zuchwalstwie	z u . x f aa l . s t f j e
 zuchwalstwo	z u . x f aa l . s t f o
 zupy	z uu . p y
-zupy	z uu . p y
 zwiedzaliśmy	z v j e . dz a . l ii si . m y
 zwiedzaniem	z v j e . dz aa . ni e m
 zwierzę	z v j ee . rZ e
 zwiewnej	z v j ee v . n e j
 związany	z v j o w_ . z aa . n y
 związek	z v j oo w_ . z e g
-związek	z v j oo w_ . z e g
-związek	z v j oo w_ . z e g
-związek	z v j oo w_ . z e g
-związek	z v j oo w_ . z e k
-związek	z v j oo w_ . z e k
-związek	z v j oo w_ . z e k
 związek	z v j oo w_ . z e k
 zwrotnym	z v r oo . t n y m
 zwrócił	z v r uu . tsi i w
@@ -7459,7 +3525,6 @@ złotych	z w oo . t y x
 złożony	z w o . rZ oo . n y
 zżęty	z rZ ee n . t y
 Ćwiczę	tsi f ii . tSz e
-Ćwiczę	tsi f ii . tSz e
 Ćwierć	tsi f j ee r dzi
 Ćwierć	tsi f j ee r tsi
 ćma	tsi m aa
@@ -7470,15 +3535,11 @@ zżęty	z rZ ee n . t y
 Łaziskach	w a . zi ii s . k a x
 Łobza	w oo . b z a
 Łotysz	w oo . t y rZ
-Łotysz	w oo . t y rZ
-Łotysz	w oo . t y Sz
 Łotysz	w oo . t y Sz
 ładnych	w aa . d n y x
 łakomstwo	w a . k oo m . s t f o
 łan	w aa n
 łaskę	w aa s . k e
-łaskę	w aa s . k e
-ławki	w aa f . c i
 ławki	w aa f . c i
 łazęgę	w a . z ee N_ . g e
 łaźnia	w aa zi . ni a
@@ -7486,8 +3547,6 @@ zżęty	z rZ ee n . t y
 łomot	w oo . m o t
 łomżyńskim	w o m . rZ yy j_ . s c i m
 łuk	w uu g
-łuk	w uu g
-łuk	w uu k
 łuk	w uu k
 łunę	w uu . n e
 łysy	w yy . s y
@@ -7500,40 +3559,23 @@ zżęty	z rZ ee n . t y
 ścian	si tsi aa n
 ścianie	si tsi aa . ni e
 ślad	si l aa d
-ślad	si l aa d
-ślad	si l aa t
 ślad	si l aa t
 śledził	si l ee . dzi i w
 śmiechem	si m j ee . x e m
 śmietnik	si m j ee . t ni i g
-śmietnik	si m j ee . t ni i g
-śmietnik	si m j ee . t ni i k
 śmietnik	si m j ee . t ni i k
 śniegu	si ni ee . g u
 śpiewaków	si p j e . v aa . k u f
-śpiewaków	si p j e . v aa . k u f
-śpiewaków	si p j e . v aa . k u v
 śpiewaków	si p j e . v aa . k u v
 środek	si r oo . d e g
-środek	si r oo . d e g
-środek	si r oo . d e g
-środek	si r oo . d e g
-środek	si r oo . d e k
-środek	si r oo . d e k
-środek	si r oo . d e k
 środek	si r oo . d e k
 środowiska	si r o . d o . v ii s . k a
 świadczenia	si f j a . t tSz ee . ni a
-świadczenia	si f j a . t tSz ee . ni a
 świat	si f j aa d
-świat	si f j aa d
-świat	si f j aa t
 świat	si f j aa t
 świata	si f j aa . t a
 światowego	si f j a . t o . v ee . g o
 światowej	si f j a . t oo . v e j
-światła	si f j aa . t w a
-światła	si f j aa . t w a
 światła	si f j aa . t w a
 świecach	si f j ee . ts a x
 świeciło	si f j e . tsi ii . w o
@@ -7541,73 +3583,35 @@ zżęty	z rZ ee n . t y
 świetny	si f j ee . t n y
 świeża	si f j ee . rZ a
 święconą	si f j e n . ts oo . n o w_
-święconą	si f j e n . ts oo . n o w_
 świętą	si f j ee n . t o w_
-źdźbła	zi dzi b w aa
 źdźbła	zi dzi b w aa
 źródłem	zi r uu . d w e m
 Żeby	rZ ee . b y
 Żeglarskiej	rZ e . g l aa r . s c j e j
 żaden	rZ aa . d e n
 żadne	rZ aa . d n e
-żadne	rZ aa . d n e
-żadne	rZ aa . d n e
 żadnej	rZ aa . d n e j
-żadnych	rZ aa . d n y x
 żadnych	rZ aa . d n y x
 żal	rZ aa l
 żandarmsku	rZ a n . d aa r m . s k u
 żbikiem	rZ b ii . c j e m
 że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
-że	rZ e
 żebrakiem	rZ e . b r aa . c j e m
 żebrze	rZ ee . b rZ e
 żebyś	rZ ee . b y si
-żebyś	rZ ee . b y si
-żebyś	rZ ee . b y zi
 żebyś	rZ ee . b y zi
 żmii	rZ m ii . i
 żona	rZ oo . n a
 żonka	rZ oo N_ . k a
 żołnierz	rZ oo w . ni e rZ
-żołnierz	rZ oo w . ni e rZ
-żołnierz	rZ oo w . ni e Sz
 żołnierz	rZ oo w . ni e Sz
 żołnierza	rZ o w . ni ee . rZ a
 żołnierze	rZ o w . ni ee . rZ e
 życia	rZ yy . tsi a
-życia	rZ yy . tsi a
-życie	rZ yy . tsi e
-życie	rZ yy . tsi e
-życie	rZ yy . tsi e
 życie	rZ yy . tsi e
 życiu	rZ yy . tsi u
 życzymy	rZ y . tSz yy . m y
 życzę	rZ yy . tSz e
-życzę	rZ yy . tSz e
-żydowskiej	rZ y . d oo f s . c j e j
 żydowskiej	rZ y . d oo f s . c j e j
 żyje	rZ yy . j e
 żyją	rZ yy . j o w_
