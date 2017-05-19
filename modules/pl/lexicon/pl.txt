@@ -1423,7 +1423,6 @@ człowiek	tSz w oo v . j e g
 człowiek	tSz w oo v . j e k
 człowieka	tSz w o v . j ee . k a
 człowiekiem	tSz w o v . j ee . c j e m
-Cézanne	dz # z aa . n n e
 córek	ts uu . r e g
 córek	ts uu . r e k
 córke	ts uu r . k e
@@ -7981,7 +7980,6 @@ pieniężna	p j e . ni ee w_ . rZ n a
 Pieronek	p j e . r oo . n e g
 Pieronek	p j e . r oo . n e k
 Pierre	p j ee . r r e
-Pierre’a	p j ee . r r e # aa
 piersi	p j ee r . si i
 pierwsza	p j ee r . f Sz a
 Pierwsze	p j ee r . f Sz e
@@ -12013,7 +12011,6 @@ strategia	s t r a . t ee . gi j a
 strategie	s t r a . t ee . gi j e
 strategią	s t r a . t ee . gi j o w_
 strategię	s t r a . t ee . gi j e
-strategię«	s t r a . t ee . gi j e
 stratosfery	s t r a . t o . s f ee . r y
 straty	s t r aa . t y
 straż	s t r aa rZ
