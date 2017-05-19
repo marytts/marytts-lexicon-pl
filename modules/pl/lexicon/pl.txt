@@ -2529,6 +2529,7 @@ srebra	s r ee . b r a
 srebrem	s r ee . b r e m
 srebrnika	s r e . b r ni ii . k a
 srebrny	s r ee . b r n y
+Ssst	s s s t
 Stachurski	s t a . x uu r . s c i
 stadium	s t aa d . j u m
 stan	s t aa n
@@ -3354,8 +3355,7 @@ zatytułowaną	z a . t y . t u . w o . v aa . n o w_
 Zauważcie	z a . u . v aa Sz . tsi e
 zauważyła	z a . u . v a . rZ yy . w a
 zauważyłem	z a . u . v a . rZ yy . w e m
-zawiodł	z aa v . j o d
-zawiodł	z aa v . j o t
+zawiódł	z aa v . j u d w
 Zawodnik	z a . v oo . d ni i g
 Zawodnik	z a . v oo . d ni i k
 zawodnikiem	z a . v o . d ni ii . c j e m
