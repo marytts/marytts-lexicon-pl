@@ -2808,7 +2808,7 @@ generała	g e . n e . r aa . w a
 Generałowie	g e . n e . r a . w oo v . j e
 generowania	g e . n e . r o . v aa . ni a
 generują	g e . n e . r uu . j o w_
-genewską g e . n ee f . s k o w_
+genewską	g e . n ee f . s k o w_
 geneza	g e . n ee . z a
 geniusz	g ee . ni u rZ
 geniusz	g ee . ni u Sz
@@ -6244,7 +6244,7 @@ neurologiczne	n e w . r o . l o . gi ii . tSz n e
 neutralizować	n e . u . t r a . l i . z oo . v a dzi
 neutralizować	n e . u . t r a . l i . z oo . v a tsi
 New	ni j uu
-news ni j uu z
+news	ni j uu z
 ni	ni ii
 Niania	ni aa . ni a
 nic	ni ii dz
