@@ -2,47 +2,56 @@
             features="vheight vfront vrnd ctype cplace cvox">
     <silence ph="_"/>
 
-    <vowel ph="a" vheight="3" vfront="3" vrnd="-"/>
-    <vowel ph="e" vheight="2" vfront="1" vrnd="-"/>
-    <vowel ph="I" vheight="1" vfront="1" vrnd="-"/>
-    <vowel ph="i" vheight="1" vfront="1" vrnd="-"/>
-    <vowel ph="o" vheight="2" vfront="3" vrnd="+"/>
-    <vowel ph="u" vheight="1" vfront="3" vrnd="+"/>
+    <vowel ph="a" ipa="a" vheight="3" vfront="3" vrnd="-"/>
+    <vowel ph="e" ipa="ɛ" vheight="2" vfront="1" vrnd="-"/>
+    <vowel ph="i" ipa="i" vheight="1" vfront="1" vrnd="-"/>
+    <vowel ph="o" ipa="ɔ" vheight="2" vfront="3" vrnd="+"/>
+    <vowel ph="u" ipa="u" vheight="1" vfront="3" vrnd="+"/>
+    <vowel ph="y" ipa="ɨ" vheight="1" vfront="2" vrnd="-"/>
 
-    <consonant ph="p" ctype="s" cplace="l" cvox="-"/>
-    <consonant ph="b" ctype="s" cplace="l" cvox="+"/>
-    <consonant ph="t" ctype="s" cplace="a" cvox="-"/>
-    <consonant ph="d" ctype="s" cplace="a" cvox="+"/>
-    <consonant ph="k" ctype="s" cplace="v" cvox="-"/>
-    <consonant ph="g" ctype="s" cplace="v" cvox="+"/>
+    <vowel ph="aa" ipa="ˈa" vheight="3" vfront="3" vrnd="-"/>
+    <vowel ph="ee" ipa="ˈɛ" vheight="2" vfront="1" vrnd="-"/>
+    <vowel ph="ii" ipa="ˈi" vheight="1" vfront="1" vrnd="-"/>
+    <vowel ph="oo" ipa="ˈɔ" vheight="2" vfront="3" vrnd="+"/>
+    <vowel ph="uu" ipa="ˈu" vheight="1" vfront="3" vrnd="+"/>
+    <vowel ph="yy" ipa="ˈɨ" vheight="1" vfront="2" vrnd="-"/>
 
-    <consonant ph="ts" ctype="a" cplace="a" cvox="-"/>
-    <consonant ph="dz" ctype="a" cplace="a" cvox="+"/>
-    <consonant ph="tS" ctype="a" cplace="a" cvox="-"/>
-    <consonant ph="dZ" ctype="a" cplace="a" cvox="+"/>
-    <consonant ph="ts`" ctype="a" cplace="p" cvox="-"/>
-    <consonant ph="dz`" ctype="a" cplace="p" cvox="+"/>
+    <consonant ph="p" ipa="p" ctype="s" cplace="l" cvox="-"/>
+    <consonant ph="b" ipa="b" ctype="s" cplace="l" cvox="+"/>
+    <consonant ph="t" ipa="t" ctype="s" cplace="a" cvox="-"/>
+    <consonant ph="d" ipa="d" ctype="s" cplace="a" cvox="+"/>
+    <consonant ph="k" ipa="k" ctype="s" cplace="v" cvox="-"/>
+    <consonant ph="c" ipa="kʲ" ctype="s" cplace="v" cvox="-"/><!-- cpal="+" -->
+    <consonant ph="g" ipa="ɡ" ctype="s" cplace="v" cvox="+"/>
+    <consonant ph="gi" ipa="ɡʲ" ctype="s" cplace="v" cvox="+"/><!-- cpal="+" -->
 
-    <consonant ph="s" ctype="f" cplace="a" cvox="-"/>
-    <consonant ph="z" ctype="f" cplace="a" cvox="+"/>
-    <consonant ph="S" ctype="f" cplace="p" cvox="-"/>
-    <consonant ph="Z" ctype="f" cplace="p" cvox="+"/>
-    <consonant ph="s`" ctype="f" cplace="p" cvox="-"/>
-    <consonant ph="z`" ctype="f" cplace="p" cvox="+"/>
-    <consonant ph="f" ctype="f" cplace="b" cvox="-"/>
-    <consonant ph="v" ctype="f" cplace="b" cvox="+"/>
-    <consonant ph="x" ctype="f" cplace="g" cvox="-"/>
+    <consonant ph="ts" ipa="t͡s" ctype="a" cplace="a" cvox="-"/>
+    <consonant ph="dz" ipa="d͡z" ctype="a" cplace="a" cvox="+"/>
+    <consonant ph="tSz" ipa="t͡ʂ" ctype="a" cplace="a" cvox="-"/>
+    <consonant ph="drZ" ipa="d͡ʐ" ctype="a" cplace="a" cvox="+"/>
+    <consonant ph="tsi" ipa="t͡ɕ" ctype="a" cplace="p" cvox="-"/>
+    <consonant ph="dzi" ipa="d͡ʑ" ctype="a" cplace="p" cvox="+"/>
 
-    <consonant ph="w" ctype="l" cplace="l" cvox="+"/>
-    <consonant ph="w_" ctype="l" cplace="l" cvox="+"/>
-    <consonant ph="m" ctype="n" cplace="l" cvox="+"/>
-    <consonant ph="n" ctype="n" cplace="a" cvox="+"/>
-    <consonant ph="n`" ctype="n" cplace="a" cvox="+"/>
-    <consonant ph="N" ctype="n" cplace="v" cvox="+"/>
-    <consonant ph="l" ctype="l" cplace="p" cvox="+"/>
-    <consonant ph="r" ctype="r" cplace="a" cvox="+"/>
-    <consonant ph="j" ctype="l" cplace="p" cvox="+"/>
-    <consonant ph="j_" ctype="l" cplace="p" cvox="+"/>
+    <consonant ph="s" ipa="s" ctype="f" cplace="a" cvox="-"/>
+    <consonant ph="z" ipa="z" ctype="f" cplace="a" cvox="+"/>
+    <consonant ph="Sz" ipa="ʂ" ctype="f" cplace="p" cvox="-"/>
+    <consonant ph="rZ" ipa="ʐ" ctype="f" cplace="p" cvox="+"/>
+    <consonant ph="si" ipa="ɕ" ctype="f" cplace="p" cvox="-"/>
+    <consonant ph="zi" ipa="ʑ" ctype="f" cplace="p" cvox="+"/>
+    <consonant ph="f" ipa="f" ctype="f" cplace="b" cvox="-"/>
+    <consonant ph="v" ipa="v" ctype="f" cplace="b" cvox="+"/>
+    <consonant ph="x" ipa="x" ctype="f" cplace="v" cvox="-"/>
 
+    <consonant ph="m" ipa="m" ctype="n" cplace="l" cvox="+"/>
+    <consonant ph="n" ipa="n" ctype="n" cplace="a" cvox="+"/>
+    <consonant ph="ni" ipa="ɲ" ctype="n" cplace="p" cvox="+"/>
+    <consonant ph="N_" ipa="ŋ" ctype="n" cplace="v" cvox="+"/>
+
+    <consonant ph="w" ipa="w" ctype="l" cplace="l" cvox="+"/>
+    <consonant ph="w_" ipa="w̃" ctype="l" cplace="l" cvox="+"/>
+    <consonant ph="l" ipa="l" ctype="l" cplace="p" cvox="+"/>
+    <consonant ph="r" ipa="r" ctype="r" cplace="a" cvox="+"/>
+    <consonant ph="j" ipa="j" ctype="l" cplace="p" cvox="+"/>
+    <consonant ph="j_" ipa="j̃" ctype="l" cplace="p" cvox="+"/>
 
 </allophones>
