@@ -12,25 +12,7 @@ task processLexicon {
     inputs.files srcFile
     outputs.files destFile
     doLast {
-        def mapping = [
-                aa  : 'a',
-                c   : 'k',
-                dzi : 'dz`',
-                ee  : 'e',
-                gi  : 'g',
-                ii  : 'i',
-                'N_': 'N',
-                ni  : 'n`',
-                oo  : 'o',
-                rZ  : 'Z',
-                Sz  : 'S',
-                si  : 's`',
-                tsi : 'ts`',
-                uu  : 'u',
-                y   : 'I',
-                yy  : 'I',
-                zi  : 'z`'
-        ]
+        def mapping = [:]
         destFile.withWriter('UTF-8') { writer ->
             srcFile.eachLine('UTF-8') { line ->
                 def (word, phonemeStr) = line.split('\t', 2)
