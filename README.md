@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/marytts/marytts-lexicon-pl.svg?branch=master)](https://travis-ci.org/marytts/marytts-lexicon-pl)
+[![Build Status](https://travis-ci.com/marytts/marytts-lexicon-pl.svg?branch=master)](https://travis-ci.com/marytts/marytts-lexicon-pl)
 
 Polish lexicon for MaryTTS
 ===========================
