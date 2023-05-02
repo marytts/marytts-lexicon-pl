@@ -14,29 +14,29 @@ java {
     withJavadocJar()
 }
 
-task processLexicon {
+tasks.register('processLexicon') {
     def srcFile = file('modules/pl/lexicon/pl.txt')
-    ext.destFile = file("$buildDir/pl.txt")
-    inputs.files srcFile
-    outputs.files destFile
+    ext.destFile = objects.fileProperty()
+            .convention(layout.buildDirectory.file('pl.txt'))
+
+    inputs.file srcFile
+    outputs.file destFile
+
     doLast {
-        def mapping = [:]
-        destFile.withWriter('UTF-8') { writer ->
+        destFile.get().asFile.withWriter('UTF-8') { writer ->
             srcFile.eachLine('UTF-8') { line ->
                 def (word, phonemeStr) = line.split('\t', 2)
-                def phonemes = phonemeStr.split()
-                def mappedPhonemes = phonemes.collect {
-                    mapping[it] ?: it
-                }.join('').replaceAll(~/\./, '-')
-                writer.println "$word $mappedPhonemes"
+                def phonemes = phonemeStr
+                        .replaceAll(~/\s/, '')
+                        .replaceAll(~/\./, '-')
+                writer.println "$word $phonemes"
             }
         }
     }
 }
 
 compileLexicon {
-    dependsOn processLexicon
-    lexiconFile = processLexicon.destFile
+    lexiconFile.set processLexicon.destFile
 }
 
 publishing {
