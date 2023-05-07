@@ -1,47 +1,48 @@
 plugins {
-    id "de.dfki.mary.lexicon-compiler" version "0.1.0"
+    id 'de.dfki.mary.lexicon-compiler' version '0.3.0'
     id 'maven-publish'
 }
 
 group 'de.dfki.mary'
 version '0.1.0-SNAPSHOT'
 
-task processLexicon {
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(8)
+    }
+    withSourcesJar()
+    withJavadocJar()
+}
+
+tasks.register('processLexicon') {
     def srcFile = file('modules/pl/lexicon/pl.txt')
-    ext.destFile = file("$buildDir/pl.txt")
-    inputs.files srcFile
-    outputs.files destFile
+    ext.destFile = objects.fileProperty()
+            .convention(layout.buildDirectory.file('pl.txt'))
+
+    inputs.file srcFile
+    outputs.file destFile
+
     doLast {
-        def mapping = [:]
-        destFile.withWriter('UTF-8') { writer ->
+        destFile.get().asFile.withWriter('UTF-8') { writer ->
             srcFile.eachLine('UTF-8') { line ->
                 def (word, phonemeStr) = line.split('\t', 2)
-                def phonemes = phonemeStr.split()
-                def mappedPhonemes = phonemes.collect {
-                    mapping[it] ?: it
-                }.join('').replaceAll(~/\./, '-')
-                writer.println "$word $mappedPhonemes"
+                def phonemes = phonemeStr
+                        .replaceAll(~/\s/, '')
+                        .replaceAll(~/\./, '-')
+                writer.println "$word $phonemes"
             }
         }
     }
 }
 
 compileLexicon {
-    dependsOn processLexicon
-    lexiconFile = processLexicon.destFile
-}
-
-task sourceJar(type: Jar) {
-    from sourceSets.main.allJava
+    lexiconFile.set processLexicon.destFile
 }
 
 publishing {
     publications {
         mavenJava(MavenPublication) {
             from components.java
-            artifact sourceJar {
-                classifier 'sources'
-            }
         }
     }
     repositories {

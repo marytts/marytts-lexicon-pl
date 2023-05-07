@@ -1,9 +1,11 @@
-[![Build Status](https://travis-ci.com/marytts/marytts-lexicon-pl.svg?branch=master)](https://travis-ci.com/marytts/marytts-lexicon-pl)
-
 Polish lexicon for MaryTTS
 ===========================
+
+[![CI](https://github.com/marytts/marytts-lexicon-pl/actions/workflows/main.yml/badge.svg)](https://github.com/marytts/marytts-lexicon-pl/actions/workflows/main.yml)
 
 Building
 --------
 
-Run `./gradlew build`.
+Run
+
+    ./gradlew build
