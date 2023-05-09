@@ -1,8 +1,8 @@
 Polish lexicon for MaryTTS
 ==========================
 
-[Unreleased]
-------------
+[v0.1.0] - 2023-05-09
+---------------------
 
 Initial release
 
@@ -25,4 +25,4 @@ Initial release
 - Upgraded lexicon compiler plugin to v0.3.0
 - Migrated publishing from Bintray/OJO to OSSRH
 
-[Unreleased]: https://github.com/marytts/marytts-lexicon-pl/tree/master
+[v0.1.0]: https://github.com/marytts/marytts-lexicon-pl/releases/tag/v0.1.0
