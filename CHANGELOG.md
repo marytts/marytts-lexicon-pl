@@ -4,6 +4,10 @@ Polish lexicon for MaryTTS
 [Unreleased]
 ------------
 
+### Changed
+
+- Upgraded GitHub actions
+
 [v0.1.0] - 2023-05-09
 ---------------------
 
